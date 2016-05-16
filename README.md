@@ -1,11 +1,11 @@
 # Open Design Kit
 A toolkit for open design practices
 
-# Priciples
+# Principles
 to come
 
 # Key Documents
-to come 
+[Design Brief](https://docs.google.com/document/d/1VVnxsAXJ6ZdNwcGVtBU0kzBdBiTxxB-muxrU-UDUN3Y/edit?usp=sharing)
 
 # Status
 Jess started tinkering with the project concept a bit. The week of May 16 - Bocoup will be having a design sprint to build out a minimum loveable product. The sprint team includes Jess Klein, Pam Drouin, Sue Lockwood and Susan Robertson. 
