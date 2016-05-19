@@ -21,9 +21,15 @@ Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/m
 * To explore practical ways to get from design to development in a flow that works for both sides
 
 # How to Use the Kit
+### Bocoupers
 There is no set order of operations for getting started with the kit.  The idea is that once you find yourself in a jam, you can reference the kit to identify tools and practices to support you in getting from problem identification to solution.
 
 The kit also helps to bridge the gap between the work of design and the work of implementing a design, there are ideas and thoughts about how to do that and hopefully help the process go smoothly.
+
+### Everyone else
+This was built using the design principals documented with in it. Our target user were other bocoupers and so the documentation was written with specific personas in mind. It's our belief that Design kits are not generic. What works for one community/company might not suit another.
+
+We encourage you to fork this repo and use it to build a design kit that suits your needs. Interview your team members and create your own personas, so you know what needs your team has. Then modify, add and remove based on their needs and goals.
 
 
 # Accessible design, by and for everyone
