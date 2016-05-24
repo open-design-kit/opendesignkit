@@ -29,6 +29,10 @@ The kit also helps to bridge the gap between the work of design and the work of 
 # Accessible design, by and for everyone
 While these practices have been road tested for open source projects, they can be used by anyone, anywhere on any project. If that isn’t the case, go ahead a remix them! Design should be accessible and responsive to the unique needs of specific inquiries and problems.
 
+# Contributing to the wiki
+Please to do not modify the wiki directly.  Add and edit files inside the wiki folder and submit them as PRs.
+To push these edits to the wiki use the docs.sh bash script.  Run: `sh docs.sh`
+
 
 # Inspiration
 This exploration was inspired by many individuals and organizations. A few projects that do a great job at identifying design tools and practices are [Ideo's HCD Design Kit](http://www.designkit.org/), [18F's Methods](https://methods.18f.gov/) and [Gov.uk Design Principles](https://www.gov.uk/design-principles). The goal of this kit is not to replace these resources, but to live beside them.
