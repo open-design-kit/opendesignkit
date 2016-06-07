@@ -1,7 +1,12 @@
 /* Open Design Kit splash page style */
 
+/* Colors
+purple: #8D68A3;
+orange: #FF984F;
+*/
+
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-size: 100%;
 }
 
@@ -12,13 +17,36 @@ p {
 }
 
 .wrapper {
-    max-width: 1000px;
+    max-width: 600px;
     margin: 0 auto;
     padding: 50px 0;
 }
 
 .hed-a {
-    font-family: Helvetica, Arial, sans-serif;
+    color: #8D68A3;
     font-size: 2em;
+    font-weight: 600;
     margin: 0 0 20px 0;
+}
+
+.button-link {
+    background-color: #FF984F;
+    border-radius: .25em;
+    color: #fff;
+    display: inline-block;
+    margin: 2em auto;
+    padding: .5em 1em;
+    text-decoration: none;
+}
+
+.footer {
+    border-top: 1px solid #999;
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top: 1em;
+    text-align: center;
+}
+
+.footer-text {
+    font-size: .75em;
 }
