@@ -1,0 +1,1 @@
+exclude: [README.md, Gemfile, Gemfile.lock, CNAME, params.json]
