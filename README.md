@@ -1,15 +1,9 @@
 # Open Design Kit
 We aim to collaborate to provide a set of tools and practices for getting better design results in open source and beyond. The kit is compromised of tools and ideas for thinking through design with your open source project colleagues or in any situation you may find yourself where design would be helpful.
 
-# Principles
-to come
 
 # Key Documents
-- [Design Brief](https://docs.google.com/document/d/1VVnxsAXJ6ZdNwcGVtBU0kzBdBiTxxB-muxrU-UDUN3Y/edit?usp=sharing)
 - [Hypotheses](https://github.com/bocoup/opendesignkit/wiki/Hypotheses)
-
-# Status
-Jess started tinkering with the project concept a bit. The week of May 16 - Bocoup will be having a design sprint to build out a minimum loveable product. The sprint team includes [Jess Klein](https://github.com/iamjessklein), [Pam Drouin](https://github.com/pamela-drouin), [Sue Lockwood](https://github.com/deathbearbrown) and [Susan Robertson](https://github.com/susanjrobertson).
 
 # How to get involved
 Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md) for more information.
