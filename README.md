@@ -11,13 +11,7 @@
 
 # How to get involved
 Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md) for more information.
-
-# Why do we need *another* compilation of tools?
-* To support distributed project creation. 
-* To provide a framework for design thinking and conversations within open source development
-* To supply open source practitioners with tools to support their conceptual inquiries
-* To explore what makes open source design practices unique
-* To explore practical ways to get from design to development in a flow that works for both sides
+When contributing to the wiki: please to do not modify the wiki directly.  Add and edit markdown (.md) files inside the wiki folder and submit them as PRs. To push these edits to the wiki use the docs.sh bash script.  Run: `sh docs.sh`
 
 # How to Use the Kit
 There is no set order of operations for getting started with the kit.  The idea is that once you find yourself in a jam, you can reference the kit to identify tools and practices to support you in getting from problem identification to solution.
@@ -28,10 +22,14 @@ The kit also helps to bridge the gap between the work of design and the work of 
 # Accessible design, by and for everyone
 While these practices have been road tested for open source projects, they can be used by anyone, anywhere on any project. If that isn’t the case, go ahead a remix them! Design should be accessible and responsive to the unique needs of specific inquiries, problems and abilities.
 
-# Contributing to the wiki
-Please to do not modify the wiki directly.  Add and edit files inside the wiki folder and submit them as PRs.
-To push these edits to the wiki use the docs.sh bash script.  Run: `sh docs.sh`
-
 
 # Inspiration
 This exploration was inspired by many individuals and organizations. A few projects that do a great job at identifying design tools and practices are [Ideo's HCD Design Kit](http://www.designkit.org/), [18F's Methods](https://methods.18f.gov/) and [Gov.uk Design Principles](https://www.gov.uk/design-principles). The goal of this kit is not to replace these resources, but to live beside them.
+
+# Contributors
+Many designers have contributed in some form to the project - including:
+- Jess Klein
+- Susan Robertson
+- Sue Lockhart
+- Pam Drouin
+- Isaac Durazo
