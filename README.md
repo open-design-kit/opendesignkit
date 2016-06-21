@@ -2,7 +2,7 @@
 
 
 # Description
-[Bocoup](https://bocoup.com/)'s Design team maintains Open Design Kit as an open source tool. It is useful for anyone who is designing with people who are not co-located. The Kit includes activities from ideation to implementation and is meant to evolve with use. To share your feedback or add a method, open an issue or pull request on our Github repository.
+[Bocoup](https://bocoup.com/)'s Design team maintains Open Design Kit as an open source tool. It's design for collaborators who are not co-located. The Kit includes activities from ideation to implementation and is meant to evolve with use. To share your feedback or add a method, open an issue or pull request on our Github repository.
 
 
 # Key Documents
@@ -27,7 +27,7 @@ While these practices have been road tested for open source projects, they can b
 This exploration was inspired by many individuals and organizations. A few projects that do a great job at identifying design tools and practices are [Ideo's HCD Design Kit](http://www.designkit.org/), [18F's Methods](https://methods.18f.gov/) and [Gov.uk Design Principles](https://www.gov.uk/design-principles). The goal of this kit is not to replace these resources, but to live beside them.
 
 # Contributors
-Many designers have contributed in some form to the project - including:
+Many creative individuals have contributed in some form to the project - including:
 - Jess Klein
 - Susan Robertson
 - Sue Lockhart
