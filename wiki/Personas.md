@@ -14,7 +14,7 @@
 
 --
 
-**When to use it:**  These are archetypes based on interviews. Ideally they are used after interviews and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
+**When to use it:**  These are archetypes based on [interviews](https://github.com/bocoup/opendesignkit/wiki/Interviews). Ideally they are used after interviews and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
 
 
 --
@@ -22,24 +22,19 @@
 **How To:** Make a Persona  
 
 _Supplies:_
-- Paper Template
 - Notes from interviews
-- Paper (sticky notes ok)
-- Markers or Pen
+- Notetaking document such as[google docs](https://www.google.com/docs/about/) or [etherpad](http://etherpad.org/)
 - Markdown [template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md)
 - Persona graphic [template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-worksheet.png)
-- Slack channel
+-  [Slack](https://slack.com/)channel, [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel or some kind of text chat 
 
 
 _Set Up:_
 
-*If you are in the same room as design collaborators:*
-
--   Dedicate a room for the activity
-
-*If you are remote:*
-
--   Invite participants to join a Slack channel or some kind of text chat 
+-  This can be done asynchronously, by a voice call or a video call. Whenever possible, try to have a video conference call - with all participants showing their faces. This will allow everyone to feel as if they are in the same space and working on a project together. Sharing your face also provides participants a chance to read your body language and gives you tools and cues to read the room. 
+-  Invite participants to join a chat channel
+-   Have notetaking document open for collaborative editing - it might be useful to have the questions from the [markdown template](this markdown one](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md) pre-written into the document in fill - in - the - blank style 
+-   Link participants to the document via chat
 
 _Activity_ <br>
 
@@ -58,10 +53,15 @@ _Activity_ <br>
 
 4. **Scenario:** Craft a scenario in which that person would like to use your app,tool,service,product {insert your deliverable}. What would that user's motivations, goals and needs be? What are their pain points and challenges?
 
-5. **Add some personality**: Finesse the persona by including an image, name and quote that expresses the needs and goals of the user. *Tip:* Try using Creative Commons licensed images that you can find through Flickr. We highly recommend [these images](https://www.flickr.com/photos/wocintechchat/)
+If you have a large number of participants on your call, have everyone break out into small teams (this is when the chat channel comes in handy)for 20 minutes. After the time is up, regroup and do a 5 - 10 minute verbal shareout. This will allow everyone to literally get on the same page - and hopefully it will also provide some inspiration. If there's time, now would be a good time to get some initial feedback. 
 
-6. **Ask for feedback** Get feedback on your persona. A great way to frame feedback requests is to ask people what they ‘like’ about the persona, and what they ‘wish’ could be done differently or included. One way to test if your persona is actually working might be to have someone try to describe the app or experience for your persona. What would they come up with? 
-You might put your persona to use by making a Journey Map and realize that it's  not quite right. It's totally understandable - and to some degree expected - that you will have to iterate  on your personas quite a bit. Your iteration, feedback and testing will help you to validate any assumptions that you made with your personas. Remember to tweet @bocoup #opendesignkit
+5. **Add some personality**: Finesse the persona by including an image, name and quote that expresses the needs and goals of the user. This tends to take a bit of time - give it to particpants. Having fun with persona creation is one way to help them to better understand and gain empathy for users.  *Tip:* Try using Creative Commons licensed images that you can find through Flickr. We highly recommend [these images](https://www.flickr.com/photos/wocintechchat/)
+
+6. **Ask for feedback** Get feedback on personas. A great way to frame feedback requests is to ask people what they ‘like’ about the persona, and what they ‘wish’ could be done differently or included. This can be done in your chat channel, or in a document. This can also be achieved asynchronously by having an "I like" and "I wish" fill in the blank list at the bottom of your persona document. Ultimately, it's best to have a conversation about your decisions so that they are well informed.
+
+7. **Test it**  One way to test if your persona is actually working might be to have someone try to describe the app or experience for your persona. What do they come up with?  
+
+You might put your persona to use by making a [Journey Map](https://github.com/bocoup/opendesignkit/issues/46) and realize that it's  not quite right. It's totally understandable - and to some degree expected - that you will have to iterate  on your personas quite a bit. Your iteration, feedback and testing will help you to validate any assumptions that you made with your personas.
 
 
 ---
