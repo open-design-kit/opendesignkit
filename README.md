@@ -13,9 +13,10 @@
 Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md) for more information.
 
 # Why do we need *another* compilation of tools?
+* To support distributed project creation. 
 * To provide a framework for design thinking and conversations within open source development
 * To supply open source practitioners with tools to support their conceptual inquiries
-* To **explore** what makes open source design practices unique
+* To explore what makes open source design practices unique
 * To explore practical ways to get from design to development in a flow that works for both sides
 
 # How to Use the Kit
