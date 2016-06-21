@@ -4,6 +4,7 @@ We aim to collaborate to provide a set of tools and practices for getting better
 
 # Key Documents
 - [Hypotheses](https://github.com/bocoup/opendesignkit/wiki/Hypotheses)
+- [Project Brief](https://github.com/bocoup/opendesignkit/wiki/Open-Design-Kit:-Design-Brief)
 
 # How to get involved
 Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md) for more information.
