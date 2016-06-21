@@ -1,5 +1,8 @@
-# Open Design Kit
-We aim to collaborate to provide a set of tools and practices for getting better design results in open source and beyond. The kit is compromised of tools and ideas for thinking through design with your open source project colleagues or in any situation you may find yourself where design would be helpful.
+img width="328" alt="screen shot 2016-06-21 at 4 00 38 pm" src="https://cloud.githubusercontent.com/assets/535012/16244325/677c0bbe-37c9-11e6-8b73-9c8587dd5902.png">
+
+
+# Description
+[Bocoup](https://bocoup.com/)'s Design team maintains Open Design Kit as an open source tool. It is useful for anyone who is designing with people who are not co-located. The Kit includes activities from ideation to implementation and is meant to evolve with use. To share your feedback or add a method, open an issue or pull request on our Github repository.
 
 
 # Key Documents
