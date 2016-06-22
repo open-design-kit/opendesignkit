@@ -35,7 +35,7 @@ If you are adding a new method:
 - _Step 8:_ Now you are done with your submission. Stay alert! Someone who reviews your method, might suggest some changes before it's approved.
 
 
-An alternative method for the more technically inclined, is to push these edits to the wiki use the docs.sh bash script.  Run: `sh docs.sh
+An alternative method for the more technically inclined, is to push these edits to the wiki use the docs.sh bash script.  Run: `sh docs.sh `
 
 # How to Use the Kit
 There is no set order of operations for getting started with the kit.  The idea is that once you find yourself in a jam, you can reference the kit to identify tools and practices to support you in getting from problem identification to solution.
