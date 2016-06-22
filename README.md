@@ -25,7 +25,7 @@ So, why does the world need another compilation of tools? Here’s why:
 # How to get involved
 Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md) for more information.
 If you are adding a new method:
-- _Step 1:_ Submit an issue identifying the method that you would like to include??
+- _Step 1:_ Submit an issue identifying the method that you would like to include.
 - _Step 2:_ Go to the "wiki" folder in this repo - and find the "Method-Guide-Template.md" file - and open it.
 - _Step 3:_ Copy the template from the markdown file. (This can be done by clicking the Edit :pencil: and selecting all of the text and then "copying"it. Once this is done, close the markdown file - and make sure not to save any changes).
 - _Step 4:_ Now go back to the wiki folder and select the "Create new file" button. Now in the Edit file section, paste all of the text. Be sure to name the file with your method. It should look like: opendesignkit/wiki/[methodname].md 
