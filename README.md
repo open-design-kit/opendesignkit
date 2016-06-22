@@ -33,3 +33,10 @@ Many creative individuals have contributed in some form to the project - includi
 - Sue Lockhart
 - Pam Drouin
 - Isaac Durazo
+- Irene Ros
+- Yannick Assogba
+- Jim Vallandingham
+- Lorin Bond
+- Brian Brennan
+- Boaz Sender
+- Mat 'Wilto' Marquis
