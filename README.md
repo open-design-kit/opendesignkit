@@ -53,3 +53,5 @@ Many creative individuals have contributed in some form to the project - includi
 - Brian Brennan
 - Boaz Sender
 - Mat 'Wilto' Marquis
+- Ricardo Vazquez
+- Doug Belshaw
