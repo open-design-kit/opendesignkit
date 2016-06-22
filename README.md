@@ -1,17 +1,30 @@
 <img width="328" alt="screen shot 2016-06-21 at 4 00 38 pm" src="https://cloud.githubusercontent.com/assets/535012/16244325/677c0bbe-37c9-11e6-8b73-9c8587dd5902.png">
 
 
-# Description
-[Bocoup](https://bocoup.com/)'s Design team maintains Open Design Kit as an open source tool. It's design for collaborators who are not co-located. The Kit includes activities from ideation to implementation and is meant to evolve with use. To share your feedback or add a method, open an issue or pull request on our Github repository.
+# About
+[Bocoup](https://bocoup.com/)'s Design team maintains Open Design Kit as an open source tool. It's design for collaborators who are not co-located, with a variety of skill levels. No prior design experience is required for you to try out these methods, just an open mind. The Kit includes activities from ideation to implementation and is meant to evolve with use. To share your feedback or add a method, open an issue or pull request on our Github repository.
+
+Since 2009, Bocoup has been creating, championing, and continually improving open tools and workflows used around the world. We foster environments of inclusivity and individuality as we dedicate ourselves to solving global market challenges in the public sphere. We bring diverse experience and leadership to all of our projects so developers and users can accomplish more.
 
 
 # Key Documents
 - [Hypotheses](https://github.com/bocoup/opendesignkit/wiki/Hypotheses)
 - [Project Brief](https://github.com/bocoup/opendesignkit/wiki/Open-Design-Kit:-Design-Brief)
 
+
+# What's the big idea?
+Design literacy needs to be constantly developed and improved throughout the software and product development industry. Designers must constantly  level up their skillsets with lifelong learning. Engineers often need to learn how to collaborate and incorporate new practices into their workflow to successfully support the integration of design. Clients and stakeholders are repeatedly challenged by the fact that design is a verb, not a noun that is handed off, but a verb that needs constant attention. To address this, Bocoup is openly compiling a suite of learning materials, methods, and systems to help our staff, clients, colleagues, and community better understand how we design and when to roll up their sleeves and get in on the action. It is our hope that this exploration will be useful for other companies and individuals to incorporate into their practice. 
+
+So, why does the world need another compilation of tools? Here’s why:
+- To establish what it means to design in the open, with practical methods designed for distributed collaborators.
+- To provide a framework for design thinking and conversations within open source development.
+- To collect practical ways to interleave design and development in an open and transparent way that works for diverse stakeholders.
+- To share open educational resources to support design literacy
+
+
 # How to get involved
 Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md) for more information.
-When contributing to the wiki: please to do not modify the wiki directly.  Add and edit markdown (.md) files inside the wiki folder and submit them as PRs. To push these edits to the wiki use the docs.sh bash script.  Run: `sh docs.sh`
+When contributing to the wiki: please to do not modify the wiki directly.  Add and edit markdown (.md) files inside the wiki folder and submit them as PRs. To push these edits to the wiki use the docs.sh bash script.  Run: `sh docs.sh
 
 # How to Use the Kit
 There is no set order of operations for getting started with the kit.  The idea is that once you find yourself in a jam, you can reference the kit to identify tools and practices to support you in getting from problem identification to solution.
