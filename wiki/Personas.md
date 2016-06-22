@@ -33,14 +33,14 @@ _Set Up:_
 
 -  This can be done asynchronously, by a voice call or a video call. Whenever possible, try to have a video conference call - with all participants showing their faces. This will allow everyone to feel as if they are in the same space and working on a project together. Sharing your face also provides participants a chance to read your body language and gives you tools and cues to read the room. 
 -  Invite participants to join a chat channel
--   Have notetaking document open for collaborative editing - it might be useful to have the questions from the [markdown template](this markdown one](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md) pre-written into the document in fill - in - the - blank style 
+-   Have notetaking document open for collaborative editing - it might be useful to have the questions from [this markdown one](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md) pre-written into the document in fill - in - the - blank style 
 -   Link participants to the document via chat
 
 _Activity_ <br>
 
 1. **Overview:** A persona is a character who is respresentative of the needs, thoughts and goals of the target user.  Think of a persona as your typical or ideal user - who do you see using your app? It helps prevent you from generalizing all users into one bucket - thinking that everyone has the same needs and goals. It also prevents you from falling into the pattern of thinking that you are going to experience the application the same way that other users will.  Each person comes from a different background. Personas are designed to help you to empathize with individuals who might use the app, so think of them more as a bio that you might see on a dating website than a job description. 
 
-2. **Goal:** Using your interview notes, create 1 - 2 personas to represent your core users. Each should have a slightly different story and use case. 
+2. **Goal:** Personas are designed using data that you acquired through your interviews. Using your interview notes, create 1 - 2 personas to represent your core users. Each should have a slightly different story and use case. 
 
 3. **Vital Stats:** Start by writing down a description for each persona. While [this template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-worksheet.png) or [this markdown one](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md) might be a useful tool to help you, a persona should generally include:
   - Name
@@ -59,7 +59,9 @@ If you have a large number of participants on your call, have everyone break out
 
 6. **Ask for feedback** Get feedback on personas. A great way to frame feedback requests is to ask people what they ‘like’ about the persona, and what they ‘wish’ could be done differently or included. This can be done in your chat channel, or in a document. This can also be achieved asynchronously by having an "I like" and "I wish" fill in the blank list at the bottom of your persona document. Ultimately, it's best to have a conversation about your decisions so that they are well informed.
 
-7. **Test it**  One way to test if your persona is actually working might be to have someone try to describe the app or experience for your persona. What do they come up with?  
+7. **Refine** Take some time to alter the personas based on feedback. Sometime your group might come up with as many as eight different personas! Try to see if you can cluster similar personas so that you eliminate duplicates. If you are still finding yourself with one too many personas, take a vote. Either in the chat app or on the notetaking document - ask participants which persona should be the *core* user persona? In other words, who should you optimize your design for? *Tip:* Try using the Simple Poll app for Slack polls. It uses emojis to vote.  
+
+8. **Test**  One way to test if your persona is actually working might be to have someone try to describe the app or experience for your persona. What do they come up with?  
 
 You might put your persona to use by making a [Journey Map](https://github.com/bocoup/opendesignkit/issues/46) and realize that it's  not quite right. It's totally understandable - and to some degree expected - that you will have to iterate  on your personas quite a bit. Your iteration, feedback and testing will help you to validate any assumptions that you made with your personas.
 
