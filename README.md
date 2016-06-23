@@ -25,14 +25,14 @@ So, why does the world need another compilation of tools? Here’s why:
 # How to get involved
 Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md) for more information.
 If you are adding a new method:
-- _Step 1:_ Submit an issue identifying the method that you would like to include.
-- _Step 2:_ Go to the "wiki" folder in this repo - and find the "Method-Guide-Template.md" file - and open it.
-- _Step 3:_ Copy the template from the markdown file. (This can be done by clicking the Edit :pencil: and selecting all of the text and then "copying"it. Once this is done, close the markdown file - and make sure not to save any changes).
-- _Step 4:_ Now go back to the wiki folder and select the "Create new file" button. Now in the Edit file section, paste all of the text. Be sure to name the file with your method. It should look like: opendesignkit/wiki/[methodname].md 
-- _Step 5:_ Write your method. Please keep in mind the design values and the primary goal of our kit being for distributed teams.
-- _Step 6:_ Create a pull request. This can be done by scrolling to the bottom of the page where it says "commit new file". You should name the commit by including the method in the title. Then write a brief extended description. Finally, select the radio button titled "Create a new branch for this commit and start a pull request. Learn more about pull requests." Then select the "Commit new file" button.
-- _Step 7:_ Fill out the github issue for the pull request. If you know another contributor on the project, this would be a good place to mention them as well as the issue that you wrote about the method in _Step 1_
-- _Step 8:_ Now you are done with your submission. Stay alert! Someone who reviews your method, might suggest some changes before it's approved.
+- **Step 1:** Submit an issue identifying the method that you would like to include.
+- **Step 2:** Go to the "wiki" folder in this repo - and find the "Method-Guide-Template.md" file - and open it.
+- **Step 3:** Copy the template from the markdown file. (This can be done by clicking the Edit :pencil: and selecting all of the text and then "copying"it. Once this is done, close the markdown file - and make sure not to save any changes).
+- **Step 4:** Now go back to the wiki folder and select the "Create new file" button. Now in the Edit file section, paste all of the text. Be sure to name the file with your method. It should look like: opendesignkit/wiki/[methodname].md 
+- **Step 5:** Write your method. Please keep in mind the design values and the primary goal of our kit being for distributed teams.
+- **Step 6:** Create a pull request. This can be done by scrolling to the bottom of the page where it says "commit new file". You should name the commit by including the method in the title. Then write a brief extended description. Finally, select the radio button titled "Create a new branch for this commit and start a pull request. Learn more about pull requests." Then select the "Commit new file" button.
+- **Step 7:** Fill out the github issue for the pull request. If you know another contributor on the project, this would be a good place to mention them as well as the issue that you wrote about the method in _Step 1_
+- **Step 8:** Now you are done with your submission. Stay alert! Someone who reviews your method, might suggest some changes before it's approved.
 
 
 An alternative method for the more technically inclined, is to push these edits to the wiki use the docs.sh bash script.  Run: `sh docs.sh `
