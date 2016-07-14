@@ -37,7 +37,28 @@
 5. **Repeat**
 ---
 
+Instructor Notes
+----------------
+
+First, explain the task.  A statement will be made and the players will move around the room, or move their cards on trello to the agree or disagree side.
+Players in the middle of the room, or the "I don't know" column are unsure how to react to the statement. 
+
+Now explain that at any time, you can move and change your mind about a statment.
+
+After players make their initial movements, ask each to explain why they chose what they did. 
+Ask if a player thinks another player's choice seems right to them.
+Ask if anyone wants to challenge other's choices and compel them to change their mind. 
+
+**Icebreaker questions:**        
+- New York has the best pizza
+- Horror is the best movie genre.
+- Dogs are better than cats.
+- Bigfoot and Yetis are the same thing.
+- The Ewoks are the best part of the Star Wars Franchise. 
+
+
 **Examples:**
+![trello board layout for design-o-meter](/exercise-illustrations/design-o-meter-trello.png)
 
 ---
 **Learn More:**
