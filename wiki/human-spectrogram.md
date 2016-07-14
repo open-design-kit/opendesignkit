@@ -36,7 +36,7 @@
 
 * **Repeat**
 
-![[https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter.jpg]]
+![human spectrogram image](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter.jpg)
 
 ---
 
@@ -64,7 +64,7 @@ Ask if anyone wants to challenge other's choices and compel them to change their
 
 
 
-![trello spectrogram][https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter-trello.png]
+![trello spectrogram](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter-trello.png)
 
 ---
 **Learn More:**
