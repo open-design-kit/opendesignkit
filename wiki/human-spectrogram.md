@@ -40,8 +40,9 @@
 
 ---
 
-Instructor Notes
-----------------
+Facillitation Notes
+
+---
 
 First, explain the task.  A statement will be made and the participants will move around the room, or move their cards on trello to the agree or disagree side.
 
