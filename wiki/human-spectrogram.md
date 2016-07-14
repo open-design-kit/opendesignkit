@@ -40,7 +40,7 @@
 
 ---
 
-Facillitation Notes
+**Facillitation Notes**
 
 ---
 
