@@ -35,7 +35,9 @@
 * **Facilitate conversation** - when you say your statement you should have a pencil or pen in your hand. At this point participants should be spread out over the room. Walk over to a participant who is on one of the strongly agree/disagree sides and hand them "talking stick"(pencil in person - but remote should just call out the participant). Ask them to say why they are standing (placed) where they are. After they finish, ask who disagrees with them (on the other side of the room/board) - have that person explain why. When people talk you might expect some movement or change of peoples place in the room or the document. Note that movement and ask people what prompted them to move.
 
 * **Repeat**
-*
+
+![[https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter.jpg]]
+
 ---
 
 Instructor Notes
@@ -60,9 +62,9 @@ Ask if anyone wants to challenge other's choices and compel them to change their
 
 **Examples:**
 
-![trello board layout for design-o-meter](/exercise-illustrations/design-o-meter-trello.png)
 
-[[https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter-trello.png]]
-[[https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter.jpg]]
+
+![[https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter-trello.png]]
+
 ---
 **Learn More:**
