@@ -1,12 +1,9 @@
-Here's the template to copy + paste into a new page when adding an activity guide to our library. 
+
+**Method:** Visual Design Workshop
 
 ---
 
-**Activity:**
-
----
-
-**Description:**
+**Description:** A Visual Design Workshop 
 
 ---
 
