@@ -22,10 +22,19 @@
 
 **How To: [name of activity]**
 
-* **Step 1:**
-* **Step 2:**
-* **Step 3:**
+ 1. **Introduce participants to the space** - Explain that the room (or trello board) is a fluid, interactive space. It's like a thermometer or spectogram. Say that you will be making some intentionally controversial statements. On one side is where people should stand(put there name) if they strongly agree and the other is they strongly disagree. If they are feeling middle ground - stand in the middle of the room. 
 
+2. **Say intentional controversial statement** - Here are 3 prepared statements. You might only get through one - and that's totally fine. The goal is to get people to loosen up and start to feel comfortable talking about design. 
+
+    * I do design at Bocoup   
+    * I need to know how to design
+    * I understand what design is at Bocoup
+
+3. **Get movin!** Participants should move to the part of the room or board to express where they stand.
+
+4. **Facilitate conversation** - when you say your statement you should have a pencil or pen in your hand. At this point participants should be spread out over the room. Walk over to a participant who is on one of the strongly agree/disagree sides and hand them "talking stick"(pencil in person - but remote should just call out the participant). Ask them to say why they are standing (placed) where they are. After they finish, ask who disagrees with them (on the other side of the room/board) - have that person explain why. When people talk you might expect some movement or change of peoples place in the room or the document. Note that movement and ask people what prompted them to move. 
+
+5. **Repeat**
 ---
 
 **Examples:**
