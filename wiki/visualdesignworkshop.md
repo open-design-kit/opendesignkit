@@ -3,7 +3,7 @@
 
 ---
 
-**Description:** Theme an application with a collaborative visual design approach to get all key stakeholders involved in the process.
+**Description:** Collaborative on defining the visual design approach of a project to get all key stakeholders involved in the process.
 
 ---
 
