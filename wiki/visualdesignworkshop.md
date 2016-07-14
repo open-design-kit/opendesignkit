@@ -19,11 +19,14 @@
 
 ---
 
-**How To: [name of activity]**
+**How To run a visual design workshop:**
 
-* **Step 1:**
-* **Step 2:**
-* **Step 3:**
+* **Step 1:** Design - o - meter
+* **Step 2:** Experience attributes
+* **Step 3:** Clustering
+* **Step 4:** Moodboards
+* **Step 5:** Actionable Feedback
+* **Step 6:** Style Tiles
 
 ---
 
