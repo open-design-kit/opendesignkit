@@ -58,7 +58,8 @@ Ask if anyone wants to challenge other's choices and compel them to change their
 
 
 **Examples:**
-![trello board layout for design-o-meter](/exercise-illustrations/design-o-meter-trello.png)
+
+
 
 ---
 **Learn More:**
