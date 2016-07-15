@@ -12,7 +12,7 @@ cd "$wikiRepo"
 # Add files & commit
 git add * && git commit -m "Docs updated"
 # push changes to the wiki repo
-git push origin master
+git push -u origin master
 # move out of folder
 cd ../
 # remove the cloned repo
