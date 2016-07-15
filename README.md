@@ -38,7 +38,7 @@ If you are adding a new method:
 An alternative method for the more technically inclined, is to push these edits to the wiki use the docs.sh bash script.  Run: `sh docs.sh `
 
 # How to Use the Kit
-There is no set order of operations for getting started with the kit.  The idea is that once you find yourself in a jam, you can reference the kit to identify tools and practices to support you in getting from problem identification to solution, you can see the various tools on the [wiki](https://github.com/bocoup/opendesignkit/wiki).
+There is no set order of operations for getting started with the kit.  The idea is that once you find yourself in a jam, you can reference the kit to identify tools and practices to support you in getting from problem identification to solution, check out all the [methods](https://github.com/bocoup/opendesignkit/wiki/Method-Guides).
 
 The kit also helps to bridge the gap between the work of design and the work of implementing a design, there are ideas and thoughts about how to do that and hopefully help the process go smoothly. Design kits are not generic. What works for one community/company might not suit another. If the methods in here don't resonate with you that's totally ok, and better yet - submit ones that do!
 
