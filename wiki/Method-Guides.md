@@ -8,6 +8,7 @@ We are building a lot of different methods, hopefully they are helpful as you th
 * [Personas](https://github.com/bocoup/opendesignkit/wiki/Personas)
 * Style Tiles
 * [Interface Inventory](https://github.com/bocoup/opendesignkit/wiki/Interface-Inventory)
+* [Human Spectogram](https://github.com/bocoup/opendesignkit/wiki/human-spectrogram)
 * Principles & Patterns Workshop
 * Style Guide
 * Interviews
