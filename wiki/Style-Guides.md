@@ -28,9 +28,9 @@ After you've got some visual design done, possibly you've done [style tiles](htt
 **How To: Style Guide**
 
 * **Step 1:**  
-Take the visual designs and make an [inventory](tk) of all the elements, looking for repeated things, such as buttons, type sizing, and components or modules that you reuse.
+Take the visual designs and make an [inventory](https://github.com/bocoup/opendesignkit/wiki/Interface-Inventory) of all the elements, looking for repeated things, such as buttons, type sizing, and components or modules that you reuse.
 * **Step 2:**  
-Decide on how you want to create your guide. We favor creating a process that is custom to the team that is working on the project. This means that while there are a lot of ways to create systems, no two teams are probably going to do it exactly the same. Right now there is a lot of desire to copy the systems that are getting talked about a lot (Salesforce Lightning is one such) but that probably won’t work for most teams. You can use a tool or not, it's up to the team (see [styleguides.io](tk) for a lot more information).
+Decide on how you want to create your guide. We favor creating a process that is custom to the team that is working on the project. This means that while there are a lot of ways to create systems, no two teams are probably going to do it exactly the same. Right now there is a lot of desire to copy the systems that are getting talked about a lot (Salesforce Lightning is one such) but that probably won’t work for most teams. You can use a tool or not, it's up to the team (see [styleguides.io](http://styleguides.io) for a lot more information).
 * **Step 3:**  
 Come together as a team and discuss what you've found. Do you all agree that the elements are the repeatable ones? You may want to do something like [Charlotte Jackson's article](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) to make the inventory. If you are working remotely, possibly you could screenshot the designs and put them into a Board Thing and work on naming them together. This way you all move forward with the same vocabulary and the same ideas.
 * **Step 4:**  
