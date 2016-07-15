@@ -5,7 +5,7 @@ We are building a lot of different methods, hopefully they are helpful as you th
 
 ---
 * A/B Testing
-* [Card Sorting](https://github.com/bocoup/opendesignkit/wiki/card-sorting)
+* Card Sorting
 * Content Strategy Workshop
 * [Design Values](https://github.com/bocoup/opendesignkit/wiki/design-values)
 * [Experience Attributes](https://github.com/bocoup/opendesignkit/wiki/experience-attributes)

@@ -1,7 +1,5 @@
 
-**Method:**
-
-Design Values
+**Method:** Design Values
 
 ---
 
@@ -13,7 +11,7 @@ This method details how to facilitate a workshop for co-creating design values.
 
 **Why use or do it:**
 
-When designing products, design values help guide an organization or team make appropriate decisions, whether it's filtering opportunities, prioritizing features, or ultimately defining success. 
+When designing products, design values help guide an organization or team make appropriate decisions, whether it's filtering opportunities, prioritizing features, or ultimately defining success.
 
 ---
 
@@ -37,7 +35,7 @@ Use this at the beginning of a project when you need a "north star" to guide eve
 
 * **Step 3:** Decide with your participants when you would like to hold the workshop. Once a date is decided upon, make sure everyone has the link to the board you made and a way of communicationg audio-visually where people can screen-share (like Google Hangouts or Screenhero).
 
-* **Step 4:** Begin the workshop with an introduction. Explaining the purpose of the workshop, what design values are, and how it will help the particular project you need them for. 
+* **Step 4:** Begin the workshop with an introduction. Explaining the purpose of the workshop, what design values are, and how it will help the particular project you need them for.
 
 * **Step 5:** After the intro, explain that for every prompt you ask, participants will make as many items with words or phrases as they can think of, individually and silently. If using Boardthing, the items will look like stickies.
 
@@ -45,7 +43,7 @@ Use this at the beginning of a project when you need a "north star" to guide eve
 
 * **Step 7:** Once participants have come up with a good number of items, ask them to begin sorting them in groups that make sense to them.
 
-* **Step 8:** Once participants have settled on groups (and it's alright to have a few items that are ungrouped), ask them to give the groups names (these names will be come values). If groups have more than one name, open up the discussion by asking participants which one works better. 
+* **Step 8:** Once participants have settled on groups (and it's alright to have a few items that are ungrouped), ask them to give the groups names (these names will be come values). If groups have more than one name, open up the discussion by asking participants which one works better.
 
 * **Step 9:** If it's needed to prioritize the item groups in terms of importance, use dot voting. Assign participants a finite number of votes, such as 3 votes for the most important, 2 votes for the second most important, and 1 vote for the third important (voting works best if participants can't spend all their votes on one item or spread them out evenly).
 
@@ -69,4 +67,3 @@ Use this at the beginning of a project when you need a "north star" to guide eve
 https://uxthink.wordpress.com/2011/02/01/expereince-design-principles/
 http://www.justinmarxdesign.com/nordstrom-ux-principles
 http://www.designprinciplesftw.com
-
