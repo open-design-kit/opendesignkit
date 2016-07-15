@@ -3,7 +3,7 @@
 
 ---
 
-**Description:** Collaboratively generate descriptive words that will inform the mood boards and visual direction of the project. 
+**Description:** Collaboratively generate descriptive words to inform the mood boards and visual direction of the project. 
 
 
 ---
