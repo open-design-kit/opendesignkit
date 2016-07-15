@@ -4,31 +4,30 @@ We are building a lot of different methods, hopefully they are helpful as you th
 * [Method Guide Template](https://github.com/bocoup/opendesignkit/wiki/Method-Guide-Template)
 
 ---
-
-* [Personas](https://github.com/bocoup/opendesignkit/wiki/Personas)
-* [Style Tiles](https://github.com/bocoup/opendesignkit/wiki/Style-Tiles)
-* [Interface Inventory](https://github.com/bocoup/opendesignkit/wiki/Interface-Inventory)
-* [Human Spectogram](https://github.com/bocoup/opendesignkit/wiki/human-spectrogram)
-* [Visual Design Workshop](https://github.com/bocoup/opendesignkit/wiki/Visual-Design-Workshop)
-* [Journey Maps](https://github.com/bocoup/opendesignkit/wiki/Journey-Maps)
-* [Card Sorting](https://github.com/bocoup/opendesignkit/wiki/card-sorting)
-* [Design Values](https://github.com/bocoup/opendesignkit/wiki/design-values)
-* Principles & Patterns Workshop
-* Style Guide
-* Interviews
-* [Personas](https://github.com/bocoup/opendesignkit/wiki/Personas)
-* Wireframes
-* Moodboards
-* Visual Language Studies
-* UX Strategy Workshop
-* Content Strategy Workshop
-* Visual Language Workshop
-* Project Brief
-* Hypotheses
-* Mockups
-* Usability Testing
 * A/B Testing
-* Multivariate Testing
-* Site maps
+* [Card Sorting](https://github.com/bocoup/opendesignkit/wiki/card-sorting)
+* Content Strategy Workshop
+* [Design Values](https://github.com/bocoup/opendesignkit/wiki/design-values)
+* [Experience Attributes](https://github.com/bocoup/opendesignkit/wiki/experience-attributes)
+* [Human Spectogram](https://github.com/bocoup/opendesignkit/wiki/human-spectrogram)
+* Hypotheses
 * Information Architecture
+* [Interface Inventory](https://github.com/bocoup/opendesignkit/wiki/Interface-Inventory)
+* [Interviews](https://github.com/bocoup/opendesignkit/wiki/Interviews)
+* [Journey Maps](https://github.com/bocoup/opendesignkit/wiki/Journey-Maps)
 * Licensing
+* Mockups
+* Moodboards
+* Multivariate Testing
+* [Personas](https://github.com/bocoup/opendesignkit/wiki/Personas)
+* Principles & Patterns Workshop
+* Project Brief
+* Site maps
+* Style Guide
+* [Style Tiles](https://github.com/bocoup/opendesignkit/wiki/Style-Tiles)
+* Usability Testing
+* UX Strategy Workshop
+* [Visual Design Workshop](https://github.com/bocoup/opendesignkit/wiki/Visual-Design-Workshop)
+* Visual Language Studies
+* Wireframes
+* Visual Language Workshop

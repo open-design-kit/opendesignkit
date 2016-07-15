@@ -3,7 +3,7 @@
 
 ---
 
-**Description:** Collaboratively generate descriptive words to inform the mood boards and visual direction of the project. 
+**Description:** Collaboratively generate descriptive words to inform the mood boards and visual direction of the project.
 
 
 ---
@@ -23,7 +23,7 @@
 
 **How To Generate Experience Attributes**
 
-* Step 1: Place tons of different images on the wall in a matrix 
+* Step 1: Place tons of different images on the wall in a matrix
 * Step 2: Give participants 10 red dots and 10 green dots
 LOOK at personas, project brief
 * Step 3: Then give them 20 minutes to stand up, study the pictures, and put dots directly on the images. Green dots are for images that have some kind of positive association (in your mind) with the Product mission, red for negative. (Remind participants that there’s no right answer here. It’s the conversation that arises that’s important).
@@ -37,5 +37,3 @@ LOOK at personas, project brief
 
 ---
 **Learn More:**
-
-
