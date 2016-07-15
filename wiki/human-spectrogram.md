@@ -1,6 +1,6 @@
 
 
-**Method:** Human spectrogram
+**Method:** Human Spectrogram
 
 ---
 
