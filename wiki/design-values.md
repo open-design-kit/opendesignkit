@@ -29,7 +29,7 @@ Use this at the beginning of a project when you need a "north star" to guide eve
 
 **How To: Design Values**
 
-* **Step 1:** Choose online products that everyone can use remotely. [Boardthing.com](www.boardthing.com) is a great product that people can use synchronously for completeling workshop steps (adding items to an infinite canvas, moving items around, voting on them).
+* **Step 1:** Choose online products that everyone can use remotely. [Boardthing.com](http://boardthing.com/) is a great product that people can use synchronously for completeling workshop steps (adding items to an infinite canvas, moving items around, voting on them).
 
 * **Step 2:** Before the workshop date, stage your Boardthing with items like an Agenda and Prompts. A product like Boardthing offers the ability to collapse lists, which I prefer to do, because as a facilitator, I like to keep the focus of participants on one thing at a time.
 
