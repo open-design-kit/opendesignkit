@@ -1,4 +1,4 @@
-**Tool:**  Journey Maps
+**Method:**  Journey Maps
 
 --
 

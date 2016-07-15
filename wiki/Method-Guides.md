@@ -17,7 +17,6 @@ We are building a lot of different methods, hopefully they are helpful as you th
 * Style Guide
 * Interviews
 * [Personas](https://github.com/bocoup/opendesignkit/wiki/Personas)
-* Journey Maps
 * Wireframes
 * Moodboards
 * Visual Language Studies
