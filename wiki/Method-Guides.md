@@ -25,7 +25,7 @@ Note: we're still working on filling all of these out, so some of the methods do
 * Principles & Patterns Workshop
 * Project Brief
 * Site maps
-* Style Guide
+* [Style Guide](https://github.com/bocoup/opendesignkit/wiki/Style-Guides)
 * [Style Tiles](https://github.com/bocoup/opendesignkit/wiki/Style-Tiles)
 * Usability Testing
 * UX Strategy Workshop
