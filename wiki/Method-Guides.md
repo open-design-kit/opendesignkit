@@ -32,4 +32,3 @@ Note: we're still working on filling all of these out, so some of the methods do
 * [Visual Design Workshop](https://github.com/bocoup/opendesignkit/wiki/Visual-Design-Workshop)
 * Visual Language Studies
 * Wireframes
-* Visual Language Workshop
