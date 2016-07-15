@@ -22,11 +22,11 @@
 **How To run a visual design workshop:**
 
 * **Step 1:** [Human Spectrogram](https://github.com/bocoup/opendesignkit/blob/master/wiki/human-spectrogram.md)
-* **Step 2:** Experience attributes
+* **Step 2:** [Experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/experience-attributes.md)
 * **Step 3:** Clustering
 * **Step 4:** Moodboards
 * **Step 5:** Actionable Feedback
-* **Step 6:** Style Tiles
+* **Step 6:** [Style Tiles](https://github.com/bocoup/opendesignkit/blob/master/wiki/Style-Tiles.md)
 
 ---
 
