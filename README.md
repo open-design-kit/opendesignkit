@@ -8,7 +8,7 @@ Since 2009, Bocoup has been creating, championing, and continually improving ope
 
 
 # Key Documents
-- [Hypotheses](https://github.com/bocoup/opendesignkit/wiki/Hypotheses) Our believes about design that we are using the Open Design Kit to investigate
+- [Hypotheses](https://github.com/bocoup/opendesignkit/wiki/Hypotheses) Our beliefs about design that we are using the Open Design Kit to investigate
 - [Project Brief](https://github.com/bocoup/opendesignkit/wiki/Open-Design-Kit:-Design-Brief) The Open Design Kit's purpose and requirements.
 
 
