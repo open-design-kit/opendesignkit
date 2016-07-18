@@ -32,7 +32,8 @@
 * Step 3: As a group, review the project brief and personas (if there are any). Think about the users of the product or project. What do they like? What appeals to them?
 * Step 3: Give participants 20 minutes to stand up, study the pictures, and put dots directly on the images(or votes if you are using Board Thing). If you are co-located, Green dots are for images that have some kind of positive association (in your mind) with the Product mission, red for negative. If you are not co-located, break the vote into two 10 minute sessions - vote once for images that feel wrong and another time for those that feel right.  (Remind participants that there’s no right answer here. It’s the conversation that arises that’s important).
 
-![dot voting](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-2.png)
+
+<img src="https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-2.png" width="200"/>
 
 * Step 4: When all of the dots have been added, facilitate a conversation amongst the group about why they voted the way they did. Start with the ones that had a lot of reds, since people often find it very easy to talk about what’s undesirable. Move to the ones that had a lot of greens to solicit positive attributes.
 * Step 5: Capture the adjectives that they are using during this conversation on a spectrum using sticky notes.
