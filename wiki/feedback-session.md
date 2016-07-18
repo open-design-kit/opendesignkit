@@ -1,7 +1,7 @@
 
 ---
 
-**Method:** Feedback
+**Method:** Feedback Session
 
 ---
 
