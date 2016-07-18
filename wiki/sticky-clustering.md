@@ -35,6 +35,7 @@
 
 * **Step 4:** (optional) Vote on the names to synthesize even further. 
 
+![vote on ideas](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/clustering-4.png)
 ---
 
 **Examples:**
