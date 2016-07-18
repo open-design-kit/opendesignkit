@@ -24,6 +24,10 @@
 **How To Generate Experience Attributes**
 
 * Step 1: Place tons of different images on a board in a matrix. To do this remotely, use a tool such as [Board Thing](http://boardthing.com/)
+
+![experience attributes on Board Thing](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-1.png)
+
+
 * Step 2: Explain to participants that they are able to vote on 10 images - 5 that feel right and 5 that don't feel right.
 * Step 3: As a group, review the project brief and personas (if there are any). Think about the users of the product or project. What do they like? What appeals to them?
 * Step 3: Give participants 20 minutes to stand up, study the pictures, and put dots directly on the images(or votes if you are using Board Thing). Green dots are for images that have some kind of positive association (in your mind) with the Product mission, red for negative. (Remind participants that there’s no right answer here. It’s the conversation that arises that’s important).
