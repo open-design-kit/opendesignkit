@@ -48,4 +48,5 @@
 
 ---
 **Learn More:**
-The ODK method is based on the [Brand Experience Workshop](http://www.cooper.com/journal/2015/3/the-experience-workshop-a-cooper-primer) developed by Cooper
+
+* The Open Design Kit method is based on the [Brand Experience Workshop](http://www.cooper.com/journal/2015/3/the-experience-workshop-a-cooper-primer) developed by Cooper
