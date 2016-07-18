@@ -22,7 +22,9 @@
 **How To run a visual design workshop:**
 
 * **Step 1:** [Human Spectrogram](https://github.com/bocoup/opendesignkit/blob/master/wiki/human-spectrogram.md)
+![spectrogram](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter-trello.png)
 * **Step 2:** [Experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/experience-attributes.md)
+![describe experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-4.png)
 * **Step 3:** Clustering
 * **Step 4:** Moodboards
 * **Step 5:** Actionable Feedback
