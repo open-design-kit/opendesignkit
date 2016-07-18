@@ -1,8 +1,7 @@
-Here's the template to copy + paste into a new page when adding a method guide to our library. 
 
 ---
 
-**Method:**
+**Method:**  Sticky Clustering
 
 ---
 
