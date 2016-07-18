@@ -38,7 +38,11 @@
 
 * Step 4: When all of the dots have been added, facilitate a conversation amongst the group about why they voted the way they did. Start with the ones that had a lot of reds, since people often find it very easy to talk about what’s undesirable. Move to the ones that had a lot of greens to solicit positive attributes.
 
+![plot experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-3.png)
+
 * Step 5: Capture the adjectives that they are using during this conversation on a spectrum using sticky notes or digital stickies.
+
+![describe experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-4.png)
 
 
 
