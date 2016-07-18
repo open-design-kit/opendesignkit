@@ -25,7 +25,8 @@
 ![spectrogram](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter-trello.png)
 * **Step 2:** [Experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/experience-attributes.md)
 ![describe experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-4.png)
-* **Step 3:** Clustering
+* **Step 3:** [Clustering](https://github.com/bocoup/opendesignkit/blob/master/wiki/sticky-clustering.md)
+![cluster attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/clustering-3.png)
 * **Step 4:** Moodboards
 * **Step 5:** Actionable Feedback
 * **Step 6:** [Style Tiles](https://github.com/bocoup/opendesignkit/blob/master/wiki/Style-Tiles.md)
