@@ -27,6 +27,7 @@
 ![idea generation](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/clustering-1.png)
 
 * **Step 2:** Working in teams, drag and group like-minded ideas or words together. 
+![group like-minded ideas](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/clustering-2.png)
 
 * **Step 3:** Provide a new sticky for each group or cluster that you create.
 
