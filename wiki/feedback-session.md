@@ -29,6 +29,7 @@
 * **Step 4:** Presentations
 * **Step 5:** Guide and document the feedback
 * **Step 6:** Define next steps
+
 ---
 
 **Examples:**
