@@ -17,7 +17,7 @@
 
 ---
 
-**When to use it:** It's tricky thing to decide when to run a feedback session. In general, when working on a project, you should routinely be running feedback sessions.  
+**When to use it:** It's a tricky thing to decide when to run a feedback session. In general, when working on a project, you should routinely be running feedback sessions.  
 
 ---
 
