@@ -37,4 +37,4 @@ Save and share your collection with the stakeholders and pay attention to their 
 
 ---
 **Learn More:**
-[Mood Boards: Why and How To Create Them By Igor Ovsyannykov](https://creativemarket.com/blog/2015/07/03/mood-boards-why-and-how-to-create-them)
+* [Mood Boards: Why and How To Create Them By Igor Ovsyannykov](https://creativemarket.com/blog/2015/07/03/mood-boards-why-and-how-to-create-them)
