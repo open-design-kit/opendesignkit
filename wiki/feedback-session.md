@@ -29,12 +29,13 @@
 
 * **Step 3:** Inform all attendees how they can participate. At a feedback session, everyone needs to take on a role. Here are the different types of roles:
 
-- Presenter: shares work
-- Timer: keeps everyone on track
-- Feedback Provider: gives constructive feedback and criticism
+**Presenter:** shares work
+**Timer:** keeps everyone on track
+**Feedback Provider:** gives constructive feedback and criticism
 
 
 * **Step 4:** Guide and document feedback
+
 * Treat this call as a safe space - share respect for ideas. This is the place for questioning and creativity.
 
 * Prepare for the call, if you are sharing something, have a link or a document ready prior to the call and easily clickable for participants.
