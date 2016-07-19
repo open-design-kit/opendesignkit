@@ -39,9 +39,9 @@
 
 * **Step 5:** Give actionable feedback. Don't be shy about being critical. It is easy to be blown away by beautiful design or code, but in order for us to evolve our work, we need to hear what's not working. Have participants think about formulating their feedback as filling in the blank of one of the following statements:
 
-** I like _______________ .
+*I like _______________ .
 
-** I wish ______________ .
+*I wish ______________ .
 
 
 * **Step 5:** Define next steps in writing for every project. This will help presenters to take action after the call and will help you as the feedback session facillitator to set up the next feedback session because you will have a prepared agenda.
