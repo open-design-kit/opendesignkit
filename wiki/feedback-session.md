@@ -17,14 +17,16 @@
 
 ---
 
-**When to use it:** This is a tricky thing to decide. In general, when working on a project, you should routinely be running feedback sessions.  
+**When to use it:** It's tricky thing to decide when to run a feedback session. In general, when working on a project, you should routinely be running feedback sessions.  
 
 ---
 
 **How To Run a Feedback Session:**
 
-* **Step 1:** Schedule and announce your feedback session. 
-* **Step 2:** Share work in advance of scheduled meeting.
+* **Step 1:** Schedule and announce your feedback session in advance. A feedback or critique meeting can be mentally taxing - for all participants, so plan for it to take no longer than 90 minutes if anyone is not co-located. 
+
+* **Step 2:** Share work in advance of the scheduled meeting. Break down the schedule based on the total time that you have set aside for the session. Each presenter should prepare materials to share prior to the session. Limit the amount of presentations so that each presenter has enough time to both present and receive feedback.
+
 * **Step 3:** Inform all attendees how they can participate.
 * **Step 4:** Presentations
 * **Step 5:** Guide and document the feedback
