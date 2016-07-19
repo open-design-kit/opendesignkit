@@ -33,6 +33,7 @@ Save and/or share your collection with the stakeholders and pay attention to the
 
 **Examples:**
 * [CSS Conf](https://github.com/bocoup/opendesignkit/tree/master/wiki/images/moodboards)
+* [Pinterest](https://www.pinterest.com/search/pins/?q=moodboard&rs=typed&0=moodboard%7Ctyped)
 
 ---
 **Learn More:**
