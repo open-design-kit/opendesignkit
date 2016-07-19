@@ -29,9 +29,9 @@
 
 * **Step 3:** Inform all attendees how they can participate. At a feedback session, everyone needs to take on a role. Here are the different types of roles:
 
-**Presenter:** shares work
-**Timer:** keeps everyone on track
-**Feedback Provider:** gives constructive feedback and criticism
+1. **Presenter:** shares work
+2. **Timer:** keeps everyone on track
+3. **Feedback Provider:** gives constructive feedback and criticism
 
 
 * **Step 4:** Guide and document feedback
