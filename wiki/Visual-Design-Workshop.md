@@ -30,12 +30,3 @@
 * **Step 4:** [Moodboards](https://github.com/bocoup/opendesignkit/blob/master/wiki/Moodboards.md)
 * **Step 5:** [Actionable Feedback](https://github.com/bocoup/opendesignkit/blob/master/wiki/feedback-session.md)
 * **Step 6:** [Style Tiles](https://github.com/bocoup/opendesignkit/blob/master/wiki/Style-Tiles.md)
-
----
-
-**Examples:**
-
----
-**Learn More:**
-
-
