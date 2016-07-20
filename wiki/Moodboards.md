@@ -23,7 +23,7 @@
 * **Step 1:**  
 Using the words gathered from the [Experience Attributes](https://github.com/bocoup/opendesignkit/wiki/experience-attributes) and [Clustering activities](https://github.com/bocoup/opendesignkit/wiki/sticky-clustering), start searching for images.
 * **Step 2:**  
-Place the images in a document and organize them in a way that makes sense for you. As an alternative to using an image editing software, you can use an [inVision board](http://blog.invisionapp.com/boards-share-design-inspiration-assets/)or even [Pinterest](https://www.pinterest.com/)
+Place the images in a document and organize them in a way that makes sense for you. As an alternative to using an image editing software, you can use an [inVision board](http://blog.invisionapp.com/boards-share-design-inspiration-assets/) or even [Pinterest](https://www.pinterest.com/)
 ![collect images](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/moodboards/cssconf-moodboard-example-1.jpg)
 * **Step 3:**  
 You can also incorporate the words you used in order to reference the images.
