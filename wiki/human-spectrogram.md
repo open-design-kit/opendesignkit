@@ -22,7 +22,7 @@
 
 **How To make a human spectrogram**
 
-* **Introduce participants to the space** - Explain that the room (or trello board) is a fluid, interactive space. It's like a thermometer or spectogram. Say that you will be making some intentionally controversial statements. On one side is where people should stand(put their name) if they strongly agree and the other is they strongly disagree. If they are feeling middle ground - stand in the middle of the room.
+* **Introduce participants to the space** - Explain that the room (or trello board) is a fluid, interactive space. It's like a thermometer or spectogram. Say that you will be making some intentionally controversial statements. On one side is where people should stand (put their name) if they strongly agree and the other is they strongly disagree. If they are feeling middle ground - stand in the middle of the room.
 
 * **Say intentional controversial statement** - Here are 3 prepared statements. You might only get through one - and that's totally fine. The goal is to get people to loosen up and start to feel comfortable talking about design.
 
