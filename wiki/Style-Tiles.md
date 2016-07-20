@@ -22,7 +22,7 @@ Style tiles are for when a moodboard is too vague and a comp is too literal. Sty
 
 ---
 
-**How To: [name of activity]**
+**How To Make Style Tiles**
 
 * **Step 1:**  
 Listen to get a sense of what the client or stakeholder is looking for in terms of their product, project or deliverable. This can be done via [interviews](https://github.com/bocoup/opendesignkit/wiki/Interviews) or a video conference call specifically set up for this discussion. While wireframes aren’t necessary to create a tile, they can help inform what elements to incorporate. At this stage, you are trying to determine what user interface components will be crucial to your design.
