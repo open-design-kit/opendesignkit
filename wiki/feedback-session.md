@@ -47,10 +47,6 @@
 * **Step 5:** Define next steps in writing for every project. This will help presenters to take action after the call and will help you as the feedback session facillitator to set up the next feedback session because you will have a prepared agenda.
 
 ---
-
-**Examples:**
-
----
 **Learn More:**
 
 * [Actionable Feedback](https://jess.makes.org/thimble/MTEzMjMzMTI2NA==/actionable-feedback)
