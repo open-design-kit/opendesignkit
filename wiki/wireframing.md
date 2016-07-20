@@ -29,10 +29,12 @@ That said, many designers begin work on wireframes after the development of [per
 
 ---
 
-**How To: [name of activity]**
+**How To Wireframe:**
 
-* **Step 1:**
-* **Step 2:**
+* **Step 1:** Using any prior sketches as a reference, begin to plot out the core screens for your flow with an image editing program or by sketching on paper.  What information needs to go on each screen? What's the hierarchy of information? What are some different layout options?  Whatever tool you use, make sure that you can somehow share your work with any potential collaborators digitally. If you have paper sketches, scan or take a photo of them and include them in any of your documentation (in github, invision, jira etc.) 
+
+* **Step 2:** 
+
 * **Step 3:**
 
 ---
