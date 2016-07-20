@@ -34,7 +34,8 @@ Save and share your collection with the stakeholders and pay attention to their 
 ---
 
 **Examples:**
-* [CSS Conf](https://github.com/bocoup/opendesignkit/tree/master/wiki/images/moodboards)
+![moodboards example](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/moodboards/moodboard-example.jpeg)
+
 * [Pinterest](https://www.pinterest.com/search/pins/?q=moodboard%20design&rs=guide&0=design%7Cguide%7Cword%7C0&add_refine=design%7Cguide%7Cword%7C0)
 
 ---
