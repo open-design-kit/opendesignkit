@@ -11,20 +11,21 @@ Note: we're still working on filling all of these out, so some of the methods do
 * Content Strategy Workshop
 * [Design Values](https://github.com/bocoup/opendesignkit/wiki/design-values)
 * [Experience Attributes](https://github.com/bocoup/opendesignkit/wiki/experience-attributes)
+* [Feedback Session](https://github.com/bocoup/opendesignkit/wiki/feedback-session)
 * [Human Spectogram](https://github.com/bocoup/opendesignkit/wiki/human-spectrogram)
-* Hypotheses
 * Information Architecture
 * [Interface Inventory](https://github.com/bocoup/opendesignkit/wiki/Interface-Inventory)
 * [Interviews](https://github.com/bocoup/opendesignkit/wiki/Interviews)
 * [Journey Maps](https://github.com/bocoup/opendesignkit/wiki/Journey-Maps)
 * Licensing
 * Mockups
-* Moodboards
+* [Moodboards](https://github.com/bocoup/opendesignkit/wiki/Moodboards)
 * Multivariate Testing
 * [Personas](https://github.com/bocoup/opendesignkit/wiki/Personas)
 * Principles & Patterns Workshop
 * Project Brief
 * Site maps
+* [Sticky Clustering](https://github.com/bocoup/opendesignkit/wiki/sticky-clustering)
 * [Style Guide](https://github.com/bocoup/opendesignkit/wiki/Style-Guides)
 * [Style Tiles](https://github.com/bocoup/opendesignkit/wiki/Style-Tiles)
 * Usability Testing
