@@ -49,6 +49,7 @@
 ---
 
 **Examples:**
+![describe experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/experience-attributes.jpeg)
 
 ---
 **Learn More:**
