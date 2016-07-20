@@ -12,7 +12,7 @@ Note: we're still working on filling all of these out, so some of the methods do
 * [Design Values](https://github.com/bocoup/opendesignkit/wiki/design-values)
 * [Experience Attributes](https://github.com/bocoup/opendesignkit/wiki/experience-attributes)
 * [Feedback Session](https://github.com/bocoup/opendesignkit/wiki/feedback-session)
-* [Human Spectogram](https://github.com/bocoup/opendesignkit/wiki/human-spectrogram)
+* [Human Spectrogram](https://github.com/bocoup/opendesignkit/wiki/human-spectrogram)
 * Information Architecture
 * [Interface Inventory](https://github.com/bocoup/opendesignkit/wiki/Interface-Inventory)
 * [Interviews](https://github.com/bocoup/opendesignkit/wiki/Interviews)
