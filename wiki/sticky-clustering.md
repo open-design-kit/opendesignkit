@@ -39,6 +39,7 @@
 ---
 
 **Examples:**
+![vote on ideas](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/clustering-5.jpg)
 
 ---
 **Learn More:**
