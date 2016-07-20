@@ -1,10 +1,16 @@
 * { box-sizing: border-box; moz-box-sizing: border-box; }
+html {
+    height: 100%;
+}
 
 body {
-  font-family: Roboto, sans-serif;
-  font-weight: 100;
-  color: white;
-  margin: 0;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    margin: 0;
+    min-height: 100%;
 }
 
 img {
@@ -33,9 +39,9 @@ p a:hover {
 }
 
 .wrapper {
-  padding: 2em 1em;
-  max-width: 920px;
   margin: auto;
+  max-width: 920px;
+  padding: 2em 1em;
 }
 
 @media (min-width: 30em) {
@@ -60,38 +66,38 @@ p a:hover {
 /*--------------*/
 
 header {
-  color: white;
-  text-align: center;
-  background: #393466 url('/img/pattern-header.svg') bottom left ;
-  background-size: 1264px;
+    background: #393466 url('/img/pattern-header.svg') bottom left ;
+    background-size: 1264px;
+    color: white;
+    text-align: center;
 }
 
 .logo {
   font-size: 3.5em;
-  text-transform: uppercase;
   font-weight: 300;
   margin-bottom: .5em;
+  text-transform: uppercase;
 }
 
 header h1 {
-  margin-bottom: 1em;
-  font-size: 1.5em;
+    font-size: 1.5em;
+    margin-bottom: 1em;
 }
 
 @media (min-width: 32em) {
   header h1 {
-    margin-bottom: 1.5em;
-    font-size: 2em;
+      font-size: 2em;
+      margin-bottom: 1.5em;
   }
 }
 
 .gh-button {
-  font-size: 1.3em;
-  font-weight: 400;
-  background: white;
-  border-radius: 3px;
-  padding: .5em;
-  display: inline-block;
+    background: white;
+    border-radius: 3px;
+    display: inline-block;
+    font-size: 1.3em;
+    font-weight: 400;
+    padding: .5em;
 }
 
 a.gh-button {
@@ -103,9 +109,9 @@ a.gh-button:hover {
 }
 
 .gh-button img {
-  width: 32px;
-  vertical-align: top;
-  margin: -3px .5em 0 0;
+    margin: -3px .5em 0 0;
+    vertical-align: top;
+    width: 32px;
 }
 
 .bar-open {
@@ -113,22 +119,22 @@ a.gh-button:hover {
 }
 
 .open {
-  position: relative;
-  z-index: 1;
-  font-weight: 600;
-  letter-spacing: 2px;
-  bottom: 5px;
+    bottom: 5px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    position: relative;
+    z-index: 1;
 }
 
 .bar {
-  position: absolute;
-  width: 102%;
-  height: .9em;
-  background: #e6008c;
-  left: -.15em;
-  z-index: 0;
-  margin: auto;
-  bottom: .06em;
+    background: #e6008c;
+    bottom: .06em;
+    height: .9em;
+    left: -.15em;
+    margin: auto;
+    position: absolute;
+    width: 102%;
+    z-index: 0;
 }
 
 
@@ -172,4 +178,14 @@ footer p {
     margin: .5em 2em 0 0;
   }
 
+ }
+
+ /*----------------------------*/
+ /*--- Sticky footer stuff ---*/
+ /*----------------------------*/
+
+ header {
+     -webkit-flex: 1 0 auto;
+     -ms-flex: 1 0 auto;
+     flex: 1 0 auto;
  }
