@@ -13,7 +13,7 @@
 
 ---
 
-**Who’s involved:** Try to get as many stakeholders and product team members in the room. Having a feedback session for just the "design team" can be effective for technique based decisions, but the goal is to gather a set of diverse voices to inform your work. Engineers can be effective feedback participants because it gives them a chance to think about the problem space well before implementation begins. 
+**Who’s involved:** Try to get as many stakeholders and product team members in the room. Having a feedback session for just the "design team" can be effective for technique based decisions, but the goal is to gather a set of diverse voices to inform your work. Engineers can be effective feedback participants because it gives them a chance to think about the problem space well before implementation begins.
 
 ---
 
@@ -27,8 +27,8 @@
 
 * **Step 2:** Share work in advance of the scheduled meeting. Break down the schedule based on the total time that you have set aside for the session. Each presenter should prepare materials to share prior to the session. Presenters should come with a question to the call. The most constructive feedback is in response to a specific inquiry, rather than a vague "so what do you think?" Limit the amount of presentations so that each presenter has enough time to both present and receive feedback.
 
-* **Step 3:** Inform all attendees how they can participate. At a feedback session, everyone needs to take on a role. Here are the different types of roles:
-
+* **Step 3:** Inform all attendees how they can participate. At a feedback session, everyone needs to take on a role. Here are the different types of roles:  
+  
 1. **Presenter:** shares work
 2. **Timer:** keeps everyone on track
 3. **Feedback Provider:** gives constructive feedback and criticism
@@ -50,6 +50,3 @@
 **Learn More:**
 
 * [Actionable Feedback](https://jess.makes.org/thimble/MTEzMjMzMTI2NA==/actionable-feedback)
-
-
-
