@@ -27,19 +27,17 @@
 
 * **Step 2:** Share work in advance of the scheduled meeting. Break down the schedule based on the total time that you have set aside for the session. Each presenter should prepare materials to share prior to the session. Presenters should come with a question to the call. The most constructive feedback is in response to a specific inquiry, rather than a vague "so what do you think?" Limit the amount of presentations so that each presenter has enough time to both present and receive feedback.
 
-* **Step 3:** Inform all attendees how they can participate. At a feedback session, everyone needs to take on a role. Here are the different types of roles:
-1. **Presenter:** shares work
-2. **Timer:** keeps everyone on track
-3. **Feedback Provider:** gives constructive feedback and criticism
+* **Step 3:** Inform all attendees how they can participate. At a feedback session, everyone needs to take on a role. Here are the different types of roles:  
+    - **Presenter:** shares work
+    - **Timer:** keeps everyone on track
+    - **Feedback Provider:** gives constructive feedback and criticism
 
 * **Step 4:** Guide and document feedback by asking participants to treat this call as a safe space and to share respect for ideas. This is the place for questioning and creativity. Provide the group with a google doc or etherpad for an agenda with times and asynchronous note taking. Everyone on the call shares the responsibility of notetaking.
 
 
 * **Step 5:** Give actionable feedback. Don't be shy about being critical. It is easy to be blown away by beautiful design or code, but in order for us to evolve our work, we need to hear what's not working. Have participants think about formulating their feedback as filling in the blank of one of the following statements:
-
-* I like _______________ .
-
-* I wish ______________ .
+    * I like _______________ .
+    * I wish ______________ .
 
 
 * **Step 5:** Define next steps in writing for every project. This will help presenters to take action after the call and will help you as the feedback session facillitator to set up the next feedback session because you will have a prepared agenda.
