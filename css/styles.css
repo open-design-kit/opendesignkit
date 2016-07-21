@@ -129,6 +129,7 @@ a.gh-button:hover {
 .bar {
     background: #e6008c;
     bottom: .06em;
+    display: block;
     height: .9em;
     left: -.15em;
     margin: auto;
