@@ -11,7 +11,7 @@ An inventory of all the various visual elements being used in a design, bringing
 ---
 
 **Why use or do it:**  
-It brings consistency to both the visual design and the will aid in making a style guide or pattern library.
+It brings consistency to both the visual design and will aid in making a style guide or pattern library.
 Who’s involved: Designers, front end developers, project managers, engineers, any other relevant stakeholders, and anyone who wants to be.
 
 ---
