@@ -1,0 +1,192 @@
+* { box-sizing: border-box; moz-box-sizing: border-box; }
+html {
+    height: 100%;
+}
+
+body {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    margin: 0;
+    min-height: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1, h2 {
+  font-weight: 300;
+  margin-top: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+p a {
+  color: #4A90E2;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.wrapper {
+  margin: auto;
+  max-width: 920px;
+  padding: 2em 1em;
+}
+
+@media (min-width: 30em) {
+
+  p {
+    font-size: 1.2em;
+  }
+
+  .wrapper {
+    padding: 4em;
+  }
+}
+
+@media (min-width: 50em) {
+  .wrapper {
+    padding: 6em 4em;
+  }
+}
+
+/*--------------*/
+/*--- Header ---*/
+/*--------------*/
+
+header {
+    background: #393466 url('/img/pattern-header.svg') bottom left ;
+    background-size: 1264px;
+    color: white;
+    text-align: center;
+}
+
+.logo {
+  font-size: 3.5em;
+  font-weight: 300;
+  margin-bottom: .5em;
+  text-transform: uppercase;
+}
+
+header h1 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+@media (min-width: 32em) {
+  header h1 {
+      font-size: 2em;
+      margin-bottom: 1.5em;
+  }
+}
+
+.gh-button {
+    background: white;
+    border-radius: 3px;
+    display: inline-block;
+    font-size: 1.3em;
+    font-weight: 400;
+    padding: .5em;
+}
+
+a.gh-button {
+  color: #393466;
+}
+
+a.gh-button:hover {
+  background: #e3e3e3;
+}
+
+.gh-button img {
+    margin: -3px .5em 0 0;
+    vertical-align: top;
+    width: 32px;
+}
+
+.bar-open {
+  position: relative;
+}
+
+.open {
+    bottom: 5px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    position: relative;
+    z-index: 1;
+}
+
+.bar {
+    background: #e6008c;
+    bottom: .06em;
+    display: block;
+    height: .9em;
+    left: -.15em;
+    margin: auto;
+    position: absolute;
+    width: 102%;
+    z-index: 0;
+}
+
+
+
+/*---------------*/
+/*--- Content ---*/
+/*---------------*/
+
+#content {
+  background: #444073 url('/img/pattern-content.svg') bottom left ;
+  background-size: 1264px;
+}
+
+
+/*--------------*/
+/*--- Footer ---*/
+/*--------------*/
+
+footer {
+  color: #4f4f4f;
+  border: solid transparent;
+  border-width: 0 0 10px 0;
+  -webkit-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
+  -moz-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
+  -o-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
+  border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
+}
+
+footer p {
+  font-size: 1em;
+}
+
+@media (min-width: 52em) {
+
+  footer .wrapper {
+    padding: 3em 4em;
+  }
+
+  .bocoup-logo {
+    float: left;
+    margin: .5em 2em 0 0;
+  }
+
+ }
+
+ /*----------------------------*/
+ /*--- Sticky footer stuff ---*/
+ /*----------------------------*/
+
+ header {
+     -webkit-flex: 1 0 auto;
+     -ms-flex: 1 0 auto;
+     flex: 1 0 auto;
+ }
