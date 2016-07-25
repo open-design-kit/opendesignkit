@@ -38,22 +38,22 @@ title: Experience Attributes
 * Step 3: Give participants 20 minutes to stand up, study the pictures, and put dots directly on the images(or votes if you are using Board Thing). If you are co-located, Green dots are for images that have some kind of positive association (in your mind) with the Product mission, red for negative. If you are not co-located, break the vote into two 10 minute sessions - vote once for images that feel wrong and another time for those that feel right.  (Remind participants that there’s no right answer here. It’s the conversation that arises that’s important).
 
 
-<img src="https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-2.png" width="200"/>
+<img src="/img/methods/ea-2.png" width="200"/>
 
 * Step 4: When all of the dots have been added, facilitate a conversation amongst the group about why they voted the way they did. Start with the ones that had a lot of reds, since people often find it very easy to talk about what’s undesirable. Move to the ones that had a lot of greens to solicit positive attributes.
 
-![plot experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-3.png)
+![plot experience attributes](/img/methods/ea-3.png)
 
 * Step 5: Capture the adjectives that they are using during this conversation on a spectrum using sticky notes or digital stickies.
 
-![describe experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-4.png)
+![describe experience attributes](/img/methods/ea-4.png)
 
 
 
 ---
 
 **Examples:**
-![describe experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/experience-attributes.jpeg)
+![describe experience attributes](/img/methods/experience-attributes.jpeg)
 
 ---
 **Learn More:**

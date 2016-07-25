@@ -43,7 +43,7 @@ Use the tile as a reference to develop out high fidelity mockups and your style 
 ---
 
 **Examples:**  
-![human spectrogram image](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/style-tiles/cssconf-style-tile.jpg)
+![human spectrogram image](/img/methods/style-tiles/cssconf-style-tile.jpg)
 * [Open Style Tiles - Abby Larner](https://github.com/abbylarner/open-tiles)
 
 ---

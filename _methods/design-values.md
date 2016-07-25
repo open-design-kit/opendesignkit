@@ -59,10 +59,10 @@ Use this at the beginning of a project when you need a "north star" to guide eve
 
 **Examples:**
 
-![design values words with Board Thing](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/dv1.png)
-![design values words and dot voting with Board Thing](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/dv2.png)
-![design values words and clustering with Board Thing](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/dv3.png)
-![design values words refined with Board Thing](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/dv4.png)
+![design values words with Board Thing](/img/methods/dv1.png)
+![design values words and dot voting with Board Thing](/img/methods/dv2.png)
+![design values words and clustering with Board Thing](/img/methods/dv3.png)
+![design values words refined with Board Thing](/img/methods/dv4.png)
 
 ---
 

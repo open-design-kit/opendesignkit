@@ -26,22 +26,22 @@ title: Sticky Clustering
 **How To do Sticky Clustering**
 
 * **Step 1:** Generate a plethora of stickies around your idea using an online brainstorming tool such as [BoardThing](http://boardthing.com). For a more thorough explanation of this, check out [experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/experience-attributes.md)
-![idea generation](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/clustering-1.png)
+![idea generation](/img/methods/clustering-1.png)
 
 * **Step 2:** Working in teams, drag and group like-minded ideas or words together.
-![group like-minded ideas](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/clustering-2.png)
+![group like-minded ideas](/img/methods/clustering-2.png)
 
 * **Step 3:** Provide a new sticky for each group or cluster that you create. Name the sticky for the cluster.
 
-![group and name clusters](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/clustering-3.png)
+![group and name clusters](/img/methods/clustering-3.png)
 
 * **Step 4:** (optional) Vote on the names to synthesize even further.
 
-![vote on ideas](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/clustering-4.png)
+![vote on ideas](/img/methods/clustering-4.png)
 ---
 
 **Examples:**
-![vote on ideas](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/clustering-5.jpg)
+![vote on ideas](/img/methods/clustering-5.jpg)
 
 ---
 **Learn More:**
