@@ -72,7 +72,7 @@ Some people might find it helpful to use the worksheet here - as a note taking g
 
 **Examples:**
 * [The Lyra Project - by Bocoup](https://github.com/vega/lyra/search?q=persona&type=Issues&utf8=%E2%9C%93)
-* [Open Design Kit -by Bocoup](https://github.com/bocoup/opendesignkit/issues/7)
+* [Open Design Kit - by Bocoup](https://github.com/bocoup/opendesignkit/issues/7)
 
 ---
 

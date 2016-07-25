@@ -23,14 +23,14 @@ Designers and Front End Developers
 ---
 
 **When to use it:**  
-After you've got some visual design done, possibly you've done [style tiles](https://github.com/bocoup/opendesignkit/wiki/Style-Tiles) and you are moving on to some mockups. It's helpful to have the guide be one of the first things you do after visual design is starting to formulate and feel good.
+After you've got some visual design done, possibly you've done [style tiles](/methods/style-tiles/) and you are moving on to some mockups. It's helpful to have the guide be one of the first things you do after visual design is starting to formulate and feel good.
 
 ---
 
 **How To: Style Guide**
 
 * **Step 1:**  
-Take the visual designs and make an [inventory](https://github.com/bocoup/opendesignkit/wiki/Interface-Inventory) of all the elements, looking for repeated things, such as buttons, type sizing, and components or modules that you reuse.
+Take the visual designs and make an [inventory](/methods/interface-inventory/) of all the elements, looking for repeated things, such as buttons, type sizing, and components or modules that you reuse.
 * **Step 2:**  
 Decide on how you want to create your guide. We favor creating a process that is custom to the team that is working on the project. This means that while there are a lot of ways to create systems, no two teams are probably going to do it exactly the same. Right now there is a lot of desire to copy the systems that are getting talked about a lot (Salesforce Lightning is one such) but that probably won’t work for most teams. You can use a tool or not, it's up to the team (see [styleguides.io](http://styleguides.io) for a lot more information).
 * **Step 3:**  

@@ -68,6 +68,6 @@ Use this at the beginning of a project when you need a "north star" to guide eve
 
 **Learn More:**
 
-https://uxthink.wordpress.com/2011/02/01/expereince-design-principles/
-http://www.justinmarxdesign.com/nordstrom-ux-principles
-http://www.designprinciplesftw.com
+* [Experience Design Principles](https://uxthink.wordpress.com/2011/02/01/expereince-design-principles/)
+* [Nordstrong UX Principles](http://www.justinmarxdesign.com/nordstrom-ux-principles)
+* [Design Principles For The Win](http://www.designprinciplesftw.com}

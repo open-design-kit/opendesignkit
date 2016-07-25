@@ -29,12 +29,12 @@ title: Experience Attributes
 
 * Step 1: Place tons of different images on a board in a matrix. To do this remotely, use a tool such as [Board Thing](http://boardthing.com/)
 
-![experience attributes on Board Thing](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-1.png)
+![experience attributes on Board Thing](/img/methods/ea-1.png)
 
 
 * Step 2: Explain to participants that they are able to vote on 10 images - 5 that feel right and 5 that don't feel right.
 
-* Step 3: As a group, review the project brief and [personas](https://github.com/bocoup/opendesignkit/blob/master/wiki/Personas.md) (if there are any). Think about the users of the product or project. What do they like? What appeals to them?
+* Step 3: As a group, review the project brief and [personas](/methods/personas/) (if there are any). Think about the users of the product or project. What do they like? What appeals to them?
 * Step 3: Give participants 20 minutes to stand up, study the pictures, and put dots directly on the images(or votes if you are using Board Thing). If you are co-located, Green dots are for images that have some kind of positive association (in your mind) with the Product mission, red for negative. If you are not co-located, break the vote into two 10 minute sessions - vote once for images that feel wrong and another time for those that feel right.  (Remind participants that there’s no right answer here. It’s the conversation that arises that’s important).
 
 

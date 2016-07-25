@@ -18,7 +18,7 @@ Wireframes are a low fidelity way to think through the patterns and flows requir
 ---
 
 **Who’s involved:**
-While designers should create the wireframes, stakeholders and engineers should be actively involved in providing [feedback](https://github.com/bocoup/opendesignkit/blob/master/wiki/feedback-session.md).
+While designers should create the wireframes, stakeholders and engineers should be actively involved in providing [feedback](/methods/feedback-session/).
 
 ---
 
@@ -27,7 +27,7 @@ Once you have a general answer to the following two questions, you should be pre
 1. What's the problem that you are trying to solve?
 2. Who is it a problem for?
 
-That said, many designers begin work on wireframes after the development of [personas](https://github.com/bocoup/opendesignkit/blob/master/wiki/Personas.md) and [journey maps](https://github.com/bocoup/opendesignkit/blob/master/wiki/Journey-Maps.md).
+That said, many designers begin work on wireframes after the development of [personas](/methods/personas/) and [journey maps](/methods/journey-maps/).
 
 ---
 

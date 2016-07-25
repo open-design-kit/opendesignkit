@@ -19,7 +19,7 @@ title: Design Values
 
 --
 
-**When to use it:**  These are archetypes based on [interviews](https://github.com/bocoup/opendesignkit/wiki/Interviews). Ideally they are used after interviews and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
+**When to use it:**  These are archetypes based on [interviews](/methods/interviews/). Ideally they are used after interviews and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
 
 
 --
