@@ -1,3 +1,7 @@
+---
+layout: methods
+title: Visual Design Workshop
+---
 
 **Method:** Visual Design Workshop
 

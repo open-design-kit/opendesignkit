@@ -1,4 +1,6 @@
-
+---
+layout: methods
+title: Interface Inventory
 ---
 
 **Method:** Interface Inventory

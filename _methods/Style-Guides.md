@@ -1,4 +1,6 @@
-
+---
+layout: methods
+title: Style Guide
 ---
 
 **Method:** Style Guide

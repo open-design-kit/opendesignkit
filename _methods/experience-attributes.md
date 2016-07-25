@@ -1,3 +1,7 @@
+---
+layout: methods
+title: Experience Attributes
+---
 
 **Method:** Experience Attributes
 

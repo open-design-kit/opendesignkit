@@ -1,3 +1,7 @@
+---
+layout: methods
+title: Design Values
+---
 
 **Method:** Design Values
 

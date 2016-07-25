@@ -190,3 +190,8 @@ footer p {
      -ms-flex: 1 0 auto;
      flex: 1 0 auto;
  }
+
+ /* Added while trying to get content to show up */
+ .methods {
+     color: #000;
+ }

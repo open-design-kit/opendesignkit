@@ -1,3 +1,8 @@
+---
+layout: methods
+title: Moodboards
+---
+
 **Method:** Moodboards
 
 ---

@@ -1,4 +1,7 @@
-
+---
+layout: methods
+title: Human Spectrogram
+---
 
 **Method:** Human Spectrogram
 

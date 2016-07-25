@@ -1,3 +1,8 @@
+---
+layout: methods
+title: Style Tiles
+---
+
 **Method:** Style Tiles
 
 ---

@@ -1,4 +1,6 @@
-
+---
+layout: methods
+title: Sticky Clustering
 ---
 
 **Method:**  Sticky Clustering

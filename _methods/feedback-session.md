@@ -1,4 +1,6 @@
-
+---
+layout: methods
+title: Feedback Session
 ---
 
 **Method:** Feedback Session
