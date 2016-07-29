@@ -69,3 +69,4 @@ Many creative individuals have contributed in some form to the project - includi
 - Ricardo Vazquez
 - Doug Belshaw
 - Atul Varma
+- Michael Champlin
