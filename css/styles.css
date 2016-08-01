@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    color: white;
+    color: black;
     display: flex;
     flex-direction: column;
     font-family: Roboto, sans-serif;
@@ -65,7 +65,7 @@ p a:hover {
 /*--- Header ---*/
 /*--------------*/
 
-header {
+/*header {
     background: #393466 url('/img/pattern-header.svg') bottom left ;
     background-size: 1264px;
     color: white;
@@ -89,7 +89,7 @@ header h1 {
       font-size: 2em;
       margin-bottom: 1.5em;
   }
-}
+}*/
 
 .gh-button {
     background: white;

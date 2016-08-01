@@ -3,17 +3,40 @@ layout: default
 title: Welcome to Open Design Kit
 ---
 <header>
-  <div class="wrapper">
-    <div class="logo">
-
-      <span class="bar-open">
-        <span class="open">Open</span>
-        <span class="bar"></span>
-      </span>
-
-      <span class="design-kit">Design Kit</span>
+    <div class="wrapper">
+        <div>
+            Logo
+        </div>
+        <form>
+            <label for="search">Search</label>
+            <input type="text" placeholder="Search" />
+            <input type="submit" />
+        </form>
+        <ul>
+            <li><a href="/contribute">Contribute</a></li>
+            <li><a href="/about">About</a></li>
+        </ul>
     </div>
-    <h1 class="tagline">A living toolkit for designing<br>with distributed collaborators.</h1>
-    <a class="gh-button" href="https://github.com/bocoup/opendesignkit" target="_blank"><img src="/img/github-icon.svg">view on Github</a>
-  </div>
 </header>
+
+<div class="wrapper">
+    <ul>
+        <li><a href="">All Phases</a></li>
+        <li><a href="">Discover</a></li>
+        <li><a href="">Define</a></li>
+        <li><a href="">Develop</a></li>
+        <li><a href="">Deliver</a></li>
+    </ul>
+    <p>Explore the methods or <a href="">learn about how to integrate</a> them into a workflow in this design toolkit for distributed collaborators.</p>
+    <div id="all-phases">
+        <ul>
+            {% for method in site.methods %}
+                <li>
+                    <h2>{{ method.title }}</h2>
+                    <p>{{ method.teaser }}</p>
+                    <span> {{ method.tags }}</span>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
