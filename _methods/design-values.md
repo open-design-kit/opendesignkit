@@ -3,6 +3,7 @@ layout: methods
 title: Design Values
 tags:
     - Discovery
+teaser: This method details how to facilitate a workshop for co-creating design values.
 ---
 
 **Method:** Design Values

@@ -3,6 +3,7 @@ layout: methods
 title: Experience Attributes
 tags:
     - Define
+teaser: Collaboratively generate descriptive words to inform the mood boards and visual direction of the project.
 ---
 
 **Method:** Experience Attributes
