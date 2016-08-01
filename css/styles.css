@@ -195,3 +195,32 @@ footer p {
  .methods {
      color: #000;
  }
+
+
+/*-------------------------------*/
+/*---------- Tabs ---------------*/
+/*-------------------------------*/
+/* Taken from frend.co */
+ /* Container */
+.fr-tabs {
+}
+
+/* Tablist */
+.fr-tabs__tablist {
+}
+
+.fr-tabs--is-ready .fr-tabs__tablist-item {
+	display: inline;
+}
+
+.fr-tabs__tab {
+}
+.fr-tabs__tab[tabindex="0"] {
+}
+
+/* Tabpanel */
+.fr-tabs__panel {
+}
+.fr-tabs__panel[aria-hidden="true"] {
+	display: none;
+}
