@@ -1,6 +1,9 @@
 ---
 layout: methods
 title: Wireframing
+tags:
+    - develop
+teaser: Wireframes allow you to refine and turn your sketches and user flows into a tangible representation of your project or product.
 ---
 
 **Method:** Wireframing

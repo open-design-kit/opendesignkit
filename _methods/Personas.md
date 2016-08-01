@@ -1,6 +1,9 @@
 ---
 layout: methods
 title: Design Values
+tags:
+    - define
+teaser: User types based on habits and goals of real people, acquired through interviews and conversations.
 ---
 
 **Method:**  Personas

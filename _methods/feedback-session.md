@@ -2,7 +2,7 @@
 layout: methods
 title: Feedback Session
 tags:
-    - Develop
+    - develop
 teaser: This method explores some ways to structure your feedback session.
 ---
 

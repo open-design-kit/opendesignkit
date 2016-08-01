@@ -1,6 +1,9 @@
 ---
 layout: methods
 title: Visual Design Workshop
+tags:
+    - develop
+teaser: A collaborative workshop on defining the visual design approach of a project to get all key stakeholders involved in the process.
 ---
 
 **Method:** Visual Design Workshop

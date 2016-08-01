@@ -1,6 +1,9 @@
 ---
 layout: methods
 title: Interface Inventory
+tags:
+    - develop
+teaser: An activity to take designs and break them up into component parts, creating an inventory for use in code.
 ---
 
 **Method:** Interface Inventory

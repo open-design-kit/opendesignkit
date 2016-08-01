@@ -1,6 +1,9 @@
 ---
 layout: methods
 title: Sticky Clustering
+tags:
+    - discovery
+teaser: A method that provides an light touch and collaborative way to synthesize information.
 ---
 
 **Method:**  Sticky Clustering

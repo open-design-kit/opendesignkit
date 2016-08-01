@@ -2,7 +2,7 @@
 layout: methods
 title: Design Values
 tags:
-    - Discovery
+    - discovery
 teaser: This method details how to facilitate a workshop for co-creating design values.
 ---
 

@@ -2,7 +2,7 @@
 layout: methods
 title: Experience Attributes
 tags:
-    - Define
+    - define
 teaser: Collaboratively generate descriptive words to inform the mood boards and visual direction of the project.
 ---
 
