@@ -1,7 +1,8 @@
 ---
 layout: methods
 title: Experience Attributes
-tag: Define
+tags:
+    - Define
 ---
 
 **Method:** Experience Attributes

@@ -1,7 +1,8 @@
 ---
 layout: methods
 title: Design Values
-tag: Discovery
+tags:
+    - Discovery
 ---
 
 **Method:** Design Values

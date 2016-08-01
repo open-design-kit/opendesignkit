@@ -1,7 +1,8 @@
 ---
 layout: methods
 title: Feedback Session
-tag: Develop
+tags:
+    - Develop
 ---
 
 **Method:** Feedback Session
