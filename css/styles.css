@@ -106,7 +106,7 @@ a:hover {
 
 .wrapper {
   margin: auto;
-  max-width: 920px;
+  max-width: 1200px;
   padding: 2em 1em;
 }
 
@@ -221,3 +221,50 @@ footer p {
 /*--------------------------------------------*/
 /*---------- Cards for methods ---------------*/
 /*--------------------------------------------*/
+
+.method-list {
+    margin: 0;
+    padding: 0;
+}
+
+.method-list:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.method-list-item {
+    border: 1px solid #999;
+    border-radius: .25em;
+    float: left;
+    margin-bottom: 2em;
+    margin-left: 2%;
+    height: 200px;
+    padding: .5rem;
+    width: 45%;
+}
+
+.method-list-item:first-child {
+    margin-left: 0;
+}
+
+.method-list-item:nth-child(2n +1) {
+    clear: left;
+    margin-left: 0;
+}
+
+@media (min-width: 40em) {
+    .method-list-item {
+        width: 31%;
+    }
+
+    .method-list-item:nth-child(2n +1) {
+        clear: none;
+        margin-left: 2%;
+    }
+
+    .method-list-item:nth-child(3n +1) {
+        clear: left;
+        margin-left: 0;
+    }
+}
