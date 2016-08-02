@@ -1,3 +1,74 @@
+//--------------------------------------------------
+// Reset
+// -------------------------------------------------
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, hgroup, menu, nav, section, menu, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: '';
+  content: none;
+}
+
+ins {
+  text-decoration: none;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+article, aside, figure, footer, header, hgroup, nav, section {
+  display: block;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+.skip,
+.a11y {
+  left: -1000em;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 0;
+}
+
+/*---------------------------*/
+/*-------- Site styles ------*/
+/*---------------------------*/
+/* TODO: Clean this up to make modular */
+
 * { box-sizing: border-box; moz-box-sizing: border-box; }
 html {
     height: 100%;
@@ -17,20 +88,15 @@ img {
   max-width: 100%;
 }
 
-h1, h2 {
-  font-weight: 300;
-  margin-top: 0;
-}
-
 a {
   text-decoration: none;
 }
 
-p a {
+a {
   color: #4A90E2;
 }
 
-p a:hover {
+a:hover {
   text-decoration: underline;
 }
 
@@ -49,70 +115,9 @@ p a:hover {
   p {
     font-size: 1.2em;
   }
-
-  .wrapper {
-    padding: 4em;
-  }
 }
 
-@media (min-width: 50em) {
-  .wrapper {
-    padding: 6em 4em;
-  }
-}
-
-/*--------------*/
-/*--- Header ---*/
-/*--------------*/
-
-/*header {
-    background: #393466 url('/img/pattern-header.svg') bottom left ;
-    background-size: 1264px;
-    color: white;
-    text-align: center;
-}
-
-.logo {
-  font-size: 3.5em;
-  font-weight: 300;
-  margin-bottom: .5em;
-  text-transform: uppercase;
-}
-
-header h1 {
-    font-size: 1.5em;
-    margin-bottom: 1em;
-}
-
-@media (min-width: 32em) {
-  header h1 {
-      font-size: 2em;
-      margin-bottom: 1.5em;
-  }
-}*/
-
-.gh-button {
-    background: white;
-    border-radius: 3px;
-    display: inline-block;
-    font-size: 1.3em;
-    font-weight: 400;
-    padding: .5em;
-}
-
-a.gh-button {
-  color: #393466;
-}
-
-a.gh-button:hover {
-  background: #e3e3e3;
-}
-
-.gh-button img {
-    margin: -3px .5em 0 0;
-    vertical-align: top;
-    width: 32px;
-}
+/* LOGO from the splash page, keep for now */
 
 .bar-open {
   position: relative;
@@ -138,21 +143,9 @@ a.gh-button:hover {
     z-index: 0;
 }
 
-
-
-/*---------------*/
-/*--- Content ---*/
-/*---------------*/
-
-#content {
-  background: #444073 url('/img/pattern-content.svg') bottom left ;
-  background-size: 1264px;
-}
-
-
-/*--------------*/
-/*--- Footer ---*/
-/*--------------*/
+/*--------------------------------*/
+/*--- Universal Bocoup Footer ---*/
+/*-------------------------------*/
 
 footer {
   color: #4f4f4f;
@@ -182,7 +175,7 @@ footer p {
  }
 
  /*----------------------------*/
- /*--- Sticky footer stuff ---*/
+ /*--- Sticky footer ----------*/
  /*----------------------------*/
 
  header {
@@ -224,3 +217,7 @@ footer p {
 .fr-tabs__panel[aria-hidden="true"] {
 	display: none;
 }
+
+/*--------------------------------------------*/
+/*---------- Cards for methods ---------------*/
+/*--------------------------------------------*/
