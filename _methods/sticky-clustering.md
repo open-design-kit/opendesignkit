@@ -51,4 +51,3 @@ This should be done after an idea generation method such as creating [experience
 
 * [6 techniques to Brainstorm Ideas for Card Clusters](http://www.avasbutler.com/six-techniques-to-brainstorm-ideas-4-card-clusters/#.V4zrzJMrKRs)
 * [Tools for Online Brainstorms](http://blog.lucidmeetings.com/blog/25-tools-for-online-brainstorming-and-decision-making-in-meetings)
-*
