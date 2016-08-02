@@ -104,11 +104,11 @@ a:hover {
   font-weight: 600;
 }
 
-@media (min-width: 30em) {
-
-  p {
-    font-size: 1.2em;
-  }
+.hed-a {
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-bottom: 1em;
+    padding: 0;
 }
 
 /*-------------------------------*/
@@ -366,4 +366,87 @@ footer p {
         clear: left;
         margin-left: 0;
     }
+}
+
+/*--------------------------------------------*/
+/*---------- Method content ------------------*/
+/*--------------------------------------------*/
+
+/* Since Jekyll spits out the method markdown as one big blob
+gonna style elements using this class */
+
+.method-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.method-content hr {
+    background-color: transparent;
+    border-bottom: none;
+    border-top: 1px solid #000;
+    line-height: 1;
+    margin: 0 2em 0 0;
+    padding:0;
+}
+
+.method-content h2 {
+    font-size: 1.5em;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: .5em;
+    padding: 0;
+}
+
+.method-content p {
+    font-size: 1em;
+    margin-bottom: 1em;
+}
+
+.method-content ol {
+    margin: 0;
+    padding: 0;
+}
+
+.method-content ol > li {
+    counter-increment: step-counter;
+    margin-bottom: 2em;
+    padding: 0 0 0 2rem;
+    position: relative;
+}
+
+.method-content ol > li:before {
+    color: #000;
+    content: counter(step-counter);
+    display: inline-block;
+    font-size: 2em;
+    position: absolute;
+    top: 0;
+}
+
+.method-content ol > li:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.method-content ol > li p {
+    padding: 0 0 0 4rem;
+    margin: 0;
+}
+
+.method-content ol img {
+    border: 1px solid #999;
+    float: right;
+    margin: 0 0 2em 2em;
+    width: 500px;
+}
+
+.method-content ul {
+    margin: 0;
+    padding: 0;
+}
+
+.method-content ul > li {
+    font-size: 1rem;
+    margin-bottom: .5em;
 }
