@@ -104,17 +104,50 @@ a:hover {
   font-weight: 600;
 }
 
-.wrapper {
-  margin: auto;
-  max-width: 1200px;
-  padding: 2em 1em;
-}
-
 @media (min-width: 30em) {
 
   p {
     font-size: 1.2em;
   }
+}
+
+/*-------------------------------*/
+/*---------Site wide header -----*/
+/*-------------------------------*/
+
+.site-header {
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 1em .5em;
+}
+
+.site-logo {
+    flex: 1 0 auto;
+}
+
+.site-search {
+    flex: 5 0 auto;
+}
+
+.site-nav {
+    flex: 2 0 auto;
+}
+
+.site-nav-list {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+.site-nav-list-item {
+    display: inline-block;
+}
+
+.site-nav-list-link {
+    display: inline-block;
+    padding: 0 .25em;
 }
 
 /* LOGO from the splash page, keep for now */
@@ -217,13 +250,20 @@ footer p {
     background-color: #eee;
     color: #fff;
     display: inline-block;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 600;
     text-transform: uppercase;
     margin: 0;
     padding: 1em 0 1em .5em;
     width: 100%;
 }
+
+@media (min-width: 50em) {
+    .fr-tabs__tab {
+        font-size: 1.5rem;
+    }
+}
+
 .fr-tabs__tab[tabindex="0"] {
     background-color: #ccc;
     color: #000;
@@ -232,6 +272,7 @@ footer p {
 /* Tabpanel */
 .fr-tabs__panel {
 }
+
 .fr-tabs__panel[aria-hidden="true"] {
 	display: none;
 }
@@ -247,7 +288,13 @@ footer p {
 .tabs-content {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 2em 4em;
+    padding: 1em .5em;
+}
+
+@media (min-width: 40em) {
+    .tabs-content {
+        padding: 2em 4em;
+    }
 }
 
 /*--------------------------------------------*/
@@ -265,6 +312,7 @@ footer p {
     display: table;
 }
 
+/* TODO: figure out how to handle height here for various screen sizes */
 .method-list-item {
     background-color: #fff;
     border: 1px solid #999;

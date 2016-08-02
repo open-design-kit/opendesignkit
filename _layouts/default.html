@@ -9,8 +9,24 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,300italic,300,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
   </head>
   <body>
-      {{ content }}
-      <footer>
+        <header class="site-header" role="banner">
+            <div class="site-logo">
+                  Logo
+            </div>
+            <form class="site-search" role="search">
+                  <label for="search">Search</label>
+                  <input type="text" placeholder="Search" />
+                  <input type="submit" />
+            </form>
+            <nav role="nav" class="site-nav">
+                <ul class="site-nav-list">
+                    <li class="site-nav-list-item"><a class="site-nav-list-link" href="/contribute">Contribute</a></li>
+                    <li class="site-nav-list-item"><a class="site-nav-list-link" href="/about">About</a></li>
+                </ul>
+            </nav>
+        </header>
+    {{ content }}
+      <footer role="aside">
         <div class="wrapper">
 
           <picture class="bocoup-logo">
