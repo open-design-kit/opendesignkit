@@ -4,12 +4,14 @@ title: Sticky Clustering
 tags:
     - discovery
 teaser: A method that provides an light touch and collaborative way to synthesize information.
+contributors:
+    - Jess Klein
+    - Susan Robertson
 tools:
     - Boardthing
     - Video Conferencing
     - Screenshare
 tools-desc: Tools can be mixed and matched based on your personal preference.
-upper-image: http://plachold.it/200x200
 related-methods:
     - experience attributes
     - design values

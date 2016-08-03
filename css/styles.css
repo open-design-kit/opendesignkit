@@ -387,6 +387,7 @@ gonna style elements using this class */
     line-height: 1;
     margin: 0 2em 0 0;
     padding:0;
+    width: 100%;
 }
 
 .method-content h2 {
