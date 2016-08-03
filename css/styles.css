@@ -194,6 +194,18 @@ footer p {
   font-size: 1em;
 }
 
+.wrapper {
+    margin: 0 auto;
+    max-width: 920px;
+    padding: 2em 1em;
+}
+
+@media (min-width: 30em) {
+    .wrapper {
+        padding: 4em;
+    }
+}
+
 @media (min-width: 52em) {
 
   footer .wrapper {
