@@ -111,6 +111,11 @@ a:hover {
     padding: 0;
 }
 
+p {
+    font-size: 1em;
+    line-height: 1.2;
+}
+
 /*-------------------------------*/
 /*---------Site wide header -----*/
 /*-------------------------------*/
@@ -223,7 +228,7 @@ footer p {
  /*--- Sticky footer ----------*/
  /*----------------------------*/
 
- header {
+.content {
      -webkit-flex: 1 0 auto;
      -ms-flex: 1 0 auto;
      flex: 1 0 auto;
@@ -862,4 +867,23 @@ gonna style elements using this class */
 .method-content ul > li {
     font-size: 1rem;
     margin-bottom: .5em;
+}
+
+/*----------------------------------------*/
+/*---------- About page ------------------*/
+/*----------------------------------------*/
+
+.about {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about ul {
+    margin: 0;
+    padding: 0;
+}
+
+.about ul > li {
+    list-style-type: disc;
+    margin-left: 1.25em;
 }
