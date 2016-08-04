@@ -388,7 +388,7 @@ footer p {
 gonna style elements using this class */
 
 .method-content {
-    max-width: 1200px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
@@ -449,8 +449,8 @@ gonna style elements using this class */
 
 .method-content ol img {
     border: 1px solid #999;
-    float: right;
-    margin: 0 0 2em 2em;
+    margin: 2em 0;
+    display: block;
     width: 500px;
 }
 

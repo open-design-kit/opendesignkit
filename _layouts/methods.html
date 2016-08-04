@@ -4,6 +4,17 @@ layout: default
 <section class="method-content">
     <h1 class="hed-a">{{ page.title }}</h1>
     <hr />
-    <p>Contributors: {{ page.contributors }}
+    <p>Contributors: {{ page.contributors }}</p>
+    <p>{{ page.desc }}</p>
+    {% if page.toolsDesc != blank %}
+        <div class="tools">
+            <p>{{ page.toolsDesc }}</p>
+            <ul>
+                {% for tool in page.tools %}
+                    <li>{{ tool }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
     {{ content }}
 </section>

@@ -3,19 +3,19 @@ layout: methods
 title: Sticky Clustering
 tags:
     - discovery
+desc: Sticky Clustering is a method that provides an light touch and collaborative way to synthesize information.
 teaser: A method that provides an light touch and collaborative way to synthesize information.
 contributors: Jess Klein, Susan Robertson
-tools:
-    - Boardthing
-    - Video Conferencing
-    - Screenshare
-tools-desc: Tools can be mixed and matched based on your personal preference.
+toolsDesc: Tools can be mixed and matched based on your personal preference.
 related-methods:
     - experience attributes
     - design values
+tools:
+  - Boardthing
+  - Video Conferencing
+  - Screenshare
 ---
 
-Sticky Clustering is a method that provides an light touch and collaborative way to synthesize information.
 
 ## Why use or do it:
 
@@ -33,17 +33,17 @@ This should be done after an idea generation method such as creating [experience
 
 ## How To:
 
-1. ![idea generation](/img/methods/clustering-1.png)
-    Generate a plethora of stickies around your idea using an online brainstorming tool such as [BoardThing](http://boardthing.com). For a more thorough explanation of this, check out [experience attributes](/methods/experience-attributes/)  
+1. Generate a plethora of stickies around your idea using an online brainstorming tool such as [BoardThing](http://boardthing.com). For a more thorough explanation of this, check out [experience attributes](/methods/experience-attributes/)
+    ![idea generation](/img/methods/clustering-1.png)
 
-2. ![group like-minded ideas](/img/methods/clustering-2.png)
-    Working in teams, drag and group like-minded ideas or words together.
+2. Working in teams, drag and group like-minded ideas or words together.
+    ![group like-minded ideas](/img/methods/clustering-2.png)
 
-3. ![group and name clusters](/img/methods/clustering-3.png)
-    Provide a new sticky for each group or cluster that you create. Name the sticky for the cluster.  
+3. Provide a new sticky for each group or cluster that you create. Name the sticky for the cluster.
+    ![group and name clusters](/img/methods/clustering-3.png)
 
-4. ![vote on ideas](/img/methods/clustering-4.png)
-    (optional) Vote on the names to synthesize even further.  
+4. (optional) Vote on the names to synthesize even further.
+    ![vote on ideas](/img/methods/clustering-4.png)
 
 ---
 
