@@ -380,9 +380,409 @@ footer p {
     }
 }
 
+
+
+
+
+.col {
+   background: #fff;
+}
+.col-fullwidth {
+   background: #fff;
+   max-width: 1200px;
+}
+
+/* Global */
+
+.col {
+   clear: both;
+}
+
+.col-fullwidth {
+   border-bottom: none;
+   margin: 0 auto;
+}
+.current-section+.col-fullwidth {
+   padding-top: 3em;
+}
+
+/*--------------------------------------------------------*/
+/*---------- Columns (from style guide) ------------------*/
+/*--------------------------------------------------------*/
+.col {
+   margin: 0 auto;
+   clear: both;
+   padding: 5.55555555% 3.7037037%;
+}
+.col-condensed {
+   clear: both;
+   padding: 7.4074074%;
+}
+.col-midwidth {
+   background: #fff;
+   clear: both;
+   margin: 0 auto;
+}
+.col-fullwidth {
+   clear: both;
+   width: 100%;
+}
+.col-inset-static {
+   padding: 0 4.444444%;
+}
+.col-centered {
+   text-align: center;
+   margin: 0 auto;
+}
+
+
+.col:after,
+.col-condensed:after,
+.col-midwidth:after,
+.col-inset:after,
+.col-fullwidth:after {
+   content: "";
+   clear: both;
+   display: table;
+}
+.col-inset { padding: 1em 3.7037037%; }
+
+@media( min-width: 35em ) {
+   .col           { padding: 3.7037037% 7.4074074%; }
+   .col-inset     { padding: 2em 11.1111111%; }
+   .col-condensed { padding: 5.55555555% 11.1111111%; }
+}
+
+@media( min-width: 60em ) {
+   .col           { padding: 3.7037037%; }
+   .col-inset     { padding: 2.5em 22.222222%; }
+   .col-midwidth  { padding: 3.7037037% 7.4074074%; }
+   .col-condensed { padding: 5.55555555% 14.8148148%; }
+}
+
+@media( min-width: 70em ) {
+   .col           { padding: 3.7037037%; }
+   .col-inset     { padding: 2.5em 14.8148148%; }
+   .col-midwidth  { padding: 3.7037037% 7.4074074%; }
+   .col-condensed { padding: 5.55555555% 18.5185185%; }
+}
+
+@media( min-width: 85em ) {
+        .col-condensed { padding: 5.55555555% 14.8148148%; }
+}
+
+/* One col, 100% - For conditional classes in PHP. */
+.col-single > * {
+   width: 100%;
+}
+/* Two col, 50%-50% */
+.col-ab > * {
+   clear: both;
+}
+.col-ab:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+@media( min-width: 25em ) {
+   div[class*="col-a"] .col-ab > *,
+   div[class*="col-a"] .col-ab > *.post {
+       clear: none;
+       display: block;
+       float: left;
+       margin: 0;
+       width: 50%;
+   }
+   div[class*="col-a"] .col-ab *:nth-of-type(2n+1),
+   div[class*="col-a"] .col-ab *.post:nth-of-type(2n+1) {
+       clear: left;
+   }
+}
+@media( min-width: 55em ) {
+   .col-ab > *,
+   .col-ab > *.post {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 50%;
+   }
+   .col-ab > *:nth-of-type(2n+1),
+   .col-ab > *.post:nth-of-type(2n+1) {
+       clear: left;
+   }
+}
+
+/* Two col, 66%-33% */
+.col-a_b > * {
+   clear: left;
+}
+.col-a_b:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+@media( min-width: 55em ) {
+   .col-a_b > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 33%;
+   }
+   .col-a_b > *:nth-of-type(odd) {
+       width: 66%;
+       clear: left;
+   }
+}
+
+/* Two col, 33%-66% */
+.col-ab_ > * {
+   clear: left;
+}
+.col-ab_:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+
+@media( min-width: 55em ) {
+   .col-ab_ > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 33%;
+   }
+   .col-ab_ > *:nth-of-type(odd) {
+       clear: left;
+   }
+   .col-ab_ > *:nth-of-type(even) {
+       width: 66%;
+   }
+
+   .col-ab_.col-reverse > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 66%;
+   }
+   .col-ab_.col-reverse > *:nth-of-type(odd) {
+       clear: none;
+       float: right;
+   }
+   .col-ab_.col-reverse > *:nth-of-type(even) {
+       width: 33%;
+       float: left;
+       clear: left;
+   }
+}
+
+/* Two col, 66%–33% */
+.col-a_b > * {
+   clear: left;
+}
+.col-a_b:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+
+@media( min-width: 55em ) {
+   .col-a_b > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 66%;
+   }
+   .col-a_b > *:nth-of-type(odd) {
+       clear: left;
+   }
+   .col-a_b > *:nth-of-type(even) {
+       width: 33%;
+   }
+}
+
+/* Two col, 15%-85% */
+.col-ab__ > * {
+   clear: left;
+}
+.col-ab__:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+
+@media( min-width: 55em ) {
+   .col-ab__ > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 15%;
+   }
+   .col-ab__ > *:nth-of-type(odd) {
+       clear: left;
+   }
+   .col-ab__ > *:nth-of-type(even) {
+       width: 85%;
+   }
+
+   .col-ab__.col-reverse > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 85%;
+   }
+   .col-ab__.col-reverse > *:nth-of-type(odd) {
+       clear: none;
+       float: right;
+   }
+   .col-ab__.col-reverse > *:nth-of-type(even) {
+       width: 85%;
+       float: left;
+       clear: left;
+   }
+}
+
+/* Three col, 33%-33%-33% */
+.col-abc > * {
+   clear: both;
+}
+.col-abc:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+@media( min-width: 55em ) {
+   .col-abc > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 33.3333%;
+   }
+   .col-abc > *:nth-of-type(3n+1) {
+       clear: left;
+   }
+}
+
+.col-abcd:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+.col-abcd > * {
+   float: left;
+   margin: 0;
+   width: 50%;
+}
+.col-abcd > *:nth-of-type(odd) {
+   clear: left;
+}
+@media( min-width: 25em ) {
+   .col-abcd > *:nth-of-type(odd) {
+       clear: none;
+   }
+   .col-abcd > * {
+       float: left;
+       margin: 0;
+       width: 33.333334%;
+   }
+   .col-abcd > *:nth-of-type(3n+1) {
+       clear: left;
+   }
+   .col-abcd > *:nth-of-type(3n+1):last-child {
+       margin-left: 33.333334%;
+   }
+   .col-abcd > *:nth-of-type(3n+1):nth-last-child(2) {
+       margin-left: 16.666667%;
+   }
+}
+/* Four col, 20%-20%-20%-20% */
+@media( min-width: 35em ) {
+   .col-abcd > * {
+       float: left;
+       margin: 0;
+       width: 25%;
+   }
+
+   .col-abcd > *:nth-of-type(3n+1):nth-last-child(2),
+   .col-abcd > *:nth-of-type(3n+1):last-child {
+       margin-left: 0;
+   }
+   .col-abcd > *:nth-of-type(3n+1) {
+       clear: none;
+   }
+   .col-abcd > *:nth-of-type(4n+1) {
+       clear: left;
+   }
+}
+
+
+/* Split layout:
+Mid-BP:				High BP:
+   100%					50%-50%
+50%-50%				33%-33%-33%
+*/
+
+.col-ab-abc > * {
+   clear: both;
+}
+@media( min-width: 40em ) {
+   .col-ab-abc > *,
+   .col-ab-abc > *.post {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 50%;
+   }
+   .col-ab-abc > *:first-of-type,
+   .col-ab-abc > *:nth-of-type(2) {
+       width: 100%;
+   }
+   .col-ab-abc > *:nth-of-type(2)~*:nth-of-type(2n-1) {
+       clear: left;
+   }
+}
+@media( min-width: 52.5em ) {
+   .col-ab-abc > *,
+   .col-ab-abc > *.post {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 33%;
+   }
+   .col-ab-abc > *:first-of-type,
+   .col-ab-abc > *:nth-of-type(2) {
+       width: 50%;
+   }
+   .col-ab-abc > *:nth-of-type(2)~*:nth-of-type(2n-1) {
+       clear: none;
+   }
+   .col-ab-abc > *:nth-of-type(2)~*:nth-of-type(3n) {
+       clear: left;
+   }
+}
+
 /*--------------------------------------------*/
 /*---------- Method content ------------------*/
 /*--------------------------------------------*/
+
+.tools {
+    border: 1px solid #999;
+    border-radius: .25em;
+    float: right;
+    margin: 1em 0 1em 1em;
+    padding: 1em 2em;
+    width: 50%;
+}
+
+.tools-list {
+    margin: 0;
+    padding: 0;
+}
+
+.tools-list-item {
+    list-style-type: disc;
+    margin-left: 1em;
+}
+
 
 /* Since Jekyll spits out the method markdown as one big blob
 gonna style elements using this class */
@@ -449,7 +849,7 @@ gonna style elements using this class */
 
 .method-content ol img {
     border: 1px solid #999;
-    margin: 2em 0;
+    margin: 2em auto;
     display: block;
     width: 500px;
 }

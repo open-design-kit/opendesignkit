@@ -9,12 +9,12 @@ layout: default
     {% if page.toolsDesc != blank %}
         <div class="tools">
             <p>{{ page.toolsDesc }}</p>
-            <ul>
+            <ul class="tools-list">
                 {% for tool in page.tools %}
-                    <li>{{ tool }}</li>
+                    <li class="tools-list-item">{{ tool }}</li>
                 {% endfor %}
             </ul>
         </div>
     {% endif %}
-    {{ content }}
+    {{ content }}    
 </section>

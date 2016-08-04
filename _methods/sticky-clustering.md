@@ -7,9 +7,6 @@ desc: Sticky Clustering is a method that provides an light touch and collaborati
 teaser: A method that provides an light touch and collaborative way to synthesize information.
 contributors: Jess Klein, Susan Robertson
 toolsDesc: Tools can be mixed and matched based on your personal preference.
-related-methods:
-    - experience attributes
-    - design values
 tools:
   - Boardthing
   - Video Conferencing
