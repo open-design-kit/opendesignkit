@@ -2,7 +2,7 @@
 layout: methods
 title: Human Spectrogram
 tags:
-    - discovery
+    - discover
 teaser: An activity aimed at getting people to open up and think about design.
 ---
 

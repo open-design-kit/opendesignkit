@@ -2,7 +2,7 @@
 layout: methods
 title: Moodboards
 tags:
-    - develop
+    - define
 teaser: A collection of images based on adjectives associated with the brand's project that serve as inspiration for visual studies.
 ---
 
