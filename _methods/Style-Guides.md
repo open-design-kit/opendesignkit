@@ -2,7 +2,7 @@
 layout: methods
 title: Style Guide
 tags:
-    - deliver
+    - define
 teaser: Your way to document the various pieces and components that make up the web site or application, to ensure consistency of design and code.
 ---
 

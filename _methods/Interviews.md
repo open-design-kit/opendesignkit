@@ -2,7 +2,7 @@
 layout: methods
 title: Interviewing
 tags:
-    - discovery
+    - discover
 teaser: Interview users of your products to find out what their needs are and how to best build a product they'll love.
 ---
 

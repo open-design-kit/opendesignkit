@@ -2,7 +2,7 @@
 layout: methods
 title: Sticky Clustering
 tags:
-    - discovery
+    - define
 desc: Sticky Clustering is a method that provides an light touch and collaborative way to synthesize information.
 teaser: A method that provides an light touch and collaborative way to synthesize information.
 contributors: Jess Klein, Susan Robertson

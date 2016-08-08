@@ -2,7 +2,7 @@
 layout: methods
 title: Style Tiles
 tags:
-    - define
+    - discover
 teaser: A design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web.
 ---
 

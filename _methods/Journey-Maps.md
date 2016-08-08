@@ -2,7 +2,7 @@
 layout: methods
 title: Journey Maps
 tags:
-    - discovery
+    - define
 teaser: A tool used to discover how the user will interact with your product before you build anything.
 ---
 
