@@ -69,7 +69,11 @@ img {
 /*---------------------------*/
 /* TODO: Clean this up to make modular */
 
-* { box-sizing: border-box; moz-box-sizing: border-box; }
+* {
+    moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
 html {
     height: 100%;
 }
@@ -114,6 +118,10 @@ a:hover {
 p {
     font-size: 1em;
     line-height: 1.2;
+}
+
+.center {
+    text-align: center;
 }
 
 /*-------------------------------*/
@@ -299,7 +307,7 @@ footer p {
 /*--------------------------------------------*/
 
 .tabs {
-    background-color: #ccc;
+    background-color: #fff;
 }
 
 .tabs-content {
@@ -310,13 +318,16 @@ footer p {
 
 @media (min-width: 40em) {
     .tabs-content {
-        padding: 2em 4em;
+        padding: 0;
     }
 }
 
 /*--------------------------------------------*/
 /*---------- Cards for methods ---------------*/
 /*--------------------------------------------*/
+.method-list-description {
+    margin: 4em 0 2em;
+}
 
 .method-list {
     margin: 0;
@@ -331,19 +342,15 @@ footer p {
 
 /* TODO: figure out how to handle height here for various screen sizes */
 .method-list-item {
-    background-color: #fff;
-    border: 1px solid #999;
-    border-radius: .25em;
+    background-color: #96B596;
+    border: 1px solid #fff;
     float: left;
-    margin-bottom: 2em;
-    margin-left: 2%;
-    height: 250px;
-    padding: .5rem;
-    width: 46%;
-}
-
-.method-list-item:first-child {
-    margin-left: 0;
+    font-size: 1em;
+    line-height: 1.2;
+    height: 300px;
+    padding: 2% 4%;
+    position: relative;
+    width: 50%;
 }
 
 /* Using floats to clear things when appropriate, so can be easily change */
@@ -353,41 +360,44 @@ footer p {
     margin-left: 0;
 }
 
-@media (min-width: 40em) {
+@media (min-width: 50em) {
     .method-list-item {
-        width: 31%;
+        width: 33%;
     }
 
     .method-list-item:nth-child(2n +1) {
         clear: none;
-        margin-left: 2%;
     }
 
     .method-list-item:nth-child(3n +1) {
         clear: left;
-        margin-left: 0;
     }
 }
 
-@media (min-width: 50em) {
+@media (min-width: 70em) {
     .method-list-item {
-        width: 23%;
+        width: 25%;
     }
 
     .method-list-item:nth-child(3n +1) {
         clear: none;
-        margin-left: 2%;
     }
 
     .method-list-item:nth-child(4n +1) {
         clear: left;
-        margin-left: 0;
     }
 }
 
 
+.method-list-tag {
+    position: absolute;
+    bottom: 10%;
+    text-transform: capitalize;
+}
 
-
+/*--------------------------------------------*/
+/*---------- Column layout -------------------*/
+/*--------------------------------------------*/
 
 .col {
    background: #fff;

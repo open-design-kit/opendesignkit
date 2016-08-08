@@ -3,17 +3,17 @@ layout: default
 title: Welcome to Open Design Kit
 ---
 
-<div class="tabs">
+<div class="tabs" role="main">
     <div class="tabs-content">
-        <p>Explore the methods or <a href="">learn about how to integrate</a> them into a workflow in this design toolkit for distributed collaborators.</p>
+        <p class="center method-list-description">Explore the methods or <a href="">learn about how to integrate</a> them into a workflow in this design toolkit for distributed collaborators.</p>
         <!-- All methods -->
-        <section class="fr-tabs__panel js-fr-tabs__panel" id="all-phases">
+        <section class="" id="all-phases">
             <ul class="method-list">
                 {% for method in site.methods %}
                     <li class="method-list-item">
                         <h2>{{ method.title }}</h2>
                         <p>{{ method.teaser }}</p>
-                        <span> {{ method.tags }}</span>
+                        <span class="method-list-tag"> {{ method.tags }}</span>
                     </li>
                 {% endfor %}
             </ul>
