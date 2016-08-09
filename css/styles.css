@@ -92,16 +92,19 @@ img {
   max-width: 100%;
 }
 
-a {
-  text-decoration: none;
+a:link,
+a:active {
+    border-bottom: 1px dashed #000;
+    color: #000;
+    font-style: italic;
+    padding-bottom: .25em;
+    text-decoration: none;
 }
 
-a {
-  color: #4A90E2;
-}
-
-a:hover {
-  text-decoration: underline;
+a:hover,
+a:visited {
+    color: #000;
+    text-decoration: underline;
 }
 
 .bold {
@@ -129,19 +132,68 @@ p {
 /*-------------------------------*/
 
 .site-header {
-    background-color: #fff;
+    align-items: center;
+    background-color: #393466;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    padding: 1em .5em;
+    padding: 2em 1em;
 }
 
 .site-logo {
+    color: #fff;
     flex: 1 0 auto;
+    font-size:1.5em;
+    margin-bottom: .5em;
+    text-transform: uppercase;
+}
+
+.logo {
+    width: 125px;
+}
+
+.bar-open {
+    display: block;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.open {
+    bottom: 5px;
+    font-size: 1.75em;
+    letter-spacing: 2px;
+    position: relative;
+    z-index: 1;
+}
+
+.bar {
+    background: #e6008c;
+    bottom: .06em;
+    display: block;
+    height: 1em;
+    left: -.15em;
+    margin: auto;
+    position: absolute;
+    width: 102%;
+    z-index: 0;
+}
+
+.design-kit {
+    display: block;
 }
 
 .site-search {
-    flex: 5 0 auto;
+    flex: 6 0 auto;
+}
+
+.input-search {
+    background-color: #fff;
+    border: none;
+    border-radius: .25em;
+    font-size: .75em;
+    padding: 1em .5em;
+    width: 75%;
 }
 
 .site-nav {
@@ -158,35 +210,19 @@ p {
     display: inline-block;
 }
 
-.site-nav-list-link {
+a.site-nav-list-link:link,
+a.site-nav-list-link:active {
+    border: none;
+    color: #fff;
     display: inline-block;
-    padding: 0 .25em;
+    font-style: normal;
+    padding: 0 2em;
 }
 
-/* LOGO from the splash page, keep for now */
-
-.bar-open {
-  position: relative;
-}
-
-.open {
-    bottom: 5px;
-    font-weight: 600;
-    letter-spacing: 2px;
-    position: relative;
-    z-index: 1;
-}
-
-.bar {
-    background: #e6008c;
-    bottom: .06em;
-    display: block;
-    height: .9em;
-    left: -.15em;
-    margin: auto;
-    position: absolute;
-    width: 102%;
-    z-index: 0;
+a.site-nav-list-link:hover,
+a.site-nav-list-link:visited {
+    color: #fff;
+    text-decoration: none;
 }
 
 /*--------------------------------*/
@@ -326,6 +362,8 @@ footer p {
 /*---------- Cards for methods ---------------*/
 /*--------------------------------------------*/
 .method-list-description {
+    font-size: 1.25em;
+    line-height: 1;
     margin: 4em 0 2em;
 }
 
