@@ -383,8 +383,8 @@ footer p {
     float: left;
     font-size: 1em;
     line-height: 1.2;
-    height: 300px;
-    padding: 2% 4%;
+    height: 275px;
+    padding: 2% 6%;
     position: relative;
     width: 50%;
 }
@@ -437,10 +437,20 @@ footer p {
     }
 }
 
+.method-list-hed {
+    font-size: 1.125rem;
+    font-weight: normal;
+}
+
+.method-list-desc {
+    font-size: .75em;
+    line-height: 1.2;
+}
 
 .method-list-tag {
-    position: absolute;
     bottom: 10%;
+    font-size: .75em;
+    position: absolute;
     text-transform: capitalize;
 }
 

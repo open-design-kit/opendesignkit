@@ -11,8 +11,8 @@ title: Welcome to Open Design Kit
             <ul class="method-list">
                 {% for method in site.methods %}
                     <li class="method-list-item {{ method.tags }}">
-                        <h2>{{ method.title }}</h2>
-                        <p>{{ method.teaser }}</p>
+                        <h2 class="method-list-hed">{{ method.title }}</h2>
+                        <p class="method-list-desc">{{ method.teaser }}</p>
                         <span class="method-list-tag"> {{ method.tags }}</span>
                     </li>
                 {% endfor %}
