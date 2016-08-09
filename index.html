@@ -10,7 +10,7 @@ title: Welcome to Open Design Kit
         <section class="" id="all-phases">
             <ul class="method-list">
                 {% for method in site.methods %}
-                    <li class="method-list-item">
+                    <li class="method-list-item {{ method.tags }}">
                         <h2>{{ method.title }}</h2>
                         <p>{{ method.teaser }}</p>
                         <span class="method-list-tag"> {{ method.tags }}</span>

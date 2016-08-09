@@ -380,8 +380,6 @@ footer p {
 
 /* TODO: figure out how to handle height here for various screen sizes */
 .method-list-item {
-    background-color: #96B596;
-    border: 1px solid #fff;
     float: left;
     font-size: 1em;
     line-height: 1.2;
@@ -389,6 +387,19 @@ footer p {
     padding: 2% 4%;
     position: relative;
     width: 50%;
+}
+
+/* Background colors via the tags */
+.method-list-item.define {
+    background-color: #EEC032;
+}
+
+.method-list-item.discover {
+    background-color: #D5EFBD;
+}
+
+.method-list-item.develop {
+    background-color: #8FAF70;
 }
 
 /* Using floats to clear things when appropriate, so can be easily change */
