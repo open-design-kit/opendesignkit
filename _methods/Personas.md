@@ -1,6 +1,6 @@
 ---
 layout: methods
-title: Design Values
+title: Personas
 tags:
     - define
 desc: <em>Personas</em> are user types based on habits and goals of real people, acquired through interviews and conversations.
