@@ -9,11 +9,12 @@ title: Welcome to Open Design Kit
         <!-- All methods -->
         <section class="" id="all-phases">
             <ul class="method-list">
-                {% for method in site.methods %}
-                    <li class="method-list-item {{ method.tags }}">
-                        <h2 class="method-list-hed">{{ method.title }}</h2>
-                        <p class="method-list-desc">{{ method.teaser }}</p>
-                        <span class="method-list-tag"> {{ method.tags }}</span>
+                {% assign item = site.methods |  sort: "title" %}
+                {% for item in item %}
+                    <li class="method-list-item {{ item.tags }}">
+                        <h2 class="method-list-hed">{{ item.title }}</h2>
+                        <p class="method-list-desc">{{ item.teaser }}</p>
+                        <span class="method-list-tag"> {{ item.tags }}</span>
                     </li>
                 {% endfor %}
             </ul>
