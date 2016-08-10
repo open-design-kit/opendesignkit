@@ -347,7 +347,7 @@ footer p {
 }
 
 .tabs-content {
-    max-width: 1200px;
+    max-width: 1040px;
     margin: 0 auto;
     padding: 1em .5em;
 }
@@ -363,7 +363,7 @@ footer p {
 /*--------------------------------------------*/
 .method-list-description {
     font-size: 1.25em;
-    line-height: 1;
+    line-height: 1.5;
     margin: 4em 0 2em;
 }
 
@@ -380,6 +380,8 @@ footer p {
 
 /* TODO: figure out how to handle height here for various screen sizes */
 .method-list-item {
+    background-color: #EFEDED;
+    border: 1px solid #fff;
     float: left;
     font-size: 1em;
     line-height: 1.2;
@@ -387,19 +389,6 @@ footer p {
     padding: 2% 2% 2% 4%;
     position: relative;
     width: 50%;
-}
-
-/* Background colors via the tags */
-.method-list-item.define {
-    background-color: #EEC032;
-}
-
-.method-list-item.discover {
-    background-color: #D5EFBD;
-}
-
-.method-list-item.develop {
-    background-color: #8FAF70;
 }
 
 /* Using floats to clear things when appropriate, so can be easily change */
@@ -449,9 +438,27 @@ footer p {
 
 .method-list-tag {
     bottom: 10%;
+    display: block;
     font-size: .75em;
+    padding: 9px 11px;
     position: absolute;
     text-transform: capitalize;
+}
+
+.method-list-tag.discover {
+    background-color: #F5A623;
+}
+
+.method-list-tag.define {
+    background-color: #54E3AE;
+}
+
+.method-list-tag.design {
+    background-color: #EF5BB5;
+}
+
+.method-list-tag.develop {
+    background-color: #3994FF;
 }
 
 /*--------------------------------------------*/
