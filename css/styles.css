@@ -152,15 +152,28 @@ p {
     width: 125px;
 }
 
-.bar-open {
+a:link .bar-open {
+    color: #fff;
     display: block;
     position: relative;
     text-align: center;
     width: 100%;
 }
+a.logo-link:link,
+a.logo-link:visited {
+    color: #fff;
+    font-style: normal;
+}
+
+a.logo-link:hover,
+a.logo-link:active {
+    color: #fff;
+    font-style: normal;
+}
 
 .open {
     bottom: 5px;
+    color: #fff;
     font-size: 1.75em;
     letter-spacing: 2px;
     position: relative;
@@ -180,6 +193,7 @@ p {
 }
 
 .design-kit {
+    color: #fff;
     display: block;
 }
 
