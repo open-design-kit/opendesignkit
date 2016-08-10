@@ -132,7 +132,7 @@ p {
 /*-------------------------------*/
 
 .site-header {
-    align-items: center;
+    align-items: top;
     background-color: #393466;
     display: flex;
     flex-direction: row;
@@ -237,6 +237,51 @@ a.site-nav-list-link:hover,
 a.site-nav-list-link:visited {
     color: #fff;
     text-decoration: none;
+}
+
+/* Filter for phases */
+.filter {
+    margin: 1em 0;
+}
+
+.filter-label {
+    color: #fff;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.filter-buttons {
+    display: inline;
+    margin: 0 0 0 .5em;
+    padding: 0;
+}
+
+.filter-buttons > li {
+    display: inline;
+}
+
+.filter-button {
+    border: none;
+    color: #000;
+    font-size: 14px;
+    margin-right: .5em;
+    padding: 9px 11px;
+}
+
+.filter-button.discover {
+    background-color: #F5A623;
+}
+
+.filter-button.define {
+    background-color: #54E3AE;
+}
+
+.filter-button.design {
+    background-color: #EF5BB5;
+}
+
+.filter-button.develop {
+    background-color: #3994FF;
 }
 
 /*--------------------------------*/
