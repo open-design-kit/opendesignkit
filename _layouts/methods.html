@@ -3,12 +3,11 @@ layout: default
 ---
 <section class="method-content">
     <h1 class="hed-a">{{ page.title }}</h1>
-    <hr />
     <p>Contributors: {{ page.contributors }}</p>
     <p>{{ page.desc }}</p>
     {% if page.toolsDesc != blank %}
         <div class="tools">
-            <p>{{ page.toolsDesc }}</p>
+            <h3 class="tools-hed">Tools</h3>
             <ul class="tools-list">
                 {% for tool in page.tools %}
                     <li class="tools-list-item">{{ tool }}</li>
@@ -16,5 +15,5 @@ layout: default
             </ul>
         </div>
     {% endif %}
-    {{ content }}    
+    {{ content }}
 </section>
