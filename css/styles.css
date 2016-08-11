@@ -292,13 +292,8 @@ a.site-nav-list-link:visited {
 
 footer {
     background-color: #EFEDED;
-  color: #4f4f4f;
-  /*border: solid transparent;
-  border-width: 0 0 10px 0;
-  -webkit-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
-  -moz-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
-  -o-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
-  border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;*/
+    color: #4f4f4f;
+    margin-top: 2rem;
 }
 
 footer p {
