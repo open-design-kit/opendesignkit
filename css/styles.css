@@ -291,17 +291,29 @@ a.site-nav-list-link:visited {
 /*-------------------------------*/
 
 footer {
+    background-color: #EFEDED;
   color: #4f4f4f;
-  border: solid transparent;
+  /*border: solid transparent;
   border-width: 0 0 10px 0;
   -webkit-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
   -moz-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
   -o-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
-  border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
+  border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;*/
 }
 
 footer p {
   font-size: 1em;
+}
+
+footer p a:link,
+footer p a:visited {
+    border: none;
+    color: #4A90E2;
+}
+
+footer p a:hover,
+footer p a:active {
+    text-decoration: underline;
 }
 
 .wrapper {
@@ -1078,7 +1090,7 @@ gonna style elements using this class */
 
 .subpage-head {
     background-color: #EFEDED;
-    padding: 1.8rem 0 2.1rem;
+    padding: 1.8rem 0 1.1rem;
 }
 
 .subpage ul {
