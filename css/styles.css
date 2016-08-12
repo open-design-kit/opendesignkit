@@ -134,7 +134,7 @@ p {
 /*-------------------------------*/
 
 .site-header {
-    align-items: top;
+    align-items: center;
     background-color: #393466;
     display: flex;
     flex-direction: row;
@@ -143,38 +143,28 @@ p {
 }
 
 .site-logo {
-    color: #fff;
     flex: 1 0 auto;
-    font-size:1.5em;
-    margin-bottom: .5em;
-    text-transform: uppercase;
+
 }
 
 .logo {
+    margin: 0;
+    padding: 0;
+}
+
+a.logo-link:link,
+a.logo-link:visited {
     background: url('/img/odk-logo.svg') no-repeat 0 0;
-    display: block;
-    height: 70px;
-    text-indent: -99999px;
-    width: 125px;
-}
-
-
-
-.site-search {
-    flex: 6 0 auto;
-}
-
-.input-search {
-    background-color: #fff;
+    background-size: cover;
     border: none;
-    border-radius: .25em;
-    font-size: .75em;
-    padding: 1em .5em;
-    width: 75%;
+    display: block;
+    height: 44px;
+    text-indent: -99999px;
+    width: 267px;
 }
 
 .site-nav {
-    flex: 2 0 auto;
+    flex: 1 0 auto;
 }
 
 .site-nav-list {
