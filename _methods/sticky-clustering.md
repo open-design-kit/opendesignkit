@@ -1,5 +1,6 @@
 ---
 layout: methods
+type: method
 title: Sticky Clustering
 tags:
     - define

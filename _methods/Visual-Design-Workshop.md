@@ -1,5 +1,6 @@
 ---
 layout: methods
+type: method
 title: Visual Design Workshop
 tags:
     - develop

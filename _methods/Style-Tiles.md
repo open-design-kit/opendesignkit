@@ -1,5 +1,6 @@
 ---
 layout: methods
+type: method
 title: Style Tiles
 tags:
     - discover
@@ -43,5 +44,5 @@ Style tiles are for when a moodboard is too vague and a comp is too literal. Sty
 ---
 
 ## Learn More:
- 
+
 * [Style Tiles](http://styletil.es)

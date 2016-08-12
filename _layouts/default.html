@@ -15,22 +15,6 @@
                     <h1 class="logo">Open Design Kit</h1>
                 </div>
                 <!-- todo: submit on enter? -->
-                <div class="site-search">
-                    <!-- <form role="search">
-                          <label class="a11y" for="search">Search</label>
-                          <input class="input-search" type="text" placeholder="Search" />
-                          <input class="a11y" type="submit" />
-                    </form> -->
-                    <div class="filter">
-                        <div class="filter-label">Browse by Design Phase:</div>
-                        <ul class="filter-buttons">
-                            <li><button class="filter-button discover">Discover</button></li>
-                            <li><button class="filter-button define">Define</button></li>
-                            <li><button class="filter-button design">Design</button></li>
-                            <li><button class="filter-button develop">Develop</button></li>
-                        </ul>
-                    </div>
-                </div>
                 <nav role="nav" class="site-nav">
                     <ul class="site-nav-list">
                         <li class="site-nav-list-item"><a class="site-nav-list-link" href="/contribute">Contribute</a></li>
@@ -38,6 +22,20 @@
                     </ul>
                 </nav>
             </header>
+            <div class="site-tag">
+
+            </div>
+            {% if page.type != null %}
+                <div class="filter">
+                    <div class="filter-label">Browse by Design Phase:</div>
+                    <ul class="filter-buttons">
+                        <li><button class="filter-button discover">Discover</button></li>
+                        <li><button class="filter-button define">Define</button></li>
+                        <li><button class="filter-button design">Design</button></li>
+                        <li><button class="filter-button develop">Develop</button></li>
+                    </ul>
+                </div>
+            {% endif %}
             {{ content }}
         </div>
       <footer role="aside">

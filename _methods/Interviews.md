@@ -1,5 +1,6 @@
 ---
 layout: methods
+type: method
 title: Interviewing
 tags:
     - discover

@@ -1,5 +1,6 @@
 ---
 layout: methods
+type: method
 title: Style Guide
 tags:
     - define
@@ -45,7 +46,7 @@ After you've got some visual design done, possibly you've done [style tiles](/me
 ---
 
 ## Learn More:
-  
+
 * [From Patterns to Pages](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone)
 * [Creating Style Guides](http://alistapart.com/article/creating-style-guides)
 * [Responsive Style Guides](http://alistapart.com/event/responsive-style-guides)
