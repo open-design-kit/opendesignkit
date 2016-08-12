@@ -192,6 +192,12 @@ a.site-nav-list-link:visited {
     text-decoration: none;
 }
 
+.site-tag {
+    color: #fff;
+    margin: 0 0 1rem 0;
+    padding: 0;
+}
+
 /* Filter for phases */
 .filter {
     margin: 1em 0;
@@ -358,21 +364,37 @@ footer p a:active {
 }
 
 /*--------------------------------------------*/
-/*---------- Tabs on homepage ----------------*/
+/*---------- Home page ----------------*/
 /*--------------------------------------------*/
-
-.tabs {
-    background-color: #fff;
+.home {
+    background-color: #403B6E;
 }
 
-.tabs-content {
+.home-header-sub {
+    max-width: 1040px;
+    margin: 0 auto;
+    padding: 1.5em .5em;
+    text-align: center;
+}
+
+@media (min-width: 40em) {
+    .home-header-sub {
+        padding: 1.5em 0;
+    }
+}
+
+.main {
+    background-color: #403B6E;
+}
+
+.main-content {
     max-width: 1040px;
     margin: 0 auto;
     padding: 1em .5em;
 }
 
 @media (min-width: 40em) {
-    .tabs-content {
+    .main-content {
         padding: 0;
     }
 }

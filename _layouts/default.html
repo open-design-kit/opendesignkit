@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
   </head>
-  <body>
+  <body class="{{page.type}}">
         <div class="content">
             <header class="site-header" role="banner">
                 <div class="site-logo">
@@ -22,10 +22,11 @@
                     </ul>
                 </nav>
             </header>
-            <div class="site-tag">
-
-            </div>
-            {% if page.type != null %}
+            {% if page.type == "home" %}
+            <div class="home-header-sub">
+                <div class="site-tag">
+                    <h2 class="hed-a site-tag">A distributed team can do great design &mdash; here’s how.</h2>
+                </div>
                 <div class="filter">
                     <div class="filter-label">Browse by Design Phase:</div>
                     <ul class="filter-buttons">
@@ -35,6 +36,7 @@
                         <li><button class="filter-button develop">Develop</button></li>
                     </ul>
                 </div>
+            </div>
             {% endif %}
             {{ content }}
         </div>
