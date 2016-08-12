@@ -216,14 +216,23 @@ a.site-nav-list-link:visited {
 }
 
 .filter-buttons > li {
-    display: inline;
+    display: inline-block;
 }
 
-.filter-button {
+a.filter-button {
     border: none;
     color: #000;
+    display: inline-block;
     font-size: 14px;
     margin-right: .5em;
+    padding: 9px 11px;
+}
+
+/* TODO: put in active and hover states */
+a:hover.filter-button,
+a:active.filter-button {
+    border: none;
+    cursor: pointer;
     padding: 9px 11px;
 }
 
