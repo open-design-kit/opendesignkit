@@ -151,53 +151,14 @@ p {
 }
 
 .logo {
+    background: url('/img/odk-logo.svg') no-repeat 0 0;
+    display: block;
+    height: 70px;
+    text-indent: -99999px;
     width: 125px;
 }
 
-a:link .bar-open {
-    color: #fff;
-    display: block;
-    position: relative;
-    text-align: center;
-    width: 100%;
-}
-a.logo-link:link,
-a.logo-link:visited {
-    color: #fff;
-    font-style: normal;
-}
 
-a.logo-link:hover,
-a.logo-link:active {
-    color: #fff;
-    font-style: normal;
-}
-
-.open {
-    bottom: 5px;
-    color: #fff;
-    font-size: 1.75em;
-    letter-spacing: 2px;
-    position: relative;
-    z-index: 1;
-}
-
-.bar {
-    background: #e6008c;
-    bottom: .06em;
-    display: block;
-    height: 1em;
-    left: -.15em;
-    margin: auto;
-    position: absolute;
-    width: 102%;
-    z-index: 0;
-}
-
-.design-kit {
-    color: #fff;
-    display: block;
-}
 
 .site-search {
     flex: 6 0 auto;
@@ -454,9 +415,22 @@ footer p a:active {
     font-size: 1em;
     line-height: 1.2;
     height: 275px;
-    padding: 2% 2% 2% 4%;
     position: relative;
     width: 50%;
+}
+
+a.method-list-link:link,
+a.method-list-link:visited {
+    border: none;
+    display: inline-block;
+    height: 100%;
+    padding: 8% 8% 8% 12%;
+    width: 100%;
+}
+
+a.method-list-link:hover,
+a.method-list-link:active {
+
 }
 
 /* Using floats to clear things when appropriate, so can be easily change */
@@ -495,11 +469,13 @@ footer p a:active {
 }
 
 .method-list-hed {
+    border: none;
     font-size: 1.125rem;
     font-weight: normal;
 }
 
 .method-list-desc {
+    border: none;
     font-size: .75em;
     line-height: 1.2;
 }
