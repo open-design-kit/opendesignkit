@@ -3,7 +3,7 @@ layout: methods
 title: Interviewing
 tags:
     - discovery
-teaser: Interview users of your products to find out what their needs are and how to best build a product they'll love.
+teaser: Talk to users to find out what their needs are so you can build a product they'll love.
 ---
 
 **Tool:**  Interviewing

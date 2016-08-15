@@ -3,7 +3,7 @@ layout: methods
 title: Style Guide
 tags:
     - deliver
-teaser: Your way to document the various pieces and components that make up the web site or application, to ensure consistency of design and code.
+teaser: Document the components that make up the web site or application to ensure consistency of design and code.
 ---
 
 **Method:** Style Guide

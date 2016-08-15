@@ -3,7 +3,7 @@ layout: methods
 title: Feedback Session
 tags:
     - develop
-teaser: This method explores some ways to structure your feedback session.
+teaser: Explore some ways to collect constructive feedback for designs and protoypes.
 ---
 
 **Method:** Feedback Session

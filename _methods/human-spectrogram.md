@@ -3,7 +3,7 @@ layout: methods
 title: Human Spectrogram
 tags:
     - discovery
-teaser: An activity aimed at getting people to open up and think about design.
+teaser: Get people to open up about where they stand on design decisions.
 ---
 
 **Method:** Human Spectrogram
