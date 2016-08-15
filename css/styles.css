@@ -931,6 +931,58 @@ Mid-BP:				High BP:
 /*---------- Method content ------------------*/
 /*--------------------------------------------*/
 
+.method-header {
+    margin: 3.5rem 0 4rem;
+    position: relative;
+    text-align: center;
+}
+
+.method-header-view {
+    position: relative;
+}
+
+.method-header-phase {
+    font-size: 12px;
+    left: 6px;
+    padding: 3px 6px;
+    position: relative;
+    text-transform: capitalize;
+    top: -4px;
+}
+
+.method-header-phase.define {
+    background-color: #54E3AE;
+}
+
+.method-header-phase.discover {
+    background-color: #F5A623;
+}
+
+.method-header-phase.develop {
+    background-color: #3994FF;
+}
+
+.method-header-phase.design {
+    background-color: #EF5BB5;
+}
+
+a.method-header-view:link,
+a.method-header-view:visited {
+    color: #e6008c;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+a.method-header-view:hover,
+a.method-header-view:active {
+
+}
+
+.method-content .method-contributors {
+    font-size: 12px;
+}
+
 .tools {
     background-color: #393466;
     color: #fff;
@@ -1082,6 +1134,17 @@ gonna style elements using this class */
     list-style-type: disc;
     margin-bottom: .75rem;
     margin-left: 20px;
+}
+
+.method-content ul > li > a:link,
+.method-content ul > li > a:visited {
+    color: #e6008c;
+}
+
+.method-content ul > li > a:hover,
+.method-content ul > li > a:active {
+    color: #e6008c;
+
 }
 
 /*----------------------------------------*/

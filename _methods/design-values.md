@@ -20,8 +20,6 @@ Designers, engineers, stakeholders, and anyone else who cares about design.
 
 Use this at the beginning of a project when you need a "north star" to guide everyone to success.
 
----
-
 ## How To: Design Values
 
 1. Choose online products that everyone can use remotely. [Boardthing.com](http://boardthing.com/) is a great product that people can use synchronously for completeling workshop steps (adding items to an infinite canvas, moving items around, voting on them).

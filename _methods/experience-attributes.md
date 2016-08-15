@@ -19,8 +19,6 @@ Designers and stakeholders. These should be done collaboratively. The bonus of c
 
  This method can be done as part of the Visual Design Workshop. The workshop is most effective when done as a kickoff to the visual design phase(s) of a project. This can happen well before the ux direction of the project is defined and/or the design of wireframes is finalized. Because remote or not co-located meetings can be extremely draining, consider breaking this workshop into a few sessions - with each session no longer than 90 minutes. The actual scheduling will depend on the client, the availability, the timeline, etc.
 
----
-
 ## How To Generate Experience Attributes
 
 1. Place tons of different images on a board in a matrix. To do this remotely, use a tool such as [Board Thing](http://boardthing.com/)

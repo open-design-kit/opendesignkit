@@ -25,8 +25,6 @@ Journey maps are created after you've made personas for your project. Use the pe
 
 ~ 1 hours per journey map
 
---
-
 ## How To:
 
 ### Supplies:
