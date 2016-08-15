@@ -6,19 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | Open Design Kit</title>
     <link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen">
-    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300italic,300,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
   </head>
-  <body>
+  <body class="{{page.type}}">
         <div class="content">
             <header class="site-header" role="banner">
                 <div class="site-logo">
-                      Logo
+                    <h1 class="logo"><a class="logo-link" href="/">Open Design Kit</a></h1>
                 </div>
-                <form class="site-search" role="search">
-                      <label for="search">Search</label>
-                      <input type="text" placeholder="Search" />
-                      <input type="submit" />
-                </form>
+                <!-- todo: submit on enter? -->
                 <nav role="nav" class="site-nav">
                     <ul class="site-nav-list">
                         <li class="site-nav-list-item"><a class="site-nav-list-link" href="/contribute">Contribute</a></li>
@@ -26,6 +22,22 @@
                     </ul>
                 </nav>
             </header>
+            {% if page.type == "home" %}
+            <div class="home-header-sub">
+                <div class="site-tag">
+                    <h2 class="hed-a site-tag">A distributed team can do great design &mdash; here’s how.</h2>
+                </div>
+                <div class="filter">
+                    <div class="filter-label">Browse by Design Phase:</div>
+                    <ul class="filter-buttons">
+                        <li><a href="" class="filter-button discover">Discover</a></li>
+                        <li><a href="" class="filter-button define">Define</a></li>
+                        <li><a href="" class="filter-button design">Design</a></li>
+                        <li><a href="" class="filter-button develop">Develop</a></li>
+                    </ul>
+                </div>
+            </div>
+            {% endif %}
             {{ content }}
         </div>
       <footer role="aside">

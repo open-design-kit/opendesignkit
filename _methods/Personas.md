@@ -1,50 +1,50 @@
 ---
 layout: methods
-title: Design Values
+type: method
+title: Personas
 tags:
     - define
+<<<<<<< HEAD
 teaser: Identify user types based on habits and goals of real people, acquired through interviews and conversations.
+=======
+desc: <em>Personas</em> are user types based on habits and goals of real people, acquired through interviews and conversations.
+teaser: User types based on habits and goals of real people, acquired through interviews and conversations.
+>>>>>>> site-with-content
 ---
+## Why use or do it:
 
-**Method:**  Personas
+People relate to stories and other people. Personas give us a real human to connect with, someone who has goals for using the product.
 
---
+## Who’s involved:
 
-**Description:** _Personas_ are user types based on habits and goals of real people, acquired through interviews and conversations.
+Designers and stakeholders. These should be done collaboratively. The bonus of collaborating and working openly is that there is a shared understanding and valuable conversations that arrive through the process of co-authoring the personas.
 
---
+## When to use it:
 
-**Why use or do it:** People relate to stories and other people. Personas give us a real human to connect with, someone who has goals for using the product.
-
---
-
-**Who’s involved:** Designers and stakeholders. These should be done collaboratively. The bonus of collaborating and working openly is that there is a shared understanding and valuable conversations that arrive through the process of co-authoring the personas.
-
---
-
-**When to use it:**  These are archetypes based on [interviews](/methods/interviews/). Ideally they are used after interviews and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
+These are archetypes based on [interviews](/methods/interviews/). Ideally they are used after interviews and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
 
 
 --
 
-**How To:** Make a Persona  
+## How To:
 
-_Supplies:_
-- Notes from interviews
-- Notetaking document such as[google docs](https://www.google.com/docs/about/) or [etherpad](http://etherpad.org/)
-- Markdown [template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md)
-- Persona graphic [template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-worksheet.png)
--  [Slack](https://slack.com/)channel, [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel or some kind of text chat
+### Supplies:
+
+* Notes from interviews
+* Notetaking document such as[google docs](https://www.google.com/docs/about/) or [etherpad](http://etherpad.org/)
+* Markdown [template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md)
+* Persona graphic [template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-worksheet.png)
+* [Slack](https://slack.com/)channel, [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel or some kind of text chat
 
 
-_Set Up:_
+### Set Up:
 
--  This can be done asynchronously, by a voice call or a video call. Whenever possible, try to have a video conference call - with all participants showing their faces. This will allow everyone to feel as if they are in the same space and working on a project together. Sharing your face also provides participants a chance to read your body language and gives you tools and cues to read the room.
--  Invite participants to join a chat channel
--   Have notetaking document open for collaborative editing - it might be useful to have the questions from [this markdown one](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md) pre-written into the document in fill - in - the - blank style
--   Link participants to the document via chat
+* This can be done asynchronously, by a voice call or a video call. Whenever possible, try to have a video conference call - with all participants showing their faces. This will allow everyone to feel as if they are in the same space and working on a project together. Sharing your face also provides participants a chance to read your body language and gives you tools and cues to read the room.
+* Invite participants to join a chat channel
+* Have notetaking document open for collaborative editing - it might be useful to have the questions from [this markdown one](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md) pre-written into the document in fill - in - the - blank style
+* Link participants to the document via chat
 
-_Activity_ <br>
+###Activity
 
 1. **Overview:** A persona is a character who is respresentative of the needs, thoughts and goals of the target user.  Think of a persona as your typical or ideal user - who do you see using your app? It helps prevent you from generalizing all users into one bucket - thinking that everyone has the same needs and goals. It also prevents you from falling into the pattern of thinking that you are going to experience the application the same way that other users will.  Each person comes from a different background. Personas are designed to help you to empathize with individuals who might use the app, so think of them more as a bio that you might see on a dating website than a job description.
 
@@ -76,7 +76,7 @@ You might put your persona to use by making a [Journey Map](https://github.com/b
 
 ---
 
-**Examples:**
+## Examples:
 * [The Lyra Project - by Bocoup](https://github.com/vega/lyra/search?q=persona&type=Issues&utf8=%E2%9C%93)
 * [The Coral Project](https://coralproject.net/meet-our-users/)
 * [Firefox User Types in North America](https://blog.mozilla.org/ux/2013/08/firefox-user-types-in-north-america/)
@@ -85,7 +85,7 @@ You might put your persona to use by making a [Journey Map](https://github.com/b
 
 ---
 
-**Learn More:**
+## Learn More:
 * [Using Research Tools in Your Design Practice by Bocoup](https://bocoup.com/weblog/using-research-tools-in-your-design-practice-negotiating-to-actually-use-them)
 * [Design Method: Personas by 18F](https://methods.18f.gov/personas/)
 * [Perfecting Your Personas by Kim Goodwin](https://articles.uie.com/perfecting_personas/)

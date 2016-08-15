@@ -69,7 +69,11 @@ img {
 /*---------------------------*/
 /* TODO: Clean this up to make modular */
 
-* { box-sizing: border-box; moz-box-sizing: border-box; }
+* {
+    moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
 html {
     height: 100%;
 }
@@ -78,8 +82,8 @@ body {
     color: black;
     display: flex;
     flex-direction: column;
-    font-family: Roboto, sans-serif;
-    font-weight: 100;
+    font-family: Georgia, serif;
+    font-weight: normal;
     margin: 0;
     min-height: 100%;
 }
@@ -88,16 +92,19 @@ img {
   max-width: 100%;
 }
 
-a {
-  text-decoration: none;
+a:link,
+a:active {
+    border-bottom: 1px dashed #e6008c;
+    color: #000;
+    padding-bottom: .1rem;
+    text-decoration: none;
 }
 
-a {
-  color: #4A90E2;
-}
-
-a:hover {
-  text-decoration: underline;
+a:hover,
+a:visited {
+    color: #000;
+    border-bottom: 1px dashed #e6008c;
+    text-decoration: none;
 }
 
 .bold {
@@ -105,15 +112,21 @@ a:hover {
 }
 
 .hed-a {
-    font-size: 1.5em;
-    font-weight: 400;
-    margin-bottom: 1em;
+    font-family: 'Libre Baskerville', Georgia, serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+    line-height: 1.3;
+    margin-bottom: 1rem;
     padding: 0;
 }
 
 p {
-    font-size: 1em;
-    line-height: 1.2;
+    font-size: .875rem;
+    line-height: 1.3;
+}
+
+.center {
+    text-align: center;
 }
 
 /*-------------------------------*/
@@ -121,23 +134,37 @@ p {
 /*-------------------------------*/
 
 .site-header {
-    background-color: #fff;
+    align-items: center;
+    background-color: #393466;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    padding: 1em .5em;
+    padding: 2em 1em;
 }
 
 .site-logo {
     flex: 1 0 auto;
+
 }
 
-.site-search {
-    flex: 5 0 auto;
+.logo {
+    margin: 0;
+    padding: 0;
+}
+
+a.logo-link:link,
+a.logo-link:visited {
+    background: url('/img/odk-logo.svg') no-repeat 0 0;
+    background-size: cover;
+    border: none;
+    display: block;
+    height: 44px;
+    text-indent: -99999px;
+    width: 267px;
 }
 
 .site-nav {
-    flex: 2 0 auto;
+    flex: 1 0 auto;
 }
 
 .site-nav-list {
@@ -150,35 +177,79 @@ p {
     display: inline-block;
 }
 
-.site-nav-list-link {
+a.site-nav-list-link:link,
+a.site-nav-list-link:active {
+    border: none;
+    color: #fff;
     display: inline-block;
-    padding: 0 .25em;
+    font-style: normal;
+    padding: 0 2em;
 }
 
-/* LOGO from the splash page, keep for now */
-
-.bar-open {
-  position: relative;
+a.site-nav-list-link:hover,
+a.site-nav-list-link:visited {
+    color: #fff;
+    text-decoration: none;
 }
 
-.open {
-    bottom: 5px;
-    font-weight: 600;
-    letter-spacing: 2px;
-    position: relative;
-    z-index: 1;
+.site-tag {
+    color: #fff;
+    margin: 0 0 1rem 0;
+    padding: 0;
 }
 
-.bar {
-    background: #e6008c;
-    bottom: .06em;
-    display: block;
-    height: .9em;
-    left: -.15em;
-    margin: auto;
-    position: absolute;
-    width: 102%;
-    z-index: 0;
+/* Filter for phases */
+.filter {
+    margin: 1em 0;
+}
+
+.filter-label {
+    color: #fff;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.filter-buttons {
+    display: inline;
+    margin: 0 0 0 .5em;
+    padding: 0;
+}
+
+.filter-buttons > li {
+    display: inline-block;
+}
+
+a.filter-button {
+    border: none;
+    color: #000;
+    display: inline-block;
+    font-size: 14px;
+    margin-right: .5em;
+    padding: 9px 11px;
+}
+
+/* TODO: put in active and hover states */
+a:hover.filter-button,
+a:active.filter-button {
+    border: none;
+    cursor: pointer;
+    padding: 9px 11px;
+}
+
+.filter-button.discover {
+    background-color: #F5A623;
+}
+
+.filter-button.define {
+    background-color: #54E3AE;
+}
+
+.filter-button.design {
+    background-color: #EF5BB5;
+}
+
+.filter-button.develop {
+    background-color: #3994FF;
 }
 
 /*--------------------------------*/
@@ -186,17 +257,24 @@ p {
 /*-------------------------------*/
 
 footer {
-  color: #4f4f4f;
-  border: solid transparent;
-  border-width: 0 0 10px 0;
-  -webkit-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
-  -moz-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
-  -o-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
-  border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
+    background-color: #EFEDED;
+    color: #4f4f4f;
+    margin-top: 3rem;
 }
 
 footer p {
   font-size: 1em;
+}
+
+footer p a:link,
+footer p a:visited {
+    border: none;
+    color: #4A90E2;
+}
+
+footer p a:hover,
+footer p a:active {
+    text-decoration: underline;
 }
 
 .wrapper {
@@ -295,28 +373,49 @@ footer p {
 }
 
 /*--------------------------------------------*/
-/*---------- Tabs on homepage ----------------*/
+/*---------- Home page ----------------*/
 /*--------------------------------------------*/
-
-.tabs {
-    background-color: #ccc;
+.home {
+    background-color: #403B6E;
 }
 
-.tabs-content {
-    max-width: 1200px;
+.home-header-sub {
+    max-width: 1040px;
+    margin: 0 auto;
+    padding: 1.5em .5em;
+    text-align: center;
+}
+
+@media (min-width: 40em) {
+    .home-header-sub {
+        padding: 1.5em 0;
+    }
+}
+
+.main {
+    background-color: #403B6E;
+}
+
+.main-content {
+    max-width: 1040px;
     margin: 0 auto;
     padding: 1em .5em;
 }
 
 @media (min-width: 40em) {
-    .tabs-content {
-        padding: 2em 4em;
+    .main-content {
+        padding: 0;
     }
 }
 
 /*--------------------------------------------*/
 /*---------- Cards for methods ---------------*/
 /*--------------------------------------------*/
+.method-list-description {
+    font-size: 1.25em;
+    line-height: 1.5;
+    margin: 4em 0 2em;
+}
 
 .method-list {
     margin: 0;
@@ -331,19 +430,28 @@ footer p {
 
 /* TODO: figure out how to handle height here for various screen sizes */
 .method-list-item {
-    background-color: #fff;
-    border: 1px solid #999;
-    border-radius: .25em;
+    background-color: #EFEDED;
+    border: 1px solid #fff;
     float: left;
-    margin-bottom: 2em;
-    margin-left: 2%;
-    height: 250px;
-    padding: .5rem;
-    width: 46%;
+    font-size: 1em;
+    line-height: 1.2;
+    height: 275px;
+    position: relative;
+    width: 50%;
 }
 
-.method-list-item:first-child {
-    margin-left: 0;
+a.method-list-link:link,
+a.method-list-link:visited {
+    border: none;
+    display: inline-block;
+    height: 100%;
+    padding: 8% 8% 8% 12%;
+    width: 100%;
+}
+
+a.method-list-link:hover,
+a.method-list-link:active {
+
 }
 
 /* Using floats to clear things when appropriate, so can be easily change */
@@ -353,41 +461,74 @@ footer p {
     margin-left: 0;
 }
 
-@media (min-width: 40em) {
+@media (min-width: 50em) {
     .method-list-item {
-        width: 31%;
+        width: 33%;
     }
 
     .method-list-item:nth-child(2n +1) {
         clear: none;
-        margin-left: 2%;
     }
 
     .method-list-item:nth-child(3n +1) {
         clear: left;
-        margin-left: 0;
     }
 }
 
-@media (min-width: 50em) {
+@media (min-width: 70em) {
     .method-list-item {
-        width: 23%;
+        width: 25%;
     }
 
     .method-list-item:nth-child(3n +1) {
         clear: none;
-        margin-left: 2%;
     }
 
     .method-list-item:nth-child(4n +1) {
         clear: left;
-        margin-left: 0;
     }
 }
 
+.method-list-hed {
+    border: none;
+    font-size: 1.125rem;
+    font-weight: normal;
+}
 
+.method-list-desc {
+    border: none;
+    font-size: .75em;
+    line-height: 1.2;
+}
 
+.method-list-tag {
+    bottom: 10%;
+    display: block;
+    font-size: .75em;
+    padding: 9px 11px;
+    position: absolute;
+    text-transform: capitalize;
+}
 
+.method-list-tag.discover {
+    background-color: #F5A623;
+}
+
+.method-list-tag.define {
+    background-color: #54E3AE;
+}
+
+.method-list-tag.design {
+    background-color: #EF5BB5;
+}
+
+.method-list-tag.develop {
+    background-color: #3994FF;
+}
+
+/*--------------------------------------------*/
+/*---------- Column layout -------------------*/
+/*--------------------------------------------*/
 
 .col {
    background: #fff;
@@ -770,12 +911,27 @@ Mid-BP:				High BP:
 /*--------------------------------------------*/
 
 .tools {
-    border: 1px solid #999;
-    border-radius: .25em;
-    float: right;
-    margin: 1em 0 1em 1em;
-    padding: 1em 2em;
-    width: 50%;
+    background-color: #393466;
+    color: #fff;
+    margin: 1rem 0;
+    padding: 14px 26px;
+
+}
+
+@media (min-width: 40em) {
+    .tools {
+        float: right;
+        margin: 0 0 1em 1em;
+        width: 41.66666666%;
+    }
+}
+
+.tools-hed {
+    font-family: 'Libre Baskerville', Georgia, serif;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    margin:0 0 9px 0;
+    padding: 0;
 }
 
 .tools-list {
@@ -793,8 +949,15 @@ Mid-BP:				High BP:
 gonna style elements using this class */
 
 .method-content {
-    max-width: 800px;
+    max-width: 1024px;
     margin: 0 auto;
+    padding: 1rem 1rem;
+}
+
+@media (min-width: 64em) {
+    .method-content {
+        padding: 1rem 0;
+    }
 }
 
 .method-content hr {
@@ -808,16 +971,17 @@ gonna style elements using this class */
 }
 
 .method-content h2 {
+    font-family: 'Libre Baskerville', Georgia, serif;
     font-size: 1.5em;
     font-weight: 400;
-    line-height: 1;
-    margin-bottom: .5em;
+    line-height: 1.75;
+    margin-bottom: 10px;
     padding: 0;
 }
 
 .method-content p {
     font-size: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 20px;
 }
 
 .method-content ol {
@@ -827,18 +991,45 @@ gonna style elements using this class */
 
 .method-content ol > li {
     counter-increment: step-counter;
-    margin-bottom: 2em;
-    padding: 0 0 0 2rem;
+    margin: 0 auto 2rem auto;
+    max-width: 95%;
+    padding: 0;
     position: relative;
+}
+
+@media (min-width: 40em) {
+    .method-content ol > li {
+        max-width: 75%;
+    }
+}
+
+@media (min-width: 53em) {
+    .method-content ol > li {
+        max-width: 53.02734375%;
+    }
 }
 
 .method-content ol > li:before {
     color: #000;
     content: counter(step-counter);
     display: inline-block;
-    font-size: 2em;
+    font-family: 'Libre Baskerville', Georgia, serif;
+    font-size: 2rem;
+    left: -10px;
     position: absolute;
     top: 0;
+}
+
+@media (min-width: 40em) {
+    .method-content ol > li:before {
+        left: -16.786372007366%;
+    }
+}
+
+@media (min-width: 53em) {
+    .method-content ol > li:before {
+        left: -11.786372007366%;
+    }
 }
 
 .method-content ol > li:after {
@@ -865,25 +1056,43 @@ gonna style elements using this class */
 }
 
 .method-content ul > li {
-    font-size: 1rem;
-    margin-bottom: .5em;
+    font-size: .875rem;
+    line-height: 1.2;
+    list-style-type: disc;
+    margin-bottom: .75rem;
+    margin-left: 20px;
 }
 
 /*----------------------------------------*/
-/*---------- About page ------------------*/
+/*---------- subpages --------------------*/
 /*----------------------------------------*/
 
-.about {
-    max-width: 800px;
+.subpage {
+    max-width: 100%;
     margin: 0 auto;
+    padding: 1rem;
 }
 
-.about ul {
+@media (min-width: 64em) {
+    .subpage {
+        max-width: 60.64453125%;
+        padding: 1rem 0;
+    }
+}
+
+.subpage-head {
+    background-color: #EFEDED;
+    padding: 1.8rem 0 1.1rem;
+}
+
+.subpage ul {
     margin: 0;
     padding: 0;
 }
 
-.about ul > li {
+.subpage ul > li {
+    font-size: .875rem;
     list-style-type: disc;
-    margin-left: 1.25em;
+    margin-bottom: 1rem;
+    margin-left: 1.25rem;
 }
