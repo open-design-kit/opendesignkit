@@ -1,3 +1,11 @@
+---
+layout: methods
+title: Journey Maps
+tags:
+    - discovery
+teaser: Define the happy path for your personas.
+---
+
 **Method:**  Journey Maps
 
 --

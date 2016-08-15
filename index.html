@@ -1,0 +1,82 @@
+---
+layout: default
+title: Welcome to Open Design Kit
+---
+
+<div class="tabs js-fr-tabs">
+    <ul class="fr-tabs__tablist js-fr-tabs__tablist">
+        <li class="fr-tabs__tablist-item" role="presentation"><a class="fr-tabs__tab" id="tab1" href="#all-phases">All Phases</a></li>
+        <li class="fr-tabs__tablist-item" role="presentation"><a class="fr-tabs__tab" id="tab2" href="#discover">Discover</a></li>
+        <li class="fr-tabs__tablist-item" role="presentation"><a class="fr-tabs__tab" id="tab3" href="#define">Define</a></li>
+        <li class="fr-tabs__tablist-item" role="presentation"><a class="fr-tabs__tab" id="tab4" href="#develop">Develop</a></li>
+        <li class="fr-tabs__tablist-item" role="presentation"><a class="fr-tabs__tab" id="tab5" href="#deliver">Deliver</a></li>
+    </ul>
+    <div class="tabs-content">
+        <p>Explore the methods or <a href="">learn about how to integrate</a> them into a workflow in this design toolkit for distributed collaborators.</p>
+        <!-- All methods -->
+        <section class="fr-tabs__panel js-fr-tabs__panel" id="all-phases">
+            <ul class="method-list">
+                {% for method in site.methods %}
+                    <li class="method-list-item">
+                        <h2>{{ method.title }}</h2>
+                        <p>{{ method.teaser }}</p>
+                        <span> {{ method.tags }}</span>
+                    </li>
+                {% endfor %}
+            </ul>
+        </section>
+        <!-- Discovery methods -->
+        <section class="fr-tabs__panel js-fr-tabs__panel" id="discover">
+            <ul class="method-list">
+                {% for method in site.methods %}
+                    {% if method.tags contains "discovery" %}
+                    <li class="method-list-item">
+                        <h2>{{ method.title }}</h2>
+                        <p>{{ method.teaser }}</p>
+                        <span> {{ method.tags }}</span>
+                    </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </section>
+        <section class="fr-tabs__panel js-fr-tabs__panel" id="define">
+            <ul class="method-list">
+                {% for method in site.methods %}
+                    {% if method.tags contains "define" %}
+                    <li class="method-list-item">
+                        <h2>{{ method.title }}</h2>
+                        <p>{{ method.teaser }}</p>
+                        <span> {{ method.tags }}</span>
+                    </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </section>
+        <section class="fr-tabs__panel js-fr-tabs__panel" id="develop">
+            <ul class="method-list">
+                {% for method in site.methods %}
+                    {% if method.tags contains "develop" %}
+                    <li class="method-list-item">
+                        <h2>{{ method.title }}</h2>
+                        <p>{{ method.teaser }}</p>
+                        <span> {{ method.tags }}</span>
+                    </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </section>
+        <section class="fr-tabs__panel js-fr-tabs__panel" id="deliver">
+            <ul class="method-list">
+                {% for method in site.methods %}
+                    {% if method.tags contains "deliver" %}
+                    <li class="method-list-item">
+                        <h2>{{ method.title }}</h2>
+                        <p>{{ method.teaser }}</p>
+                        <span> {{ method.tags }}</span>
+                    </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </section>
+    </div> <!-- /end .tabs-content -->
+</div> <!-- /end .tabs -->

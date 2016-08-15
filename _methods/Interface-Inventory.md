@@ -1,4 +1,9 @@
-
+---
+layout: methods
+title: Interface Inventory
+tags:
+    - develop
+teaser: Break designs into components, creating a catalogue for use in code.
 ---
 
 **Method:** Interface Inventory

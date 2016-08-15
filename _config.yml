@@ -1,0 +1,5 @@
+exclude: [README.md, Gemfile, Gemfile.lock, CNAME, params.json]
+collections:
+    methods:
+        output: true
+        permalink: /methods/:path/

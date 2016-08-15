@@ -1,4 +1,9 @@
-
+---
+layout: methods
+title: Feedback Session
+tags:
+    - develop
+teaser: Explore some ways to collect constructive feedback for designs and protoypes.
 ---
 
 **Method:** Feedback Session

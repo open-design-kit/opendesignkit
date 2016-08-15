@@ -1,3 +1,10 @@
+---
+layout: methods
+title: Visual Design Workshop
+tags:
+    - develop
+teaser: Collaborate with key stakeholders to define an approach to visual design.
+---
 
 **Method:** Visual Design Workshop
 
@@ -21,12 +28,12 @@
 
 **How To run a visual design workshop:**
 
-* **Step 1:** [Human Spectrogram](https://github.com/bocoup/opendesignkit/blob/master/wiki/human-spectrogram.md)
-![spectrogram](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter-trello.png)
-* **Step 2:** [Experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/experience-attributes.md)
-![describe experience attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/ea-4.png)
-* **Step 3:** [Clustering](https://github.com/bocoup/opendesignkit/blob/master/wiki/sticky-clustering.md)
-![cluster attributes](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/clustering-3.png)
-* **Step 4:** [Moodboards](https://github.com/bocoup/opendesignkit/blob/master/wiki/Moodboards.md)
-* **Step 5:** [Actionable Feedback](https://github.com/bocoup/opendesignkit/blob/master/wiki/feedback-session.md)
-* **Step 6:** [Style Tiles](https://github.com/bocoup/opendesignkit/blob/master/wiki/Style-Tiles.md)
+* **Step 1:** [Human Spectrogram](/methods/human-spectrogram/)
+![spectrogram](/img/design-o-meter-trello.png)
+* **Step 2:** [Experience attributes](/methods/experience-attributes/)
+![describe experience attributes](/img/ea-4.png)
+* **Step 3:** [Clustering](/methods/sticky-clustering/)
+![cluster attributes](/img/clustering-3.png)
+* **Step 4:** [Moodboards](/methods/moodboards/)
+* **Step 5:** [Actionable Feedback](/methods/feedback-session/)
+* **Step 6:** [Style Tiles](/methods/style-tiles/)

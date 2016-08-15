@@ -1,3 +1,11 @@
+---
+layout: methods
+title: Design Values
+tags:
+    - define
+teaser: Identify user types based on habits and goals of real people, acquired through interviews and conversations.
+---
+
 **Method:**  Personas
 
 --
@@ -14,7 +22,7 @@
 
 --
 
-**When to use it:**  These are archetypes based on [interviews](https://github.com/bocoup/opendesignkit/wiki/Interviews). Ideally they are used after interviews and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
+**When to use it:**  These are archetypes based on [interviews](/methods/interviews/). Ideally they are used after interviews and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
 
 
 --
@@ -26,21 +34,21 @@ _Supplies:_
 - Notetaking document such as[google docs](https://www.google.com/docs/about/) or [etherpad](http://etherpad.org/)
 - Markdown [template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md)
 - Persona graphic [template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-worksheet.png)
--  [Slack](https://slack.com/)channel, [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel or some kind of text chat 
+-  [Slack](https://slack.com/)channel, [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel or some kind of text chat
 
 
 _Set Up:_
 
--  This can be done asynchronously, by a voice call or a video call. Whenever possible, try to have a video conference call - with all participants showing their faces. This will allow everyone to feel as if they are in the same space and working on a project together. Sharing your face also provides participants a chance to read your body language and gives you tools and cues to read the room. 
+-  This can be done asynchronously, by a voice call or a video call. Whenever possible, try to have a video conference call - with all participants showing their faces. This will allow everyone to feel as if they are in the same space and working on a project together. Sharing your face also provides participants a chance to read your body language and gives you tools and cues to read the room.
 -  Invite participants to join a chat channel
--   Have notetaking document open for collaborative editing - it might be useful to have the questions from [this markdown one](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md) pre-written into the document in fill - in - the - blank style 
+-   Have notetaking document open for collaborative editing - it might be useful to have the questions from [this markdown one](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md) pre-written into the document in fill - in - the - blank style
 -   Link participants to the document via chat
 
 _Activity_ <br>
 
-1. **Overview:** A persona is a character who is respresentative of the needs, thoughts and goals of the target user.  Think of a persona as your typical or ideal user - who do you see using your app? It helps prevent you from generalizing all users into one bucket - thinking that everyone has the same needs and goals. It also prevents you from falling into the pattern of thinking that you are going to experience the application the same way that other users will.  Each person comes from a different background. Personas are designed to help you to empathize with individuals who might use the app, so think of them more as a bio that you might see on a dating website than a job description. 
+1. **Overview:** A persona is a character who is respresentative of the needs, thoughts and goals of the target user.  Think of a persona as your typical or ideal user - who do you see using your app? It helps prevent you from generalizing all users into one bucket - thinking that everyone has the same needs and goals. It also prevents you from falling into the pattern of thinking that you are going to experience the application the same way that other users will.  Each person comes from a different background. Personas are designed to help you to empathize with individuals who might use the app, so think of them more as a bio that you might see on a dating website than a job description.
 
-2. **Goal:** Personas are designed using data that you acquired through your interviews. Using your interview notes, create 1 - 2 personas to represent your core users. Each should have a slightly different story and use case. 
+2. **Goal:** Personas are designed using data that you acquired through your interviews. Using your interview notes, create 1 - 2 personas to represent your core users. Each should have a slightly different story and use case.
 
 3. **Vital Stats:** Start by writing down a description for each persona. While [this template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-worksheet.png) or [this markdown one](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md) might be a useful tool to help you, a persona should generally include:
   - Name
@@ -48,12 +56,12 @@ _Activity_ <br>
   - Marital status
   - Occupation
   - Hobbies
-  - Technology familiarity 
+  - Technology familiarity
   - Devices used  
 
 4. **Scenario:** Craft a scenario in which that person would like to use your app,tool,service,product {insert your deliverable}. What would that user's motivations, goals and needs be? What are their pain points and challenges?
 
-If you have a large number of participants on your call, have everyone break out into small teams (this is when the chat channel comes in handy)for 20 minutes. After the time is up, regroup and do a 5 - 10 minute verbal shareout. This will allow everyone to literally get on the same page - and hopefully it will also provide some inspiration. If there's time, now would be a good time to get some initial feedback. 
+If you have a large number of participants on your call, have everyone break out into small teams (this is when the chat channel comes in handy)for 20 minutes. After the time is up, regroup and do a 5 - 10 minute verbal shareout. This will allow everyone to literally get on the same page - and hopefully it will also provide some inspiration. If there's time, now would be a good time to get some initial feedback.
 
 5. **Add some personality**: Finesse the persona by including an image, name and quote that expresses the needs and goals of the user. This tends to take a bit of time - give it to particpants. Having fun with persona creation is one way to help them to better understand and gain empathy for users.  *Tip:* Try using Creative Commons licensed images that you can find through Flickr. We highly recommend [these images](https://www.flickr.com/photos/wocintechchat/)
 
@@ -79,7 +87,7 @@ You might put your persona to use by making a [Journey Map](https://github.com/b
 
 **Learn More:**
 * [Using Research Tools in Your Design Practice by Bocoup](https://bocoup.com/weblog/using-research-tools-in-your-design-practice-negotiating-to-actually-use-them)
-* [Design Method: Personas by 18F](https://methods.18f.gov/personas/) 
+* [Design Method: Personas by 18F](https://methods.18f.gov/personas/)
 * [Perfecting Your Personas by Kim Goodwin](https://articles.uie.com/perfecting_personas/)
 * [Inside Goal Directed Design by Cooper](http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper)
 * [Negative Personas](https://www.youandco.com.au/blog/why-do-i-need-negative-personas)

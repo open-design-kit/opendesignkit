@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | Open Design Kit</title>
+    <link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300italic,300,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+        <div class="content">
+            <header class="site-header" role="banner">
+                <div class="site-logo">
+                      Logo
+                </div>
+                <form class="site-search" role="search">
+                      <label for="search">Search</label>
+                      <input type="text" placeholder="Search" />
+                      <input type="submit" />
+                </form>
+                <nav role="nav" class="site-nav">
+                    <ul class="site-nav-list">
+                        <li class="site-nav-list-item"><a class="site-nav-list-link" href="/contribute">Contribute</a></li>
+                        <li class="site-nav-list-item"><a class="site-nav-list-link" href="/about">About</a></li>
+                    </ul>
+                </nav>
+            </header>
+            {{ content }}
+        </div>
+      <footer role="aside">
+        <div class="wrapper">
+
+          <picture class="bocoup-logo">
+            <source media="(min-width: 20em)"
+              srcset="/img/bocoup.png 1x, /img/bocoup-2x.png 2x">
+            <img src="/img/bocoup.png" alt="">
+          </picture>
+
+          <p>Bocoup maintains Open Design Kit as an open source tool. To share your feedback, open an  issue or a pull request on our <a href="https://github.com/bocoup/opendesignkit" target="_blank">Github repository</a>.</p>
+        </div>
+      </footer>
+      <script src="/javascripts/tabs.js"></script>
+      <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          var myTabs = Frtabs();
+        });
+      </script>
+  </body>
+ </html>

@@ -1,3 +1,10 @@
+---
+layout: methods
+title: Design Values
+tags:
+    - discovery
+teaser: Workshop a set of values to help you frame future conversations around product success.
+---
 
 **Method:** Design Values
 
@@ -55,15 +62,15 @@ Use this at the beginning of a project when you need a "north star" to guide eve
 
 **Examples:**
 
-![design values words with Board Thing](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/dv1.png)
-![design values words and dot voting with Board Thing](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/dv2.png)
-![design values words and clustering with Board Thing](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/dv3.png)
-![design values words refined with Board Thing](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/dv4.png)
+![design values words with Board Thing](/img/methods/dv1.png)
+![design values words and dot voting with Board Thing](/img/methods/dv2.png)
+![design values words and clustering with Board Thing](/img/methods/dv3.png)
+![design values words refined with Board Thing](/img/methods/dv4.png)
 
 ---
 
 **Learn More:**
 
-https://uxthink.wordpress.com/2011/02/01/expereince-design-principles/
-http://www.justinmarxdesign.com/nordstrom-ux-principles
-http://www.designprinciplesftw.com
+* [Experience Design Principles](https://uxthink.wordpress.com/2011/02/01/expereince-design-principles/)
+* [Nordstrong UX Principles](http://www.justinmarxdesign.com/nordstrom-ux-principles)
+* [Design Principles For The Win](http://www.designprinciplesftw.com}

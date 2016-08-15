@@ -1,0 +1,889 @@
+//--------------------------------------------------
+// Reset
+// -------------------------------------------------
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, hgroup, menu, nav, section, menu, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: '';
+  content: none;
+}
+
+ins {
+  text-decoration: none;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+article, aside, figure, footer, header, hgroup, nav, section {
+  display: block;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+.skip,
+.a11y {
+  left: -1000em;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 0;
+}
+
+/*---------------------------*/
+/*-------- Site styles ------*/
+/*---------------------------*/
+/* TODO: Clean this up to make modular */
+
+* { box-sizing: border-box; moz-box-sizing: border-box; }
+html {
+    height: 100%;
+}
+
+body {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    margin: 0;
+    min-height: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a {
+  color: #4A90E2;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.hed-a {
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-bottom: 1em;
+    padding: 0;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.2;
+}
+
+/*-------------------------------*/
+/*---------Site wide header -----*/
+/*-------------------------------*/
+
+.site-header {
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 1em .5em;
+}
+
+.site-logo {
+    flex: 1 0 auto;
+}
+
+.site-search {
+    flex: 5 0 auto;
+}
+
+.site-nav {
+    flex: 2 0 auto;
+}
+
+.site-nav-list {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+.site-nav-list-item {
+    display: inline-block;
+}
+
+.site-nav-list-link {
+    display: inline-block;
+    padding: 0 .25em;
+}
+
+/* LOGO from the splash page, keep for now */
+
+.bar-open {
+  position: relative;
+}
+
+.open {
+    bottom: 5px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    position: relative;
+    z-index: 1;
+}
+
+.bar {
+    background: #e6008c;
+    bottom: .06em;
+    display: block;
+    height: .9em;
+    left: -.15em;
+    margin: auto;
+    position: absolute;
+    width: 102%;
+    z-index: 0;
+}
+
+/*--------------------------------*/
+/*--- Universal Bocoup Footer ---*/
+/*-------------------------------*/
+
+footer {
+  color: #4f4f4f;
+  border: solid transparent;
+  border-width: 0 0 10px 0;
+  -webkit-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
+  -moz-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
+  -o-border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
+  border-image: url(https://static.bocoup.com/assets/img/rainbow-header.svg.gz) 4 1 4 1 stretch;
+}
+
+footer p {
+  font-size: 1em;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 920px;
+    padding: 2em 1em;
+}
+
+@media (min-width: 30em) {
+    .wrapper {
+        padding: 4em;
+    }
+}
+
+@media (min-width: 52em) {
+
+  footer .wrapper {
+    padding: 3em 4em;
+  }
+
+  .bocoup-logo {
+    float: left;
+    margin: .5em 2em 0 0;
+  }
+
+ }
+
+ /*----------------------------*/
+ /*--- Sticky footer ----------*/
+ /*----------------------------*/
+
+.content {
+     -webkit-flex: 1 0 auto;
+     -ms-flex: 1 0 auto;
+     flex: 1 0 auto;
+ }
+
+ /* Added while trying to get content to show up */
+ .methods {
+     color: #000;
+ }
+
+
+/*-------------------------------*/
+/*---------- Tabs ---------------*/
+/*-------------------------------*/
+/* Taken from frend.co */
+ /* Container */
+.fr-tabs {
+    width: 100%;
+
+}
+
+/* Tablist */
+.fr-tabs__tablist {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 0;
+    padding: 0;
+}
+
+.fr-tabs--is-ready .fr-tabs__tablist-item {
+    flex: 1 0 auto;
+}
+
+.fr-tabs__tab {
+    background-color: #eee;
+    color: #fff;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 1em 0 1em .5em;
+    width: 100%;
+}
+
+@media (min-width: 50em) {
+    .fr-tabs__tab {
+        font-size: 1.5rem;
+    }
+}
+
+.fr-tabs__tab[tabindex="0"] {
+    background-color: #ccc;
+    color: #000;
+}
+
+/* Tabpanel */
+.fr-tabs__panel {
+}
+
+.fr-tabs__panel[aria-hidden="true"] {
+	display: none;
+}
+
+/*--------------------------------------------*/
+/*---------- Tabs on homepage ----------------*/
+/*--------------------------------------------*/
+
+.tabs {
+    background-color: #ccc;
+}
+
+.tabs-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1em .5em;
+}
+
+@media (min-width: 40em) {
+    .tabs-content {
+        padding: 2em 4em;
+    }
+}
+
+/*--------------------------------------------*/
+/*---------- Cards for methods ---------------*/
+/*--------------------------------------------*/
+
+.method-list {
+    margin: 0;
+    padding: 0;
+}
+
+.method-list:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+/* TODO: figure out how to handle height here for various screen sizes */
+.method-list-item {
+    background-color: #fff;
+    border: 1px solid #999;
+    border-radius: .25em;
+    float: left;
+    margin-bottom: 2em;
+    margin-left: 2%;
+    height: 250px;
+    padding: .5rem;
+    width: 46%;
+}
+
+.method-list-item:first-child {
+    margin-left: 0;
+}
+
+/* Using floats to clear things when appropriate, so can be easily change */
+
+.method-list-item:nth-child(2n +1) {
+    clear: left;
+    margin-left: 0;
+}
+
+@media (min-width: 40em) {
+    .method-list-item {
+        width: 31%;
+    }
+
+    .method-list-item:nth-child(2n +1) {
+        clear: none;
+        margin-left: 2%;
+    }
+
+    .method-list-item:nth-child(3n +1) {
+        clear: left;
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 50em) {
+    .method-list-item {
+        width: 23%;
+    }
+
+    .method-list-item:nth-child(3n +1) {
+        clear: none;
+        margin-left: 2%;
+    }
+
+    .method-list-item:nth-child(4n +1) {
+        clear: left;
+        margin-left: 0;
+    }
+}
+
+
+
+
+
+.col {
+   background: #fff;
+}
+.col-fullwidth {
+   background: #fff;
+   max-width: 1200px;
+}
+
+/* Global */
+
+.col {
+   clear: both;
+}
+
+.col-fullwidth {
+   border-bottom: none;
+   margin: 0 auto;
+}
+.current-section+.col-fullwidth {
+   padding-top: 3em;
+}
+
+/*--------------------------------------------------------*/
+/*---------- Columns (from style guide) ------------------*/
+/*--------------------------------------------------------*/
+.col {
+   margin: 0 auto;
+   clear: both;
+   padding: 5.55555555% 3.7037037%;
+}
+.col-condensed {
+   clear: both;
+   padding: 7.4074074%;
+}
+.col-midwidth {
+   background: #fff;
+   clear: both;
+   margin: 0 auto;
+}
+.col-fullwidth {
+   clear: both;
+   width: 100%;
+}
+.col-inset-static {
+   padding: 0 4.444444%;
+}
+.col-centered {
+   text-align: center;
+   margin: 0 auto;
+}
+
+
+.col:after,
+.col-condensed:after,
+.col-midwidth:after,
+.col-inset:after,
+.col-fullwidth:after {
+   content: "";
+   clear: both;
+   display: table;
+}
+.col-inset { padding: 1em 3.7037037%; }
+
+@media( min-width: 35em ) {
+   .col           { padding: 3.7037037% 7.4074074%; }
+   .col-inset     { padding: 2em 11.1111111%; }
+   .col-condensed { padding: 5.55555555% 11.1111111%; }
+}
+
+@media( min-width: 60em ) {
+   .col           { padding: 3.7037037%; }
+   .col-inset     { padding: 2.5em 22.222222%; }
+   .col-midwidth  { padding: 3.7037037% 7.4074074%; }
+   .col-condensed { padding: 5.55555555% 14.8148148%; }
+}
+
+@media( min-width: 70em ) {
+   .col           { padding: 3.7037037%; }
+   .col-inset     { padding: 2.5em 14.8148148%; }
+   .col-midwidth  { padding: 3.7037037% 7.4074074%; }
+   .col-condensed { padding: 5.55555555% 18.5185185%; }
+}
+
+@media( min-width: 85em ) {
+        .col-condensed { padding: 5.55555555% 14.8148148%; }
+}
+
+/* One col, 100% - For conditional classes in PHP. */
+.col-single > * {
+   width: 100%;
+}
+/* Two col, 50%-50% */
+.col-ab > * {
+   clear: both;
+}
+.col-ab:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+@media( min-width: 25em ) {
+   div[class*="col-a"] .col-ab > *,
+   div[class*="col-a"] .col-ab > *.post {
+       clear: none;
+       display: block;
+       float: left;
+       margin: 0;
+       width: 50%;
+   }
+   div[class*="col-a"] .col-ab *:nth-of-type(2n+1),
+   div[class*="col-a"] .col-ab *.post:nth-of-type(2n+1) {
+       clear: left;
+   }
+}
+@media( min-width: 55em ) {
+   .col-ab > *,
+   .col-ab > *.post {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 50%;
+   }
+   .col-ab > *:nth-of-type(2n+1),
+   .col-ab > *.post:nth-of-type(2n+1) {
+       clear: left;
+   }
+}
+
+/* Two col, 66%-33% */
+.col-a_b > * {
+   clear: left;
+}
+.col-a_b:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+@media( min-width: 55em ) {
+   .col-a_b > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 33%;
+   }
+   .col-a_b > *:nth-of-type(odd) {
+       width: 66%;
+       clear: left;
+   }
+}
+
+/* Two col, 33%-66% */
+.col-ab_ > * {
+   clear: left;
+}
+.col-ab_:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+
+@media( min-width: 55em ) {
+   .col-ab_ > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 33%;
+   }
+   .col-ab_ > *:nth-of-type(odd) {
+       clear: left;
+   }
+   .col-ab_ > *:nth-of-type(even) {
+       width: 66%;
+   }
+
+   .col-ab_.col-reverse > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 66%;
+   }
+   .col-ab_.col-reverse > *:nth-of-type(odd) {
+       clear: none;
+       float: right;
+   }
+   .col-ab_.col-reverse > *:nth-of-type(even) {
+       width: 33%;
+       float: left;
+       clear: left;
+   }
+}
+
+/* Two col, 66%–33% */
+.col-a_b > * {
+   clear: left;
+}
+.col-a_b:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+
+@media( min-width: 55em ) {
+   .col-a_b > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 66%;
+   }
+   .col-a_b > *:nth-of-type(odd) {
+       clear: left;
+   }
+   .col-a_b > *:nth-of-type(even) {
+       width: 33%;
+   }
+}
+
+/* Two col, 15%-85% */
+.col-ab__ > * {
+   clear: left;
+}
+.col-ab__:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+
+@media( min-width: 55em ) {
+   .col-ab__ > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 15%;
+   }
+   .col-ab__ > *:nth-of-type(odd) {
+       clear: left;
+   }
+   .col-ab__ > *:nth-of-type(even) {
+       width: 85%;
+   }
+
+   .col-ab__.col-reverse > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 85%;
+   }
+   .col-ab__.col-reverse > *:nth-of-type(odd) {
+       clear: none;
+       float: right;
+   }
+   .col-ab__.col-reverse > *:nth-of-type(even) {
+       width: 85%;
+       float: left;
+       clear: left;
+   }
+}
+
+/* Three col, 33%-33%-33% */
+.col-abc > * {
+   clear: both;
+}
+.col-abc:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+@media( min-width: 55em ) {
+   .col-abc > * {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 33.3333%;
+   }
+   .col-abc > *:nth-of-type(3n+1) {
+       clear: left;
+   }
+}
+
+.col-abcd:after {
+   content: " ";
+   clear: both;
+   display: table;
+}
+.col-abcd > * {
+   float: left;
+   margin: 0;
+   width: 50%;
+}
+.col-abcd > *:nth-of-type(odd) {
+   clear: left;
+}
+@media( min-width: 25em ) {
+   .col-abcd > *:nth-of-type(odd) {
+       clear: none;
+   }
+   .col-abcd > * {
+       float: left;
+       margin: 0;
+       width: 33.333334%;
+   }
+   .col-abcd > *:nth-of-type(3n+1) {
+       clear: left;
+   }
+   .col-abcd > *:nth-of-type(3n+1):last-child {
+       margin-left: 33.333334%;
+   }
+   .col-abcd > *:nth-of-type(3n+1):nth-last-child(2) {
+       margin-left: 16.666667%;
+   }
+}
+/* Four col, 20%-20%-20%-20% */
+@media( min-width: 35em ) {
+   .col-abcd > * {
+       float: left;
+       margin: 0;
+       width: 25%;
+   }
+
+   .col-abcd > *:nth-of-type(3n+1):nth-last-child(2),
+   .col-abcd > *:nth-of-type(3n+1):last-child {
+       margin-left: 0;
+   }
+   .col-abcd > *:nth-of-type(3n+1) {
+       clear: none;
+   }
+   .col-abcd > *:nth-of-type(4n+1) {
+       clear: left;
+   }
+}
+
+
+/* Split layout:
+Mid-BP:				High BP:
+   100%					50%-50%
+50%-50%				33%-33%-33%
+*/
+
+.col-ab-abc > * {
+   clear: both;
+}
+@media( min-width: 40em ) {
+   .col-ab-abc > *,
+   .col-ab-abc > *.post {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 50%;
+   }
+   .col-ab-abc > *:first-of-type,
+   .col-ab-abc > *:nth-of-type(2) {
+       width: 100%;
+   }
+   .col-ab-abc > *:nth-of-type(2)~*:nth-of-type(2n-1) {
+       clear: left;
+   }
+}
+@media( min-width: 52.5em ) {
+   .col-ab-abc > *,
+   .col-ab-abc > *.post {
+       clear: none;
+       float: left;
+       margin: 0;
+       width: 33%;
+   }
+   .col-ab-abc > *:first-of-type,
+   .col-ab-abc > *:nth-of-type(2) {
+       width: 50%;
+   }
+   .col-ab-abc > *:nth-of-type(2)~*:nth-of-type(2n-1) {
+       clear: none;
+   }
+   .col-ab-abc > *:nth-of-type(2)~*:nth-of-type(3n) {
+       clear: left;
+   }
+}
+
+/*--------------------------------------------*/
+/*---------- Method content ------------------*/
+/*--------------------------------------------*/
+
+.tools {
+    border: 1px solid #999;
+    border-radius: .25em;
+    float: right;
+    margin: 1em 0 1em 1em;
+    padding: 1em 2em;
+    width: 50%;
+}
+
+.tools-list {
+    margin: 0;
+    padding: 0;
+}
+
+.tools-list-item {
+    list-style-type: disc;
+    margin-left: 1em;
+}
+
+
+/* Since Jekyll spits out the method markdown as one big blob
+gonna style elements using this class */
+
+.method-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.method-content hr {
+    background-color: transparent;
+    border-bottom: none;
+    border-top: 1px solid #000;
+    line-height: 1;
+    margin: 0 2em 0 0;
+    padding:0;
+    width: 100%;
+}
+
+.method-content h2 {
+    font-size: 1.5em;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: .5em;
+    padding: 0;
+}
+
+.method-content p {
+    font-size: 1em;
+    margin-bottom: 1em;
+}
+
+.method-content ol {
+    margin: 0;
+    padding: 0;
+}
+
+.method-content ol > li {
+    counter-increment: step-counter;
+    margin-bottom: 2em;
+    padding: 0 0 0 2rem;
+    position: relative;
+}
+
+.method-content ol > li:before {
+    color: #000;
+    content: counter(step-counter);
+    display: inline-block;
+    font-size: 2em;
+    position: absolute;
+    top: 0;
+}
+
+.method-content ol > li:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.method-content ol > li p {
+    padding: 0 0 0 4rem;
+    margin: 0;
+}
+
+.method-content ol img {
+    border: 1px solid #999;
+    margin: 2em auto;
+    display: block;
+    width: 500px;
+}
+
+.method-content ul {
+    margin: 0;
+    padding: 0;
+}
+
+.method-content ul > li {
+    font-size: 1rem;
+    margin-bottom: .5em;
+}
+
+/*----------------------------------------*/
+/*---------- About page ------------------*/
+/*----------------------------------------*/
+
+.about {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about ul {
+    margin: 0;
+    padding: 0;
+}
+
+.about ul > li {
+    list-style-type: disc;
+    margin-left: 1.25em;
+}

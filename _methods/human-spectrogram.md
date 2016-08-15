@@ -1,4 +1,10 @@
-
+---
+layout: methods
+title: Human Spectrogram
+tags:
+    - discovery
+teaser: Get people to open up about where they stand on design decisions.
+---
 
 **Method:** Human Spectrogram
 
@@ -36,7 +42,7 @@
 
 * **Repeat**
 
-![human spectrogram image](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter.jpg)
+![human spectrogram image](/img/methods/design-o-meter.jpg)
 
 ---
 
@@ -64,7 +70,7 @@ Ask if anyone wants to challenge other's choices and compel them to change their
 
 **Examples:**
 
-![trello spectrogram](https://github.com/bocoup/opendesignkit/blob/master/wiki/images/design-o-meter-trello.png)
+![trello spectrogram](/img/methods/design-o-meter-trello.png)
 
 ---
 **Learn More:**
