@@ -46,7 +46,7 @@ Designers and stakeholders. These should be done collaboratively. The bonus of c
 
 ## Examples:
 
-* ![describe experience attributes](/img/methods/experience-attributes.jpeg)
+1. ![describe experience attributes](/img/methods/experience-attributes.jpeg)
 
 ---
 

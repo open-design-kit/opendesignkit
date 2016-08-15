@@ -63,7 +63,7 @@ Ask if anyone wants to challenge other's choices and compel them to change their
 
 ## Examples:
 
-* ![trello spectrogram](/img/methods/design-o-meter-trello.png)
+1. ![trello spectrogram](/img/methods/design-o-meter-trello.png)
 
 ---
 

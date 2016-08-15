@@ -33,8 +33,9 @@ Right after the [Experience Attributes](https://github.com/bocoup/opendesignkit/
 ---
 
 ## Examples:
-* ![moodboards example](/img/methods/moodboards/moodboard-example.jpeg)
-* [Pinterest](https://www.pinterest.com/search/pins/?q=moodboard%20design&rs=guide&0=design%7Cguide%7Cword%7C0&add_refine=design%7Cguide%7Cword%7C0)
+
+1. ![moodboards example](/img/methods/moodboards/moodboard-example.jpeg)
+2. [Pinterest](https://www.pinterest.com/search/pins/?q=moodboard%20design&rs=guide&0=design%7Cguide%7Cword%7C0&add_refine=design%7Cguide%7Cword%7C0)
 
 ---
 

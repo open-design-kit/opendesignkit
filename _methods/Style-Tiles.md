@@ -35,8 +35,8 @@ Style tiles are for when a moodboard is too vague and a comp is too literal. Sty
 
 ## Examples:
 
-* ![human spectrogram image](/img/methods/style-tiles/cssconf-style-tile.jpg)
-* [Open Style Tiles - Abby Larner](https://github.com/abbylarner/open-tiles)
+1. ![human spectrogram image](/img/methods/style-tiles/cssconf-style-tile.jpg)
+2. [Open Style Tiles - Abby Larner](https://github.com/abbylarner/open-tiles)
 
 ---
 

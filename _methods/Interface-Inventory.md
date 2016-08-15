@@ -32,7 +32,7 @@ Designers, Stakeholders and front-end engineers.
 
 ---
 
-## Examples and more information:
+## Learn more:
 
 * [Brad Frost’s Interface Inventory](http://bradfrost.com/blog/post/interface-inventory/)
 * [_From Pages to Patterns_ on _A List Apart_](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone)
