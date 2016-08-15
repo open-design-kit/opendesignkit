@@ -1145,6 +1145,11 @@ gonna style elements using this class */
 
 }
 
+.method-content ul > li > img {
+    max-width: 400px;
+    margin-bottom: 2rem;
+}
+
 /*----------------------------------------*/
 /*---------- subpages --------------------*/
 /*----------------------------------------*/
