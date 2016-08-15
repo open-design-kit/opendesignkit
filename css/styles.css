@@ -257,7 +257,13 @@ a:active.filter-button {
 /*-------------------------------*/
 
 footer {
-    background-color: #EFEDED;
+    background-color: #fff;
+    border: solid transparent;
+    border-width: 0 0 10px 0;
+    -webkit-border-image: url/img/rainbow-header.svg) 4 1 4 1 stretch;
+    -moz-border-image: url(/img/rainbow-header.svg) 4 1 4 1 stretch;
+    -o-border-image: url(/img/rainbow-header.svg) 4 1 4 1 stretch;
+    border-image: url(/img/rainbow-header.svg) 4 1 4 1 stretch;
     color: #4f4f4f;
     margin-top: 3rem;
 }
