@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Welcome to Open Design Kit
-type: home
+type: method
+title: Design Phase
 ---
-
 <div class="main" role="main">
     <div class="main-content">
         <!-- All methods -->
-        <section class="" id="all-phases">
+        <section class="">
             <ul class="method-list">
-                {% assign item = site.methods |  sort: "title" %}
+                {% assign item = site.methods |  where: 'category', 'define' %}
                 {% for item in item %}
                     <li class="method-list-item">
                         <a class="method-list-link" href="{{ item.url }}">

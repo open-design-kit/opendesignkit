@@ -2,8 +2,7 @@
 layout: methods
 type: method
 title: Moodboards
-tags:
-    - define
+category: define
 teaser: Collect images based on adjectives associated with the project's brand to serve as inspiration for visual studies.
 ---
 ## Why use or do it:

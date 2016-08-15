@@ -2,8 +2,7 @@
 layout: methods
 type: method
 title: Human Spectrogram
-tags:
-    - discover
+category: discover
 teaser: Get people to open up about where they stand on design decisions.
 ---
 

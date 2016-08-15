@@ -2,8 +2,7 @@
 layout: methods
 type: method
 title: Personas
-tags:
-    - define
+category: define
 teaser: Identify user types based on habits and goals of real people, acquired through interviews and conversations.
 ---
 ## Why use or do it:
