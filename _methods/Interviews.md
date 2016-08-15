@@ -4,8 +4,7 @@ type: method
 title: Interviewing
 tags:
     - discover
-desc: Find real users of your project and interview them. You want to ask them about what they do, what their needs are, their frustrations, what they like to do for fun, in addition to getting pointed feedback about how they might feel about the thing you are creating. You're going to use the information gathered from these interviews to create unbiased personas.
-teaser: Interview users of your products to find out what their needs are and how to best build a product they'll love.
+teaser: Talk to users to find out what their needs are so you can build a product they'll love.
 ---
 ## Why use or do it:
 

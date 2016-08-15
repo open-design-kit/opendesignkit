@@ -4,8 +4,7 @@ type: method
 title: Personas
 tags:
     - define
-desc: <em>Personas</em> are user types based on habits and goals of real people, acquired through interviews and conversations.
-teaser: User types based on habits and goals of real people, acquired through interviews and conversations.
+teaser: Identify user types based on habits and goals of real people, acquired through interviews and conversations.
 ---
 ## Why use or do it:
 

@@ -4,8 +4,7 @@ type: method
 title: Interface Inventory
 tags:
     - define
-desc: An inventory of all the various visual elements being used in a design, bringing them all together to compare, and bring consistency.
-teaser: An activity to take designs and break them up into component parts, creating an inventory for use in code.
+teaser: Break designs into components, creating a catalogue for use in code.
 ---
 
 ## Why use or do it:

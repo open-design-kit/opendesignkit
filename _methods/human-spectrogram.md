@@ -4,8 +4,7 @@ type: method
 title: Human Spectrogram
 tags:
     - discover
-desc: The goal of this activity is to get participants to loosen up and start engaging on the topic of design. The space is intentionally interactive and fluid. This means that participants are expected to change their mind throughout the course of conversation and physically (or within the trello board) change location.
-teaser: An activity aimed at getting people to open up and think about design.
+teaser: Get people to open up about where they stand on design decisions.
 ---
 
 ## Why use or do it:

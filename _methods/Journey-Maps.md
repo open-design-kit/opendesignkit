@@ -4,8 +4,7 @@ type: method
 title: Journey Maps
 tags:
     - define
-desc: Journey Maps are a tool used to discover how a user will interact with your project before building anything.  They can also be used to uncover pain points with existing projects. This is an exercise in roleplay with your personas.  Walk your persona through a task they need to complete that involves your project.
-teaser: A tool used to discover how the user will interact with your product before you build anything.
+teaser: Define the happy path for your personas.
 ---
 
 ## Why use or do it:
