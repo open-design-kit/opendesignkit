@@ -82,7 +82,7 @@ body {
     color: black;
     display: flex;
     flex-direction: column;
-    font-family: Georgia, serif;
+    font-family: 'Open Sans', Helvetica, serif;
     font-weight: normal;
     margin: 0;
     min-height: 100%;
@@ -497,6 +497,7 @@ a.method-list-link:active {
 
 .method-list-hed {
     border: none;
+    font-family: 'Baskerville Libre', Georgia, serif;
     font-size: 1.125rem;
     font-weight: normal;
 }
