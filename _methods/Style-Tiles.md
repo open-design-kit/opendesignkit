@@ -4,8 +4,7 @@ type: method
 title: Style Tiles
 tags:
     - discover
-desc: Style Tiles are a design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web.
-teaser: A design deliverable consisting of fonts, colors and interface elements that communicate the essence of a visual brand for the web.
+teaser: Ensure consistency of fonts, colors and interface elements to communicate the essence of a visual brand for the web.
 ---
 
 ## Why use or do it:

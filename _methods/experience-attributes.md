@@ -4,8 +4,7 @@ type: method
 title: Experience Attributes
 tags:
     - define
-desc: Collaboratively generate descriptive words to inform the mood boards and visual direction of the project.
-teaser: Collaboratively generate descriptive words to inform the mood boards and visual direction of the project.
+teaser: Generate descriptive words to inform the mood boards and visual direction of the project.
 ---
 
 ## Why use or do it:

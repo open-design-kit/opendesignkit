@@ -4,8 +4,7 @@ type: method
 title: Moodboards
 tags:
     - define
-desc: A collection of images based on adjectives associated with the brand's project that serve as inspiration for visual studies.
-teaser: A collection of images based on adjectives associated with the brand's project that serve as inspiration for visual studies.
+teaser: Collect images based on adjectives associated with the project's brand to serve as inspiration for visual studies.
 ---
 ## Why use or do it:
 

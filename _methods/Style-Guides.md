@@ -4,8 +4,7 @@ type: method
 title: Style Guide
 tags:
     - define
-desc: A style guide is a living document of code, which details all the various elements and coded modules of your site or application. Beyond its use in consolidating the front-end code, it also documents the visual language, and if the team so desires, can have sections for branding, voice and tone, and more. It’s your way to document the various pieces that make up how you work on our site or application.
-teaser: Your way to document the various pieces and components that make up the web site or application, to ensure consistency of design and code.
+teaser: Document the components that make up the web site or application to ensure consistency of design and code.
 ---
 
 ## Why use or do it:

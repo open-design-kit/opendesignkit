@@ -4,8 +4,7 @@ type: method
 title: Feedback Session
 tags:
     - define
-desc: Getting effective and actionable feedback on your ideas can be challenging. This method explores some ways to structure your feedback session.
-teaser: This method explores some ways to structure your feedback session.
+teaser: Explore some ways to collect constructive feedback for designs and protoypes.
 ---
 
 ## Why use or do it:

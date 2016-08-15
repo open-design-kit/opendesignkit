@@ -4,8 +4,7 @@ type: method
 title: Visual Design Workshop
 tags:
     - develop
-desc: Collaborative on defining the visual design approach of a project to get all key stakeholders involved in the process.
-teaser: A collaborative workshop on defining the visual design approach of a project to get all key stakeholders involved in the process.
+teaser: Collaborate with key stakeholders to define an approach to visual design.
 ---
 
 ## Why use or do it:
