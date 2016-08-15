@@ -135,7 +135,8 @@ p {
 
 .site-header {
     align-items: center;
-    background-color: #393466;
+    background: #393466 url('/img/pattern-header.svg') bottom left;
+    background-size: 1264px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -194,7 +195,7 @@ a.site-nav-list-link:visited {
 
 .site-tag {
     color: #fff;
-    margin: 0 0 1rem 0;
+    margin: 0 0 1.5rem 0;
     padding: 0;
 }
 
@@ -437,13 +438,13 @@ footer p a:active {
 /* TODO: figure out how to handle height here for various screen sizes */
 .method-list-item {
     background-color: #EFEDED;
-    border: 1px solid #fff;
     float: left;
     font-size: 1em;
     line-height: 1.2;
     height: 275px;
+    margin-bottom: .5rem;
     position: relative;
-    width: 50%;
+    width: 100%;
 }
 
 a.method-list-link:link,
@@ -462,36 +463,49 @@ a.method-list-link:active {
 
 /* Using floats to clear things when appropriate, so can be easily change */
 
-.method-list-item:nth-child(2n +1) {
-    clear: left;
-    margin-left: 0;
+@media (min-width: 40em) {
+    .method-list-item {
+        margin-left: .5%;
+        width: 49%;
+    }
+    .method-list-item:nth-child(2n +1) {
+        clear: left;
+        margin-left: 0;
+
+    }
 }
+
+
 
 @media (min-width: 50em) {
     .method-list-item {
-        width: 33%;
+        width: 32%;
     }
 
     .method-list-item:nth-child(2n +1) {
         clear: none;
+        margin-left: .5%;
     }
 
     .method-list-item:nth-child(3n +1) {
         clear: left;
+        margin-left: 0;
     }
 }
 
 @media (min-width: 70em) {
     .method-list-item {
-        width: 25%;
+        width: 24%;
     }
 
     .method-list-item:nth-child(3n +1) {
         clear: none;
+        margin-left: .5%;
     }
 
     .method-list-item:nth-child(4n +1) {
         clear: left;
+        margin-left: 0;
     }
 }
 
