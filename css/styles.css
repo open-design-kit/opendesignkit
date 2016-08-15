@@ -463,7 +463,7 @@ a.method-list-link:active {
 
 /* Using floats to clear things when appropriate, so can be easily change */
 
-@media (min-width: 40em) {
+@media (min-width: 25em) {
     .method-list-item {
         margin-left: .5%;
         width: 49%;
@@ -475,9 +475,7 @@ a.method-list-link:active {
     }
 }
 
-
-
-@media (min-width: 50em) {
+@media (min-width: 40em) {
     .method-list-item {
         width: 32%;
     }
@@ -493,7 +491,7 @@ a.method-list-link:active {
     }
 }
 
-@media (min-width: 70em) {
+@media (min-width: 56em) {
     .method-list-item {
         width: 24%;
     }
