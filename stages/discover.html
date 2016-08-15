@@ -1,14 +1,14 @@
 ---
 layout: default
 type: method
-title: Define Phase
+title: Discover Stage
 ---
 <div class="main" role="main">
     <div class="main-content">
         <!-- All methods -->
         <section class="">
             <ul class="method-list">
-                {% assign item = site.methods |  where: 'category', 'define' %}
+                {% assign item = site.methods |  where: 'category', 'discover' %}
                 {% for item in item %}
                     <li class="method-list-item">
                         <a class="method-list-link" href="{{ item.url }}">
