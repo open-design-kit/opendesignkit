@@ -20,7 +20,7 @@ Designers, engineers, stakeholders, and anyone else who cares about design.
 
 Use this at the beginning of a project when you need a "north star" to guide everyone to success.
 
-## How To: Design Values
+## How To:
 
 1. Choose online products that everyone can use remotely. [Boardthing.com](http://boardthing.com/) is a great product that people can use synchronously for completeling workshop steps (adding items to an infinite canvas, moving items around, voting on them).
 
@@ -48,10 +48,10 @@ Use this at the beginning of a project when you need a "north star" to guide eve
 
 ## Examples:
 
-* ![design values words with Board Thing](/img/methods/dv1.png)
-* ![design values words and dot voting with Board Thing](/img/methods/dv2.png)
-* ![design values words and clustering with Board Thing](/img/methods/dv3.png)
-* ![design values words refined with Board Thing](/img/methods/dv4.png)
+1. ![design values words with Board Thing](/img/methods/dv1.png)
+2. ![design values words and dot voting with Board Thing](/img/methods/dv2.png)
+3. ![design values words and clustering with Board Thing](/img/methods/dv3.png)
+4. ![design values words refined with Board Thing](/img/methods/dv4.png)
 
 ---
 

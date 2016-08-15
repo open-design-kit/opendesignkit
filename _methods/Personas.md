@@ -18,9 +18,6 @@ Designers and stakeholders. These should be done collaboratively. The bonus of c
 
 These are archetypes based on [interviews](/methods/interviews/). Ideally they are used after interviews and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
 
-
---
-
 ## How To:
 
 ### Supplies:
