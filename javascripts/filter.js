@@ -20,7 +20,7 @@
     if (canHistory) {
       e.preventDefault();
       var className = e.target.getAttribute('data-toggle');
-      var elements = doc.querySelectorAll('.items li');
+      var elements = doc.querySelectorAll('.js-list li');
       hist.pushState({}, className, e.target.href);
       for (var key in elements) {
         var el = elements[key];
