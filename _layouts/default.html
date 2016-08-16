@@ -23,7 +23,7 @@
                     </ul>
                 </nav>
             </header>
-            {% if page.type == "home" %}
+            {% if page.type == "home" or "method" %}
             <div class="home-header-sub">
                 <div class="site-tag">
                     <h2 class="hed-a site-tag">A distributed team can do great design &mdash; here’s how.</h2>
@@ -31,10 +31,10 @@
                 <div class="filter">
                     <div class="filter-label">Browse by Design Phase:</div>
                     <ul class="filter-buttons">
-                        <li><a href="" class="filter-button discover">Discover</a></li>
-                        <li><a href="" class="filter-button define">Define</a></li>
-                        <li><a href="" class="filter-button design">Design</a></li>
-                        <li><a href="" class="filter-button develop">Develop</a></li>
+                        <li><a href="/phases/discover.html" class="filter-button discover">Discover</a></li>
+                        <li><a href="/phases/define.html" class="filter-button define">Define</a></li>
+                        <li><a href="/phases/design.html" class="filter-button design">Design</a></li>
+                        <li><a href="/phases/develop.html" class="filter-button develop">Develop</a></li>
                     </ul>
                 </div>
             </div>
@@ -53,11 +53,5 @@
           <p>Bocoup maintains Open Design Kit as an open source tool. To share your feedback, open an  issue or a pull request on our <a href="https://github.com/bocoup/opendesignkit" target="_blank">Github repository</a>.</p>
         </div>
       </footer>
-      <script src="/javascripts/tabs.js"></script>
-      <script>
-      document.addEventListener("DOMContentLoaded", function() {
-          var myTabs = Frtabs();
-        });
-      </script>
   </body>
  </html>

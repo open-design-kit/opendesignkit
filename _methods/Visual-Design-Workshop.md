@@ -2,8 +2,7 @@
 layout: methods
 type: method
 title: Visual Design Workshop
-tags:
-    - develop
+category: develop
 teaser: Collaborate with key stakeholders to define an approach to visual design.
 ---
 

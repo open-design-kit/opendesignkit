@@ -382,7 +382,8 @@ footer p a:active {
 /*--------------------------------------------*/
 /*---------- Home page ----------------*/
 /*--------------------------------------------*/
-.home {
+.home,
+.method {
     background-color: #403B6E;
 }
 
@@ -969,12 +970,18 @@ a.method-header-view:visited {
     color: #e6008c;
     left: 0;
     position: absolute;
-    top: 0;
+    top: -2rem;;
 }
 
 a.method-header-view:hover,
 a.method-header-view:active {
 
+}
+
+@media (min-width: 40em) {
+    a.method-header-view:link {
+        top: 0;
+    }
 }
 
 .method-content .method-contributors {

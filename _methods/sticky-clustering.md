@@ -2,8 +2,7 @@
 layout: methods
 type: method
 title: Sticky Clustering
-tags:
-    - define
+category: define
 teaser: Synthesize information with this sorting exercise.
 contributors: Jess Klein, Susan Robertson
 toolsDesc: Tools can be mixed and matched based on your personal preference.
