@@ -17,8 +17,6 @@ Designers and stakeholders. This could be done in collaboration with the stakeho
 
 Right after the [Experience Attributes](https://github.com/bocoup/opendesignkit/wiki/experience-attributes) activity and before starting work on any type of visual studies (aka style tiles and mockups).
 
----
-
 ## How To:
 
 1. Using the words gathered from the [Experience Attributes](https://github.com/bocoup/opendesignkit/wiki/experience-attributes) and [Clustering activities](https://github.com/bocoup/opendesignkit/wiki/sticky-clustering), start searching for images.
@@ -34,8 +32,9 @@ Right after the [Experience Attributes](https://github.com/bocoup/opendesignkit/
 ---
 
 ## Examples:
-* ![moodboards example](/img/methods/moodboards/moodboard-example.jpeg)
-* [Pinterest](https://www.pinterest.com/search/pins/?q=moodboard%20design&rs=guide&0=design%7Cguide%7Cword%7C0&add_refine=design%7Cguide%7Cword%7C0)
+
+1. ![moodboards example](/img/methods/moodboards/moodboard-example.jpeg)
+2. [Pinterest](https://www.pinterest.com/search/pins/?q=moodboard%20design&rs=guide&0=design%7Cguide%7Cword%7C0&add_refine=design%7Cguide%7Cword%7C0)
 
 ---
 

@@ -18,8 +18,6 @@ Designers, Stakeholders and front-end engineers.
 
 Style tiles are for when a moodboard is too vague and a comp is too literal. Style tiles establish a direct connection with actual interface elements without defining layout. They are useful to design towards the beginning of your visual design phase of work and can be done as part of the [Visual Design Workshop](/methods/visual-design-workshop/).
 
----
-
 ## How To:
 
 1. Listen to get a sense of what the client or stakeholder is looking for in terms of their product, project or deliverable. This can be done via [interviews](/methods/interviews/) or a video conference call specifically set up for this discussion. While wireframes aren’t necessary to create a tile, they can help inform what elements to incorporate. At this stage, you are trying to determine what user interface components will be crucial to your design.
@@ -36,8 +34,8 @@ Style tiles are for when a moodboard is too vague and a comp is too literal. Sty
 
 ## Examples:
 
-* ![human spectrogram image](/img/methods/style-tiles/cssconf-style-tile.jpg)
-* [Open Style Tiles - Abby Larner](https://github.com/abbylarner/open-tiles)
+1. ![human spectrogram image](/img/methods/style-tiles/cssconf-style-tile.jpg)
+2. [Open Style Tiles - Abby Larner](https://github.com/abbylarner/open-tiles)
 
 ---
 

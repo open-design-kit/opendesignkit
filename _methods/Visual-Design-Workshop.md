@@ -18,8 +18,6 @@ Designers and stakeholders. These should be done collaboratively. The bonus of c
 
 The workshop is most effective when done as a kickoff to the visual design phase(s) of a project. This can happen well before the ux direction of the project is defined and/or the design of wireframes is finalized. Because remote or not co-located meetings can be extremely draining, consider breaking this workshop into a few sessions - with each session no longer than 90 minutes. The actual scheduling will depend on the client, the availability, the timeline, etc.
 
----
-
 ## How To:
 
 1. [Human Spectrogram](/methods/human-spectrogram/)

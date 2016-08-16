@@ -18,8 +18,6 @@ Anyone who should be collaborating with eachother.
 
 This activity is ideal to do when lots of people have different opinions on a given topic. The activity will help you to find a shared vocabulary and identify future conversation topics.
 
----
-
 ## How To:
 
 1. **Introduce participants to the space** - Explain that the room (or trello board) is a fluid, interactive space. It's like a thermometer or spectogram. Say that you will be making some intentionally controversial statements. On one side is where people should stand (put their name) if they strongly agree and the other is they strongly disagree. If they are feeling middle ground - stand in the middle of the room.
@@ -64,7 +62,7 @@ Ask if anyone wants to challenge other's choices and compel them to change their
 
 ## Examples:
 
-* ![trello spectrogram](/img/methods/design-o-meter-trello.png)
+1. ![trello spectrogram](/img/methods/design-o-meter-trello.png)
 
 ---
 

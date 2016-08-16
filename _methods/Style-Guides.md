@@ -18,8 +18,6 @@ Designers and Front End Developers
 
 After you've got some visual design done, possibly you've done [style tiles](/methods/style-tiles/) and you are moving on to some mockups. It's helpful to have the guide be one of the first things you do after visual design is starting to formulate and feel good.
 
----
-
 ## How To:
 
 1. Take the visual designs and make an [inventory](/methods/interface-inventory/) of all the elements, looking for repeated things, such as buttons, type sizing, and components or modules that you reuse.

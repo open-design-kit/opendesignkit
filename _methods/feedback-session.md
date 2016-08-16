@@ -18,8 +18,6 @@ Try to get as many stakeholders and product team members in the room. Having a f
 
 It's a tricky thing to decide when to run a feedback session. In general, when working on a project, you should routinely be running feedback sessions.  
 
----
-
 ## How To:
 
 1. Schedule and announce your feedback session in advance. A feedback or critique meeting can be mentally taxing - for all participants, so plan for it to take no longer than 90 minutes if anyone is not co-located. The guest list is the core team working on the project. All participants are permitted to invite guests. If you do invite a guest, inform the guest as to why they are being invited to the call and explain to them what role they are expected to play in the meeting. For example, "Hey Shaq, I'm so glad that you can make it to the critique on Wednesday. Considering your expertise in basketball, I would love for you to give feedback about the Services targeted at the sports industry when I share the mockups for the Services page."

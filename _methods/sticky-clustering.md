@@ -25,8 +25,6 @@ This varies depending upon what information you are trying to synthesize, howeve
 
 This should be done after an idea generation method such as creating [experience attributes](/methods/experience-attributes/)
 
----
-
 ## How To:
 
 1. Generate a plethora of stickies around your idea using an online brainstorming tool such as [BoardThing](http://boardthing.com). For a more thorough explanation of this, check out [experience attributes](/methods/experience-attributes/)

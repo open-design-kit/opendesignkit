@@ -135,7 +135,8 @@ p {
 
 .site-header {
     align-items: center;
-    background-color: #393466;
+    background: #393466 url('/img/pattern-header.svg') bottom left;
+    background-size: 1264px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -194,7 +195,7 @@ a.site-nav-list-link:visited {
 
 .site-tag {
     color: #fff;
-    margin: 0 0 1rem 0;
+    margin: 0 0 1.5rem 0;
     padding: 0;
 }
 
@@ -257,7 +258,7 @@ a:active.filter-button {
 /*-------------------------------*/
 
 footer {
-    background-color: #fff;
+    background-color: #F3F3F3;
     border: solid transparent;
     border-width: 0 0 10px 0;
     -webkit-border-image: url/img/rainbow-header.svg) 4 1 4 1 stretch;
@@ -438,13 +439,13 @@ footer p a:active {
 /* TODO: figure out how to handle height here for various screen sizes */
 .method-list-item {
     background-color: #EFEDED;
-    border: 1px solid #fff;
     float: left;
     font-size: 1em;
     line-height: 1.2;
     height: 275px;
+    margin-bottom: .5rem;
     position: relative;
-    width: 50%;
+    width: 100%;
 }
 
 a.method-list-link:link,
@@ -463,36 +464,47 @@ a.method-list-link:active {
 
 /* Using floats to clear things when appropriate, so can be easily change */
 
-.method-list-item:nth-child(2n +1) {
-    clear: left;
-    margin-left: 0;
+@media (min-width: 25em) {
+    .method-list-item {
+        margin-left: .5%;
+        width: 49%;
+    }
+    .method-list-item:nth-child(2n +1) {
+        clear: left;
+        margin-left: 0;
+
+    }
 }
 
-@media (min-width: 50em) {
+@media (min-width: 40em) {
     .method-list-item {
-        width: 33%;
+        width: 32%;
     }
 
     .method-list-item:nth-child(2n +1) {
         clear: none;
+        margin-left: .5%;
     }
 
     .method-list-item:nth-child(3n +1) {
         clear: left;
+        margin-left: 0;
     }
 }
 
-@media (min-width: 70em) {
+@media (min-width: 56em) {
     .method-list-item {
-        width: 25%;
+        width: 24%;
     }
 
     .method-list-item:nth-child(3n +1) {
         clear: none;
+        margin-left: .5%;
     }
 
     .method-list-item:nth-child(4n +1) {
         clear: left;
+        margin-left: 0;
     }
 }
 
@@ -918,6 +930,64 @@ Mid-BP:				High BP:
 /*---------- Method content ------------------*/
 /*--------------------------------------------*/
 
+.method-header {
+    margin: 3.5rem 0 4rem;
+    position: relative;
+    text-align: center;
+}
+
+.method-header-view {
+    position: relative;
+}
+
+.method-header-phase {
+    font-size: 12px;
+    left: 6px;
+    padding: 3px 6px;
+    position: relative;
+    text-transform: capitalize;
+    top: -4px;
+}
+
+.method-header-phase.define {
+    background-color: #54E3AE;
+}
+
+.method-header-phase.discover {
+    background-color: #F5A623;
+}
+
+.method-header-phase.develop {
+    background-color: #3994FF;
+}
+
+.method-header-phase.design {
+    background-color: #EF5BB5;
+}
+
+a.method-header-view:link,
+a.method-header-view:visited {
+    color: #e6008c;
+    left: 0;
+    position: absolute;
+    top: -2rem;;
+}
+
+a.method-header-view:hover,
+a.method-header-view:active {
+
+}
+
+@media (min-width: 40em) {
+    a.method-header-view:link {
+        top: 0;
+    }
+}
+
+.method-content .method-contributors {
+    font-size: 12px;
+}
+
 .tools {
     background-color: #393466;
     color: #fff;
@@ -1071,6 +1141,22 @@ gonna style elements using this class */
     margin-left: 20px;
 }
 
+.method-content ul > li > a:link,
+.method-content ul > li > a:visited {
+    color: #e6008c;
+}
+
+.method-content ul > li > a:hover,
+.method-content ul > li > a:active {
+    color: #e6008c;
+
+}
+
+.method-content ul > li > img {
+    max-width: 400px;
+    margin-bottom: 2rem;
+}
+
 /*----------------------------------------*/
 /*---------- subpages --------------------*/
 /*----------------------------------------*/
@@ -1089,8 +1175,8 @@ gonna style elements using this class */
 }
 
 .subpage-head {
-    background-color: #EFEDED;
     padding: 1.8rem 0 1.1rem;
+    text-align: center;
 }
 
 .subpage ul {

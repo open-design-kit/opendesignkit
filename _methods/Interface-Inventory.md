@@ -19,8 +19,6 @@ After visual design has been started and the designer feels comfortable with mov
 
 Designers, Stakeholders and front-end engineers.
 
----
-
 ## How To:
 
 1. Start with a page/screen/view of the site or application or with a print out of the visual design. Begin pulling out visual elements. If using paper printouts, cut them up into elements. If digitally, screenshot them and put them in a collaborative space like Google Drive, pasting images into a document.
@@ -33,7 +31,7 @@ Designers, Stakeholders and front-end engineers.
 
 ---
 
-## Examples and more information:
+## Learn more:
 
 * [Brad Frost’s Interface Inventory](http://bradfrost.com/blog/post/interface-inventory/)
 * [_From Pages to Patterns_ on _A List Apart_](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone)
