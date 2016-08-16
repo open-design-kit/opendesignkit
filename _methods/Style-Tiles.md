@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: method
+type: 
 title: Style Tiles
 category: discover
 teaser: Ensure consistency of fonts, colors and interface elements to communicate the essence of a visual brand for the web.

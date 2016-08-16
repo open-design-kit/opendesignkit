@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: method
+type: 
 title: Experience Attributes
 category: define
 teaser: Generate descriptive words to inform the mood boards and visual direction of the project.

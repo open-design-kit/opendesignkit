@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: method
+type: 
 title: Style Guide
 category: define
 teaser: Document the components that make up the web site or application to ensure consistency of design and code.

@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: method
+type: 
 title: Design Values
 category: discover
 teaser: Workshop a set of values to help you frame future conversations around product success.

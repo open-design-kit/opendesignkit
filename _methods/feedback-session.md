@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: method
+type: 
 title: Feedback Session
 category: define
 teaser: Explore some ways to collect constructive feedback for designs and protoypes.

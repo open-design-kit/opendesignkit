@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: method
+type: 
 title: Journey Maps
 category: define
 teaser: Define the happy path for your personas.

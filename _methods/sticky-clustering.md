@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: method
+type: 
 title: Sticky Clustering
 category: define
 teaser: Synthesize information with this sorting exercise.

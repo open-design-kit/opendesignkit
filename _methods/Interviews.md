@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: method
+type: 
 title: Interviewing
 category: discover
 teaser: Talk to users to find out what their needs are so you can build a product they'll love.

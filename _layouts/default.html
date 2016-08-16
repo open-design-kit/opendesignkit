@@ -15,7 +15,6 @@
                 <div class="site-logo">
                     <h1 class="logo"><a class="logo-link" href="/">Open Design Kit</a></h1>
                 </div>
-                <!-- todo: submit on enter? -->
                 <nav role="nav" class="site-nav">
                     <ul class="site-nav-list">
                         <li class="site-nav-list-item"><a class="site-nav-list-link" href="/contribute">Contribute</a></li>
@@ -23,7 +22,7 @@
                     </ul>
                 </nav>
             </header>
-            {% if page.type == "home" or "method" %}
+            {% if page.type != null %}
             <div class="home-header-sub">
                 <div class="site-tag">
                     <h2 class="hed-a site-tag">A distributed team can do great design &mdash; here’s how.</h2>

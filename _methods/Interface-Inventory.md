@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: method
+type: 
 title: Interface Inventory
 category: define
 teaser: Break designs into components, creating a catalogue for use in code.
