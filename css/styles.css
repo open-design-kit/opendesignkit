@@ -277,7 +277,7 @@ a.site-nav-list-link:visited {
 
     .filter-buttons > li:nth-child(2n +1) {
         clear: none;
-        margin-left: .5em;
+        margin-left: 0;
     }
 }
 
