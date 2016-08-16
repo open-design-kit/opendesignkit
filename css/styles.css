@@ -224,18 +224,61 @@ a.site-nav-list-link:visited {
 
 .filter-label {
     color: #fff;
-    display: inline-block;
+    display: block;
     font-size: 12px;
+    margin-left: .5rem;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+@media (min-width: 25em) {
+    .filter-label {
+        display: inline-block;
+        margin-left: 0;
+        margin-bottom: 0;
+        position: relative;
+        text-align: center;
+        top: -.75rem;
+    }
 }
 
 .filter-buttons {
-    display: inline;
+    display: block;
     margin: 0 0 0 .5em;
     padding: 0;
 }
 
+.filter-buttons:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+@media (min-width: 25em) {
+    .filter-buttons {
+        display: inline-block;
+    }
+}
+
 .filter-buttons > li {
-    display: inline-block;
+    float: left;
+    margin-bottom: 1rem;
+}
+
+.filter-buttons > li:nth-child(2n +1) {
+    clear: left;
+    margin-left: 0;
+}
+
+@media (min-width: 22em) {
+    .filter-buttons > li {
+        margin-bottom: 0;
+    }
+
+    .filter-buttons > li:nth-child(2n +1) {
+        clear: none;
+        margin-left: .5em;
+    }
 }
 
 a.filter-button {
