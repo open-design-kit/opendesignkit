@@ -1251,3 +1251,19 @@ gonna style elements using this class */
     margin-bottom: 1rem;
     margin-left: 1.25rem;
 }
+
+.figure {
+    margin: 1em 0;
+    padding: 0;
+}
+
+.figure img {
+    margin: 0 auto;
+}
+
+.figcaption {
+    color: #999;
+    font-size: .875rem;
+    font-style: italic;
+    margin: 1em 0 2em;
+}
