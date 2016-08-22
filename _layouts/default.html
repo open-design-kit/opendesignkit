@@ -12,15 +12,17 @@
   <body class="{{page.type}}">
         <div class="content">
             <header class="site-header" role="banner">
-                <div class="site-logo">
-                    <h1 class="logo"><a class="logo-link" href="/">Open Design Kit</a></h1>
+                <div class="site-header-wrapper">
+                    <div class="site-logo">
+                        <h1 class="logo"><a class="logo-link" href="/">Open Design Kit</a></h1>
+                    </div>
+                    <nav role="nav" class="site-nav">
+                        <ul class="site-nav-list">
+                            <li class="site-nav-list-item"><a class="site-nav-list-link" href="/contribute">Contribute</a></li>
+                            <li class="site-nav-list-item"><a class="site-nav-list-link" href="/about">About</a></li>
+                        </ul>
+                    </nav>
                 </div>
-                <nav role="nav" class="site-nav">
-                    <ul class="site-nav-list">
-                        <li class="site-nav-list-item"><a class="site-nav-list-link" href="/contribute">Contribute</a></li>
-                        <li class="site-nav-list-item"><a class="site-nav-list-link" href="/about">About</a></li>
-                    </ul>
-                </nav>
             </header>
             {% if page.type != null %}
             <div class="home-header-sub">

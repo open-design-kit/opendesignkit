@@ -79,6 +79,7 @@ html {
 }
 
 body {
+    background-color: #403B6E;
     color: black;
     display: flex;
     flex-direction: column;
@@ -94,17 +95,16 @@ img {
 
 a:link,
 a:active {
-    border-bottom: 1px dashed #e6008c;
-    color: #000;
+    color: #e6008c;
     padding-bottom: .1rem;
     text-decoration: none;
 }
 
 a:hover,
 a:visited {
-    color: #000;
-    border-bottom: 1px dashed #e6008c;
-    text-decoration: none;
+    /*color: #000;*/
+    /*border-bottom: 1px dashed #e6008c;*/
+    text-decoration: underline;
 }
 
 .bold {
@@ -137,12 +137,17 @@ p {
     align-items: center;
     background: #393466 url('/img/pattern-header.svg') bottom left;
     background-size: 1264px;
-
     padding: 2em 1em;
 }
 
+.site-header-wrapper {
+    max-width: 1040px;
+    margin: 0 auto;
+}
+
 @media (min-width: 40em) {
-    .site-header {
+    .site-header-wrapper {
+        align-items: center;
         display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
@@ -347,21 +352,27 @@ footer p a:active {
 
 .wrapper {
     margin: 0 auto;
-    max-width: 920px;
+    max-width: 1040px;
     padding: 2em 1em;
 }
 
-@media (min-width: 30em) {
+@media (min-width: 68em) {
     .wrapper {
-        padding: 4em;
+        padding: 2em 0;
     }
 }
 
+/*@media (min-width: 30em) {
+    .wrapper {
+        padding: 4em;
+    }
+}*/
+
 @media (min-width: 52em) {
 
-  footer .wrapper {
+  /*footer .wrapper {
     padding: 3em 4em;
-  }
+  }*/
 
   .bocoup-logo {
     float: left;
@@ -444,7 +455,8 @@ footer p a:active {
 /*---------- Home page ----------------*/
 /*--------------------------------------------*/
 .home,
-.filterPage {
+.filterPage,
+.method {
     background-color: #403B6E;
 }
 
@@ -512,6 +524,7 @@ footer p a:active {
 a.method-list-link:link,
 a.method-list-link:visited {
     border: none;
+    color: #000;
     display: inline-block;
     height: 100%;
     padding: 8% 8% 8% 12%;
@@ -520,7 +533,8 @@ a.method-list-link:visited {
 
 a.method-list-link:hover,
 a.method-list-link:active {
-
+    color: #000;
+    text-decoration: none;
 }
 
 /* Using floats to clear things when appropriate, so can be easily change */
@@ -1088,14 +1102,15 @@ a.method-header-view:active {
 gonna style elements using this class */
 
 .method-content {
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 1rem 1rem;
+    background-color: #EFEDED;
+    max-width: 1040px;
+    margin: 3rem auto 0;
+    padding: 1rem 1rem 2rem 1rem;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 68em) {
     .method-content {
-        padding: 1rem 0;
+        padding: 1rem 8% 2rem;
     }
 }
 
@@ -1223,15 +1238,15 @@ gonna style elements using this class */
 /*----------------------------------------*/
 
 .subpage {
-    max-width: 100%;
-    margin: 0 auto;
+    background-color: #EFEDED;
+    max-width: 1040px;
+    margin: 3rem auto 0;
     padding: 1rem;
 }
 
 @media (min-width: 64em) {
     .subpage {
-        max-width: 60.64453125%;
-        padding: 1rem 0;
+        padding: 1rem 8%;
     }
 }
 
