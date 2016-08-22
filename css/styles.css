@@ -148,6 +148,7 @@ p {
 
 @media (min-width: 40em) {
     .site-header-wrapper {
+        align-items: center;
         display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
