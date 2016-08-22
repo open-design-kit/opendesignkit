@@ -102,8 +102,7 @@ a:active {
 
 a:hover,
 a:visited {
-    /*color: #000;*/
-    /*border-bottom: 1px dashed #e6008c;*/
+    color: #e6008c;
     text-decoration: underline;
 }
 
@@ -168,7 +167,6 @@ a.logo-link:link,
 a.logo-link:visited {
     background: url('/img/odk-logo.svg') no-repeat 0 0;
     background-size: cover;
-    border: none;
     display: block;
     height: 44px;
     text-indent: -99999px;
@@ -197,7 +195,6 @@ a.logo-link:visited {
 
 a.site-nav-list-link:link,
 a.site-nav-list-link:active {
-    border: none;
     color: #fff;
     display: inline-block;
     font-style: normal;
@@ -287,7 +284,6 @@ a.site-nav-list-link:visited {
 }
 
 a.filter-button {
-    border: none;
     color: #000;
     display: inline-block;
     font-size: 14px;
@@ -298,7 +294,6 @@ a.filter-button {
 /* TODO: put in active and hover states */
 a:hover.filter-button,
 a:active.filter-button {
-    border: none;
     cursor: pointer;
     padding: 9px 11px;
 }
@@ -341,7 +336,6 @@ footer p {
 
 footer p a:link,
 footer p a:visited {
-    border: none;
     color: #4A90E2;
 }
 
@@ -523,7 +517,6 @@ footer p a:active {
 
 a.method-list-link:link,
 a.method-list-link:visited {
-    border: none;
     color: #000;
     display: inline-block;
     height: 100%;
@@ -584,14 +577,12 @@ a.method-list-link:active {
 }
 
 .method-list-hed {
-    border: none;
     font-family: 'Baskerville Libre', Georgia, serif;
     font-size: 1.125rem;
     font-weight: normal;
 }
 
 .method-list-desc {
-    border: none;
     font-size: .75em;
     line-height: 1.2;
 }
