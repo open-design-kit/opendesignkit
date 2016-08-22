@@ -137,12 +137,16 @@ p {
     align-items: center;
     background: #393466 url('/img/pattern-header.svg') bottom left;
     background-size: 1264px;
-
     padding: 2em 1em;
 }
 
+.site-header-wrapper {
+    max-width: 1040px;
+    margin: 0 auto;
+}
+
 @media (min-width: 40em) {
-    .site-header {
+    .site-header-wrapper {
         display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
@@ -347,21 +351,27 @@ footer p a:active {
 
 .wrapper {
     margin: 0 auto;
-    max-width: 920px;
+    max-width: 1040px;
     padding: 2em 1em;
 }
 
-@media (min-width: 30em) {
+@media (min-width: 68em) {
     .wrapper {
-        padding: 4em;
+        padding: 2em 0;
     }
 }
 
+/*@media (min-width: 30em) {
+    .wrapper {
+        padding: 4em;
+    }
+}*/
+
 @media (min-width: 52em) {
 
-  footer .wrapper {
+  /*footer .wrapper {
     padding: 3em 4em;
-  }
+  }*/
 
   .bocoup-logo {
     float: left;
