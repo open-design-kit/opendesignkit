@@ -95,17 +95,16 @@ img {
 
 a:link,
 a:active {
-    border-bottom: 1px dashed #e6008c;
-    color: #000;
+    color: #e6008c;
     padding-bottom: .1rem;
     text-decoration: none;
 }
 
 a:hover,
 a:visited {
-    color: #000;
-    border-bottom: 1px dashed #e6008c;
-    text-decoration: none;
+    /*color: #000;*/
+    /*border-bottom: 1px dashed #e6008c;*/
+    text-decoration: underline;
 }
 
 .bold {
@@ -1103,7 +1102,7 @@ gonna style elements using this class */
 .method-content {
     background-color: #EFEDED;
     max-width: 1040px;
-    margin: 2rem auto 0;
+    margin: 3rem auto 0;
     padding: 1rem 1rem 2rem 1rem;
 }
 
@@ -1237,15 +1236,15 @@ gonna style elements using this class */
 /*----------------------------------------*/
 
 .subpage {
-    max-width: 100%;
-    margin: 0 auto;
+    background-color: #EFEDED;
+    max-width: 1040px;
+    margin: 3rem auto 0;
     padding: 1rem;
 }
 
 @media (min-width: 64em) {
     .subpage {
-        max-width: 60.64453125%;
-        padding: 1rem 0;
+        padding: 1rem 8%;
     }
 }
 
