@@ -524,6 +524,7 @@ footer p a:active {
 a.method-list-link:link,
 a.method-list-link:visited {
     border: none;
+    color: #000;
     display: inline-block;
     height: 100%;
     padding: 8% 8% 8% 12%;
@@ -532,7 +533,8 @@ a.method-list-link:visited {
 
 a.method-list-link:hover,
 a.method-list-link:active {
-
+    color: #000;
+    text-decoration: none;
 }
 
 /* Using floats to clear things when appropriate, so can be easily change */
