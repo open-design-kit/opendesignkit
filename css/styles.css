@@ -79,6 +79,7 @@ html {
 }
 
 body {
+    background-color: #403B6E;
     color: black;
     display: flex;
     flex-direction: column;
@@ -454,7 +455,8 @@ footer p a:active {
 /*---------- Home page ----------------*/
 /*--------------------------------------------*/
 .home,
-.filterPage {
+.filterPage,
+.method {
     background-color: #403B6E;
 }
 
@@ -1098,14 +1100,15 @@ a.method-header-view:active {
 gonna style elements using this class */
 
 .method-content {
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 1rem 1rem;
+    background-color: #EFEDED;
+    max-width: 1040px;
+    margin: 2rem auto 0;
+    padding: 1rem 1rem 2rem 1rem;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 68em) {
     .method-content {
-        padding: 1rem 0;
+        padding: 1rem 8% 2rem;
     }
 }
 
