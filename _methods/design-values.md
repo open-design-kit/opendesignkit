@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: 
+type:
 title: Design Values
 category: discover
 teaser: Workshop a set of values to help you frame future conversations around product success.
@@ -39,7 +39,7 @@ Use this at the beginning of a project when you need a "north star" to guide eve
 
 9. If it's needed to prioritize the item groups in terms of importance, use dot voting. Assign participants a finite number of votes, such as 3 votes for the most important, 2 votes for the second most important, and 1 vote for the third important (voting works best if participants can't spend all their votes on one item or spread them out evenly).
 
-10. Once participants have voted on the groups by importance, focus on 5-7 groups and have participants start coming up with statements of what the exeprience of using [the product or project that needs design values] is like according to each value that emerged.
+10. Once participants have voted on the groups by importance, focus on 5-7 groups and have participants start coming up with statements of what the experience of using [the product or project that needs design values] is like according to each value that emerged.
 
 11. If value groups have more than on sentence, discuss as a group which statement best fits the value.
 
@@ -58,4 +58,4 @@ Use this at the beginning of a project when you need a "north star" to guide eve
 
 * [Experience Design Principles](https://uxthink.wordpress.com/2011/02/01/expereince-design-principles/)
 * [Nordstrong UX Principles](http://www.justinmarxdesign.com/nordstrom-ux-principles)
-* [Design Principles For The Win](http://www.designprinciplesftw.com}
+* [Design Principles For The Win](http://www.designprinciplesftw.com)

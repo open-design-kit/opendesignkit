@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: 
+type:
 title: Feedback Session
 category: define
 teaser: Explore some ways to collect constructive feedback for designs and protoypes.
@@ -37,7 +37,7 @@ It's a tricky thing to decide when to run a feedback session. In general, when w
     * I wish ______________ .
 
 
-6. Define next steps in writing for every project. This will help presenters to take action after the call and will help you as the feedback session facillitator to set up the next feedback session because you will have a prepared agenda.
+6. Define next steps in writing for every project. This will help presenters to take action after the call and will help you as the feedback session facilitator to set up the next feedback session because you will have a prepared agenda.
 
 ---
 
