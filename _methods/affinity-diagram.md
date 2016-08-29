@@ -1,10 +1,10 @@
 ---
 layout: methods
 type: 
-title: Sticky Clustering
+title: Affinity Diagram
 category: define
 teaser: Synthesize information with this sorting exercise.
-contributors: Jess Klein, Susan Robertson
+contributors: Jess Klein, Pam Drouin
 toolsDesc: Tools can be mixed and matched based on your personal preference.
 tools:
   - Boardthing
