@@ -19,15 +19,16 @@ Right after the [Experience Attributes](/methods/experience-attributes/) activit
 
 ## How To:
 
-1. Using the words gathered from the [Experience Attributes](/methods/experience-attributes/) and [Clustering activities](/methods/sticky-clustering), start searching for images.
 
-2. Place the images in a document and organize them in a way that makes sense for you. As an alternative to using an image editing software, you can use an [inVision board](http://blog.invisionapp.com/boards-share-design-inspiration-assets/) or even [Pinterest](https://www.pinterest.com/)
+1. **Gather experience attributes:**Using the words gathered from the [Experience Attributes](https://github.com/bocoup/opendesignkit/wiki/experience-attributes) and [Clustering activities](https://github.com/bocoup/opendesignkit/wiki/sticky-clustering), start searching the web for images that represent feelings associated with those words. The images can be poetic (example: a rainbow or a flower) or more literal (example: a GUI).
+
+2.**Organize your findings:** Place the images in a document and organize them in a way that makes sense for you. As an alternative to using an image editing software, you can use an [inVision board](http://blog.invisionapp.com/boards-share-design-inspiration-assets/) or even [Pinterest](https://www.pinterest.com/)
     ![collect images](/img/methods/moodboards/cssconf-moodboard-example-1.jpg)
 
-3. You can also incorporate the words you used in order to reference the images.
+3. ** Incorporate experience attributes:**You can also incorporate the words you used in order to reference the images.
     ![add words](/img/methods/moodboards/cssconf-moodboard-example-2.jpg)
 
-4. Save and share your collection with the stakeholders and pay attention to their reaction, that way you'll get a sense if you've taken the right path or you need to continue exploring other ideas before moving on to the visual studies. The moodboard is a great tool to support conversations about what "feels right" for the project.
+4. **Share your moodboard:**Save and share your collection with the stakeholders and pay attention to their reaction, that way you'll get a sense if you've taken the right path or you need to continue exploring other ideas before moving on to the visual studies. The moodboard is a great tool to support conversations about what "feels right" for the project.
 
 ---
 
