@@ -47,17 +47,20 @@ Journey maps are created after you've made personas for your project. Use the pe
 
 ### Activity
 
-1. **Select your persona:** Select a persona that you have created earlier. Go over this person's goals, values and what makes them stressed.
 
-2. **Choose a scenario to walk through:**  Choose something that starts before interacting with your project.  If you have an application, don't start at logging in, instead start at the motive that would make someone need to log in.
+1. **Select your persona:** This activity will build off of existing personas. Select a persona that you have created earlier. Go over this person's goals, values and what makes them stressed. (If you haven’t made a persona, and are short on time, try to identify a typical user for your project.) 
 
-For example, if you have an application that provides a taxi service, you could start the user journey with the persona needing to get to a specific location: "Lila needs to get to the airport and her flight leaves in 2 hours."
+2. **Role play:** Have one participant take on the role of the persona. All of the other participants should take notes in a text application (Google Docs, Etherpad),document (either in a text document or using a more visual application such as BoardThing) and ask the persona clarifying questions. 
 
-3. **Write out steps:** Now that you have the scenario, go step by step until your persona completes their task.
-By walking through the scenario you might come up with problems you never accounted for otherwise. What if Lila has bad cell coverage? Will your account creation process add to her stress?  How will she know when the car has arrived? How will she know her ETA for getting to the airport?  What other things are important to Lila in this particular scenario.
+3. **Start from the very beginning:** The person playing the role of persona should start out by identifying what their goal is. (Example: my goal is to book a hotel for my vacation with my partner). Next, have them identify the very first step that they might take in order to achieve that goal. Note that this most likely will start before the persona even gets on to the website or application. (Example: I ask a participant “where do you want to go on vacation?”) 
 
-4. **Ask for feedback** Get feedback on journey maps! Other people might come up with things you didn't account for.  It's good to be prepared before you start making wireframes and prototyping. Remember to tweet @bocoup #opendesignkit
+4. **Describe each step in detail:** From here on out have the persona role player walk through every possible step that they would take until just after they reach their goal. The steps taken after the goal has been achieved are crucial to note as it informs you where they are heading next. 
 
+
+ If you have an application, don't start at logging in, instead start at the motive that would make someone need to log in.
+
+
+5. **Ask for feedback** Once you have completed documenting the entire scenario, have the non-persona role playing participants provide feedback on the journey. Now is a good time to ask clarifying questions ranging from the order of steps that a persona might take to more nuanced inquiries. 
 
 ---
 
