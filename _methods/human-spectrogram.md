@@ -20,21 +20,25 @@ This activity is ideal to do when lots of people have different opinions on a gi
 
 ## How To:
 
-1. **Introduce participants to the space** - Explain that the room (or Trello board) is a fluid, interactive space. It's like a thermometer or spectrogram. Say that you will be making some intentionally controversial statements. On one side is where people should stand (put their name) if they strongly agree and the other is they strongly disagree. If they are feeling middle ground - stand in the middle of the room.
+1. **Introduce participants to the space** - Explain that the Trello board is a fluid, interactive space. It's like a thermometer or spectrogram. Say that you will be making some intentionally controversial statements. On one column is where people should put their name if they strongly agree and the other is if they strongly disagree. If they are feeling middle ground - place your name in the middle of the board. This entire activity will be done in trello, while participants join in on either a call (via a tool such as google hangouts or appear.in) or a text based channel (via a tool such as Slack or IRC).
 
-2. **Say intentional controversial statement** - Here are 3 prepared statements. You might only get through one - and that's totally fine. The goal is to get people to loosen up and start to feel comfortable talking about design.
+2. **Say intentional controversial statement** - Here are 3 prepared statements. You might only get through one - and that's totally fine. The goal is to get people to loosen up and start to feel comfortable talking about design. Here are some icebreaker questions to get the conversation started:
 
-    * I do design at [x]   
-    * I need to know how to design
-    * I understand what design is at [x]
+* New York has the best pizza
+* Horror is the best movie genre.
+* Dogs are better than cats.
+* Bigfoot and Yetis are the same thing.
+* The Ewoks are the best part of the Star Wars Franchise.
 
-3. **Get movin!** Participants should move to the part of the room or board to express where they stand.
+3. **Get movin’!** Participants should move to the part of the board to express where they stand.
 
-4. **Facilitate conversation** - when you say your statement you should have a pencil or pen in your hand. At this point participants should be spread out over the room. Walk over to a participant who is on one of the strongly agree/disagree sides and hand them "talking stick"(pencil in person - but remote should just call out the participant). Ask them to say why they are standing (placed) where they are. After they finish, ask who disagrees with them (on the other side of the room/board) - have that person explain why. When people talk you might expect some movement or change of peoples place in the room or the document. Note that movement and ask people what prompted them to move.
+4. **Facilitate conversation**  At this point participants should be spread out over the Trello board. Ask a participant who is on one of the strongly agree/disagree sides and ask them to say why they are placed where they are. After they finish, ask who disagrees with them (on the other side of the board) - have that person explain why. When people talk you might expect some movement or change of a participant’s place in the document. Note that movement and ask people what prompted them to move.
 
 5. **Repeat**
 
     ![human spectrogram image](/img/methods/design-o-meter.jpg)
+
+
 
 ---
 
