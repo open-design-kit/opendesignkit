@@ -4,8 +4,20 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | Open Design Kit</title>
-    <link rel="stylesheet" type="text/css" href="/css/styles.css" media="screen">
+    <title>
+      {% capture page_title %}{% t page.title %}{% endcapture %}
+      {% if page_title %}
+        {{ page_title }}
+      {% else %}
+        {{ page.title }}
+      {% endif %}
+      | Open Design Kit
+    </title>
+    <link
+      rel="stylesheet"
+      href="{{ "/css/styles.css" | prepend: site.baseurl_root }}"
+      media="screen"
+    >
     <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,300italic,300,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
   </head>
@@ -18,8 +30,8 @@
                     </div>
                     <nav role="nav" class="site-nav">
                         <ul class="site-nav-list">
-                            <li class="site-nav-list-item"><a class="site-nav-list-link" href="/contribute">Contribute</a></li>
-                            <li class="site-nav-list-item"><a class="site-nav-list-link" href="/about">About</a></li>
+                            <li class="site-nav-list-item"><a class="site-nav-list-link" href="{% tl contribute %}">{% t global.contribute %}</a></li>
+                            <li class="site-nav-list-item"><a class="site-nav-list-link" href="{% tl about %}">{% t global.about %}</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -51,7 +63,14 @@
             <img src="/img/bocoup.png" alt="">
           </picture>
 
-          <p>Bocoup maintains Open Design Kit as an open source tool. To share your feedback, open an  issue or a pull request on our <a href="https://github.com/bocoup/opendesignkit" target="_blank">Github repository</a>.</p>
+          {% tf footer-note.md %}
+        </div>
+        <div class="wrapper">
+          Available locales:
+          {% for lang in site.languages %}
+            {% capture lang_url %}{% if lang != site.default_lang %}{{ lang }}{% endif %}{% endcapture %}
+            <a href="/{{ lang_url | prepend: site.baseurl_root }}">{{ lang }}</a>
+          {% endfor %}
         </div>
       </footer>
   </body>
