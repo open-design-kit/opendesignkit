@@ -65,13 +65,13 @@
 
           {% tf footer-note.md %}
         </div>
-        <div class="wrapper">
+        <!-- <div class="wrapper">
           Available locales:
           {% for lang in site.languages %}
             {% capture lang_url %}{% if lang != site.default_lang %}{{ lang }}{% endif %}{% endcapture %}
             <a href="/{{ lang_url | prepend: site.baseurl_root }}">{{ lang }}</a>
           {% endfor %}
-        </div>
+        </div> -->
       </footer>
   </body>
  </html>

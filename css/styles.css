@@ -344,6 +344,10 @@ footer p a:active {
     text-decoration: underline;
 }
 
+footer img {
+    width: auto;
+}
+
 .wrapper {
     margin: 0 auto;
     max-width: 1040px;
