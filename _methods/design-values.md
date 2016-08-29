@@ -21,27 +21,23 @@ Use this at the beginning of a project when you need a "north star" to guide eve
 
 ## How To:
 
-1. Choose online products that everyone can use remotely. [Boardthing.com](http://boardthing.com/) is a great product that people can use synchronously for completeling workshop steps (adding items to an infinite canvas, moving items around, voting on them).
+1. **Prep your agenda:** Prior to setting up the workshop date, setup and stage a Boardthing board with items like an Agenda and Prompts. Boardthing offers the ability to collapse lists, which gives facilitators the ability to keep the focus of participants.
 
-2. Before the workshop date, stage your Boardthing with items like an Agenda and Prompts. A product like Boardthing offers the ability to collapse lists, which I prefer to do, because as a facilitator, I like to keep the focus of participants on one thing at a time.
+2. **Schedule a workshop:**Decide with your participants when you would like to hold the workshop. Once a date is decided upon, make sure everyone has the link to the board you made and a way of communicating audio-visually where people can screenshare (like Google Hangouts or Screenhero).
 
-3. Decide with your participants when you would like to hold the workshop. Once a date is decided upon, make sure everyone has the link to the board you made and a way of communicationg audio-visually where people can screen-share (like Google Hangouts or Screenhero).
+3.**Begin the workshop with an introduction.** Explain that the purpose of the workshop is to create design values. To make design values, we will identify certain attributes that inform our work. Design values empower the product or project team to filter opportunities, make challenging design decisions and ultimately define success. 
 
-4. Begin the workshop with an introduction. Explaining the purpose of the workshop, what design values are, and how it will help the particular project you need them for.
+4.**Model the behavior that you want participants to follow:** After the intro, explain that for every prompt you ask, participants will make a “stickie” for as many items with words or phrases as they can think of, individually and silently. 
 
-5. After the intro, explain that for every prompt you ask, participants will make as many items with words or phrases as they can think of, individually and silently. If using Boardthing, the items will look like stickies.
+5. **Ask a question:** For design values, it's best to ask an abstract question. [Leah Buley](http://leahbuley.com/) recommends something like, "If [the product or project that needs design values] is a person/place/transportation/food, what kind of quality or attribute would it have?"
 
-6. For design values, it's best to ask an abstract question. Leah Buley recommends something like, "If [the product or project that needs design values] is a person/place/transportation/food, what kind of quality or attribute would it have?"
+6. **Sorting:** Once participants have come up with a good number of items, ask them to begin sorting them into groups that make sense to them. Take a look at the Affinity Diagram method for tips here.
 
-7. Once participants have come up with a good number of items, ask them to begin sorting them in groups that make sense to them.
+7. **Synthesize results:**Once participants have settled on groups (and it's alright to have a few items that are ungrouped), ask them to give the groups names (these names will become the values). If groups have more than one name, open up the discussion by asking participants which one works better.
 
-8. Once participants have settled on groups (and it's alright to have a few items that are ungrouped), ask them to give the groups names (these names will be come values). If groups have more than one name, open up the discussion by asking participants which one works better.
+8.**Prioritize with dot voting:** If it's needed to prioritize the item groups in terms of importance, use dot voting. Assign participants a finite number of votes, such as 3 votes for the most important, 2 votes for the second most important, and 1 vote for the third important (voting works best if participants can't spend all their votes on one item or spread them out evenly).
 
-9. If it's needed to prioritize the item groups in terms of importance, use dot voting. Assign participants a finite number of votes, such as 3 votes for the most important, 2 votes for the second most important, and 1 vote for the third important (voting works best if participants can't spend all their votes on one item or spread them out evenly).
-
-10. Once participants have voted on the groups by importance, focus on 5-7 groups and have participants start coming up with statements of what the experience of using [the product or project that needs design values] is like according to each value that emerged.
-
-11. If value groups have more than on sentence, discuss as a group which statement best fits the value.
+9.**Formulate statements:** Once participants have voted on the groups by importance, focus on 5-7 groups and have participants start coming up with statements of what the experience of using [the product or project that needs design values] is like according to each value that emerged.
 
 ---
 
