@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: 
+type:
 title: Human Spectrogram
 category: discover
 teaser: Get people to open up about where they stand on design decisions.
@@ -12,7 +12,7 @@ This is an icebreaker, it's an activity that helps everyone to see where they st
 
 ## Who’s involved:
 
-Anyone who should be collaborating with eachother.
+Anyone who should be collaborating with each other.
 
 ## When to use it:
 
@@ -20,7 +20,7 @@ This activity is ideal to do when lots of people have different opinions on a gi
 
 ## How To:
 
-1. **Introduce participants to the space** - Explain that the room (or trello board) is a fluid, interactive space. It's like a thermometer or spectogram. Say that you will be making some intentionally controversial statements. On one side is where people should stand (put their name) if they strongly agree and the other is they strongly disagree. If they are feeling middle ground - stand in the middle of the room.
+1. **Introduce participants to the space** - Explain that the room (or Trello board) is a fluid, interactive space. It's like a thermometer or spectrogram. Say that you will be making some intentionally controversial statements. On one side is where people should stand (put their name) if they strongly agree and the other is they strongly disagree. If they are feeling middle ground - stand in the middle of the room.
 
 2. **Say intentional controversial statement** - Here are 3 prepared statements. You might only get through one - and that's totally fine. The goal is to get people to loosen up and start to feel comfortable talking about design.
 
@@ -40,7 +40,7 @@ This activity is ideal to do when lots of people have different opinions on a gi
 
 ## Facillitation Notes
 
-First, explain the task.  A statement will be made and the participants will move around the room, or move their cards on trello to the agree or disagree side.
+First, explain the task.  A statement will be made and the participants will move around the room, or move their cards on Trello to the agree or disagree side.
 
 Participants in the middle of the room, or the "I don't know" column are unsure how to react to the statement.
 

@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: 
+type:
 title: Interviewing
 category: discover
 teaser: Talk to users to find out what their needs are so you can build a product they'll love.
@@ -53,7 +53,7 @@ Interviewing is helpful before every milestone in your project. It's good for co
 
 4. **Think through your questions** - what do you want to know? Basically I want to come away knowing what problem the tool will need to solve - and who that is a problem for.
 
-5. **Let the speed geeking commence** You play referee and start a clock that goes for 4 or 5 min. Then everyone rotates and you do it again. This works best if interviewers go out in pairs with one person acting as the interogator and the other as the documenter. In 15 minutes each participants  will have seen 3 stakeholders and the stakeholders will have chatted 3 times.
+5. **Let the speed geeking commence** You play referee and start a clock that goes for 4 or 5 min. Then everyone rotates and you do it again. This works best if interviewers go out in pairs with one person acting as the interrogator and the other as the documenter. In 15 minutes each participants  will have seen 3 stakeholders and the stakeholders will have chatted 3 times.
 
 6. **Post interview discovery** Discussion: Did you find out anything that went against your original assumptions? Did you find out anything surprising?
 

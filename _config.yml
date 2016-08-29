@@ -1,5 +1,12 @@
+gems:
+  - jekyll-multiple-languages-plugin
+languages:
+  - en
+  - pt-BR
 exclude: [README.md, Gemfile, Gemfile.lock, CNAME, params.json]
 collections:
     methods:
         output: true
         permalink: /methods/:path/
+exclude_from_localizations: ["javascript", "images", "css"]
+permalink: title

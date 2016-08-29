@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: 
+type:
 title: Personas
 category: define
 teaser: Identify user types based on habits and goals of real people, acquired through interviews and conversations.
@@ -37,7 +37,7 @@ These are archetypes based on [interviews](/methods/interviews/). Ideally they a
 
 ###Activity
 
-1. **Overview:** A persona is a character who is respresentative of the needs, thoughts and goals of the target user.  Think of a persona as your typical or ideal user - who do you see using your app? It helps prevent you from generalizing all users into one bucket - thinking that everyone has the same needs and goals. It also prevents you from falling into the pattern of thinking that you are going to experience the application the same way that other users will.  Each person comes from a different background. Personas are designed to help you to empathize with individuals who might use the app, so think of them more as a bio that you might see on a dating website than a job description.
+1. **Overview:** A persona is a character who is representative of the needs, thoughts and goals of the target user.  Think of a persona as your typical or ideal user - who do you see using your app? It helps prevent you from generalizing all users into one bucket - thinking that everyone has the same needs and goals. It also prevents you from falling into the pattern of thinking that you are going to experience the application the same way that other users will.  Each person comes from a different background. Personas are designed to help you to empathize with individuals who might use the app, so think of them more as a bio that you might see on a dating website than a job description.
 
 2. **Goal:** Personas are designed using data that you acquired through your interviews. Using your interview notes, create 1 - 2 personas to represent your core users. Each should have a slightly different story and use case.
 
@@ -54,11 +54,11 @@ These are archetypes based on [interviews](/methods/interviews/). Ideally they a
 
 If you have a large number of participants on your call, have everyone break out into small teams (this is when the chat channel comes in handy)for 20 minutes. After the time is up, regroup and do a 5 - 10 minute verbal shareout. This will allow everyone to literally get on the same page - and hopefully it will also provide some inspiration. If there's time, now would be a good time to get some initial feedback.
 
-5. **Add some personality**: Finesse the persona by including an image, name and quote that expresses the needs and goals of the user. This tends to take a bit of time - give it to particpants. Having fun with persona creation is one way to help them to better understand and gain empathy for users.  *Tip:* Try using Creative Commons licensed images that you can find through Flickr. We highly recommend [these images](https://www.flickr.com/photos/wocintechchat/)
+5. **Add some personality**: Finesse the persona by including an image, name and quote that expresses the needs and goals of the user. This tends to take a bit of time - give it to participants. Having fun with persona creation is one way to help them to better understand and gain empathy for users.  *Tip:* Try using Creative Commons licensed images that you can find through Flickr. We highly recommend [these images](https://www.flickr.com/photos/wocintechchat/)
 
 6. **Ask for feedback** Get feedback on personas. A great way to frame feedback requests is to ask people what they ‘like’ about the persona, and what they ‘wish’ could be done differently or included. This can be done in your chat channel, or in a document. This can also be achieved asynchronously by having an "I like" and "I wish" fill in the blank list at the bottom of your persona document. Ultimately, it's best to have a conversation about your decisions so that they are well informed.
 
-7. **Refine** Take some time to alter the personas based on feedback. Sometime your group might come up with as many as eight different personas! Try to see if you can cluster similar personas so that you eliminate duplicates. If you are still finding yourself with one too many personas, take a vote. Either in the chat app or on the notetaking document - ask participants which persona should be the *core* user persona? In other words, who should you optimize your design for? *Tip:* Try using the Simple Poll app for Slack polls. It uses emojis to vote.  
+7. **Refine** Take some time to alter the personas based on feedback. Sometime your group might come up with as many as eight different personas! Try to see if you can cluster similar personas so that you eliminate duplicates. If you are still finding yourself with one too many personas, take a vote. Either in the chat app or on the note-taking document - ask participants which persona should be the *core* user persona? In other words, who should you optimize your design for? *Tip:* Try using the Simple Poll app for Slack polls. It uses emojis to vote.  
 
 8. **Test**  One way to test if your persona is actually working might be to have someone try to describe the app or experience for your persona. What do they come up with?  
 

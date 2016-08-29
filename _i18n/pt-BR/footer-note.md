@@ -1,0 +1,1 @@
+A Bocoup mantém o Open Design Kit como uma ferramenta Open Source. Para compartilhar o seu feedback, abra uma issue ou um pull request em nosso [repositório no Github](https://github.com/bocoup/opendesignkit).

@@ -1,6 +1,6 @@
 ---
 layout: methods
-type: 
+type:
 title: Style Tiles
 category: discover
 teaser: Ensure consistency of fonts, colors and interface elements to communicate the essence of a visual brand for the web.
@@ -16,7 +16,7 @@ Designers, Stakeholders and front-end engineers.
 
 ## When to use it:
 
-Style tiles are for when a moodboard is too vague and a comp is too literal. Style tiles establish a direct connection with actual interface elements without defining layout. They are useful to design towards the beginning of your visual design phase of work and can be done as part of the [Visual Design Workshop](/methods/visual-design-workshop/).
+Style tiles are for when a [moodboard](/methods/moodboards/) is too vague and a comp is too literal. Style tiles establish a direct connection with actual interface elements without defining layout. They are useful to design towards the beginning of your visual design phase of work and can be done as part of the [Visual Design Workshop](/methods/visual-design-workshop/).
 
 ## How To:
 
