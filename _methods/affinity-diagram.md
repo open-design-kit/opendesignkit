@@ -36,8 +36,9 @@ This should be done after an idea generation method such as creating [experience
 3. Provide a new sticky for each group or cluster that you create. Name the sticky for the cluster.
     ![group and name clusters](/img/methods/clustering-3.png)
 
-4. (optional) Vote on the names to synthesize even further.
+4. (optional) Vote on the names to synthesize even further. This works best if someone takes on the role of facilitator. 
     ![vote on ideas](/img/methods/clustering-4.png)
+
 
 ---
 
