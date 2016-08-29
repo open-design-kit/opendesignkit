@@ -21,13 +21,13 @@ Designers, Stakeholders and front-end engineers.
 
 ## How To:
 
-1. Start with a page/screen/view of the site or application or with a print out of the visual design. Begin pulling out visual elements. If using paper printouts, cut them up into elements. If digitally, screenshot them and put them in a collaborative space like Google Drive, pasting images into a document.
+1. **Deconstruct the layout:** Start with a page/screen/view of the site or application or with a print out of the visual design. Begin pulling out visual elements. If using paper printouts, cut them up into elements and then scan and save them in a shared online space.. If digitally, screenshot them and put them in a collaborative space like Google Drive, pasting images into a document.
 
-2. Arrange like elements together, so that you have all the buttons together, all the headings, all the sidebar boxes, etc.
+2. **Organize elements:** Arrange like elements together, so that you have all the buttons together, all the headings, all the sidebar boxes, etc.
 
-3. Work together as a team, either virtually or in the same room to compare and talk about how you’ve done the groupings. Are the right things grouped together? Should you break some things apart into their own categories? Do people feel like it's making sense?
+3.** Collaborate:** Work together as a team on a chat, video chat and/or screensharing application (Slack, Google Hangouts, Appear.in etc) This could take a good chunk of time, so plan to take breaks.  Are the right things grouped together? Should you break some things apart into their own categories? Do people feel like it's making sense?
 
-4. See if there are items that could be the same design for consistency and usability. Examples of this could be if you have 12 headings but some of them are very similar in design, such as only a few pixels difference in font size or margins or padding, could they be consolidated into one style? What would you name the various modules?
+4. **Synthesize:** See if there are items that could use the same design for consistency and usability. Examples of this could be if you have 12 headings but some of them are very similar in design, such as only a few pixels difference in font size or margins or padding, could they be consolidated into one style? What would you name the various modules?
 
 ---
 
