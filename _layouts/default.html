@@ -28,7 +28,7 @@
                     <div class="site-logo">
                         <h1 class="logo"><a class="logo-link" href="/">Open Design Kit</a></h1>
                     </div>
-                    <nav role="nav" class="site-nav">
+                    <nav role="navigation" class="site-nav">
                         <ul class="site-nav-list">
                             <li class="site-nav-list-item"><a class="site-nav-list-link" href="{% tl contribute %}">{% t global.contribute %}</a></li>
                             <li class="site-nav-list-item"><a class="site-nav-list-link" href="{% tl about %}">{% t global.about %}</a></li>
@@ -54,7 +54,7 @@
             {% endif %}
             {{ content }}
         </div>
-      <footer role="aside">
+      <footer role="contentinfo">
         <div class="wrapper">
 
           <picture class="bocoup-logo">
@@ -65,13 +65,13 @@
 
           {% tf footer-note.md %}
         </div>
-        <div class="wrapper">
+        <!-- <div class="wrapper">
           Available locales:
           {% for lang in site.languages %}
             {% capture lang_url %}{% if lang != site.default_lang %}{{ lang }}{% endif %}{% endcapture %}
             <a href="/{{ lang_url | prepend: site.baseurl_root }}">{{ lang }}</a>
           {% endfor %}
-        </div>
+        </div> -->
       </footer>
   </body>
  </html>
