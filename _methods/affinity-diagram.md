@@ -1,11 +1,9 @@
 ---
 layout: methods
 type: 
-title: Affinity Diagram
+title: Affinity diagram
 category: define
 teaser: Synthesize information with this sorting exercise.
-contributors: Jess Klein, Pam Drouin
-toolsDesc: Tools can be mixed and matched based on your personal preference.
 tools:
   - Boardthing
   - Video Conferencing
@@ -13,19 +11,23 @@ tools:
 ---
 
 
-## Why use or do it:
+## Why do it:
 
 At a certain point in any project you need to move from idea generation to synthesizing so that you can take action on your design. Sticky Clustering helps you to synthesize information while simultaneously engaging the entire product team so that you have complete buy in.
+
+## When to do it:
+
+This should be done after an idea generation method such as creating [experience attributes](/methods/experience-attributes/)
 
 ## Who’s involved:
 
 This varies depending upon what information you are trying to synthesize, however someone with real decision making abilities should be involved.
 
-## When to use it:
+## Time estimate:
 
-This should be done after an idea generation method such as creating [experience attributes](/methods/experience-attributes/)
+Small (1-2 hours)
 
-## How To:
+## One way to do it:
 
 1. Generate a plethora of stickies around your idea using an online brainstorming tool such as [BoardThing](http://boardthing.com). For a more thorough explanation of this, check out [experience attributes](/methods/experience-attributes/)
     ![idea generation](/img/methods/clustering-1.png)
@@ -42,7 +44,7 @@ This should be done after an idea generation method such as creating [experience
 
 ---
 
-## Learn More:
+## Learn more:
 
 * [6 techniques to Brainstorm Ideas for Card Clusters](http://www.avasbutler.com/six-techniques-to-brainstorm-ideas-4-card-clusters/#.V4zrzJMrKRs)
 * [Tools for Online Brainstorms](http://blog.lucidmeetings.com/blog/25-tools-for-online-brainstorming-and-decision-making-in-meetings)
