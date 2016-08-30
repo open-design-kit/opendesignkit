@@ -12,7 +12,7 @@ tools:
 This is an icebreaker, it's an activity that helps everyone to see where they stand on any particular topic.
 
 
-## When to use it:
+## When to do it:
 
 This activity is ideal to do when lots of people have different opinions on a given topic. The activity will help you to find a shared vocabulary and identify future conversation topics.
 
