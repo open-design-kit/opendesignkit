@@ -38,10 +38,10 @@ Have you done many video chats before?
 
 
 4. Conduct the interview, while remaining mindful of the time. Some general tips:
-Don’t ask yes/no questions
-Don’t ask potential users how they would solve the problem, work with them to identify it. 
-Do keep it casual
-Do try to get to know the person
+- Don’t ask yes/no questions
+- Don’t ask potential users how they would solve the problem, work with them to identify it. 
+- Do keep it casual
+- Do try to get to know the person
 
 6. After the interview, meet with your project team to discuss how the interviews went. Did you find out anything that went against your original assumptions? Did you find out anything surprising? Some people might find it helpful to use the persona worksheet here as a note taking guide.
 
