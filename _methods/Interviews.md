@@ -4,60 +4,46 @@ type:
 title: Interviewing
 category: discover
 teaser: Talk to users to find out what their needs are so you can build a product they'll love.
+tools:
 ---
-## Why use or do it:
+## Why do it:
 
 Interviewing is how you get data to later create personas. It also helps you collect requirements and challenge your own biases about what your users need.
+
+## When to do it:
+
+Interviewing is helpful before every milestone in your project. It's good for collecting requirements as well as checking to see if the implementation is working.
 
 ## Who’s involved:
 
 Find a few key types of users who will be interacting with your project. For example: These can be users of a web application, admin level maintainers of the application, and developer level maintainers.
 
-## When to use it:
 
-Interviewing is helpful before every milestone in your project. It's good for collecting requirements as well as checking to see if the implementation is working.
+## Time estimate:
 
-## Time commitment:
-
-15 - 20 mins (note: this could go much longer, so be conscious of the clock)
-
-## Supplies:
-
-* Note paper for participants
-* Writing instruments
-* Persona worksheet template
+Small (1 - 2 hours); this could go much longer, so be conscious of the clock
 
 
-## Set Up
 
-### If you are in the same room as participants:
+## One way to do it:
 
-* Dedicate a room for the activity
-* Have a set up where participants are sitting directly across from one another at a table in stations
-* Place paper and pens at the desks
-* Invite particpants to the room
+1. Invite participants and set aside at least an hour for the interviewee. Your set up for the interview will depend on why you are interviewing stakeholders or users. Many interviews can be done via a phone call, video call or screenshare application, so plan to communicate your methods in advance to anyone invited to the conversation. Whom you invite and how many interviews you should have will also depend on your reasons behind interviewing. For each interview, you should have at least two participants (a designer and an engineer for example) in attendance so that one person can act as the interviewer and the other can act as the notetaker. 
 
-### If you are remote:
-
-* Have a handful of appear.in rooms setup in advance (one per stakeholder)
-* Have a slack channel open to update participants about timing
+2. Think through your questions in advance of your conversation. What do you want to know? Basically you want to come away knowing what problem [the tool] will need to solve - and who that’s a problem for. Identify any assumptions that you might have going into the interviews and document them in a text document (Google Docs, Etherpad, or even Github) to refer to after the interviews.  Considering that you might be using the interviews to develop other tools such as personas, any kind of contextual information about the interviewee might be relevant. Set up the conversation by starting with some ice breaker type questions and then let the conversation play out organically. An icebreaker might include: 
+How ‘s the weather by you?
+Have you done many video chats before?
 
 
-## How to:
+3. At the beginning of the conversation explain why you are conducting the interview. Try to remain unbiased as possible so as to not influence the interviewees feedback. 
 
-1. **Explain the activity** - this activity is in inspired by the concept of speed dating, however instead of potential love interests, you will be interview potential stakeholders.  For remote participation, it might be easiest here to have the activity commence in a single appear.in room.
 
-2. **Spread the love** - Ask potential interviewees to spread themselves around the room (s) at stations. For the topic of this exercise, we will be interviewing stakeholders for the People App, so you should try to find at least one Account Manager. (As a facilitator, try to scope out if you have this person available to you, if not make arrangements to have a staff member join your team remotely.)
+4. Conduct the interview, while remaining mindful of the time. Some general tips:
+- Don’t ask yes/no questions
+- Don’t ask potential users how they would solve the problem, work with them to identify it. 
+- Do keep it casual
+- Do try to get to know the person
 
-3. **Check your assumptions** - (Note: you will have your own assumptions about how the app should work going in, remember those and see if they've changed after talking to users) ask if there are any other potential user types - staff will most likely identify Staff who are not account managers, who just want to know what other staff interests and skills are.
-
-4. **Think through your questions** - what do you want to know? Basically I want to come away knowing what problem the tool will need to solve - and who that is a problem for.
-
-5. **Let the speed geeking commence** You play referee and start a clock that goes for 4 or 5 min. Then everyone rotates and you do it again. This works best if interviewers go out in pairs with one person acting as the interrogator and the other as the documenter. In 15 minutes each participants  will have seen 3 stakeholders and the stakeholders will have chatted 3 times.
-
-6. **Post interview discovery** Discussion: Did you find out anything that went against your original assumptions? Did you find out anything surprising?
-
-    Some people might find it helpful to use the worksheet here - as a note taking guide.
+6. After the interview, meet with your project team to discuss how the interviews went. Did you find out anything that went against your original assumptions? Did you find out anything surprising? Some people might find it helpful to use the persona worksheet here as a note taking guide.
 
 ---
 

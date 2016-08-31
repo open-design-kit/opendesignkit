@@ -4,29 +4,34 @@ type:
 title: Style Guide
 category: define
 teaser: Document the components that make up the web site or application to ensure consistency of design and code.
+tools:
 ---
 
-## Why use or do it:
+## Why do it:
 
 Style Guides are  helpful for keeping design consistent and helping to get through a build quickly. If you do this at the beginning of the designvelopment process, you can then have a library of reusable design objects that will be helpful to build out your pages.
+
+## When to do it:
+
+After you've got some visual design done, possibly you've done [style tiles](/methods/style-tiles/) and you are moving on to some mockups. It's helpful to have the guide be one of the first things you do after visual design is starting to formulate and feel good.
 
 ## Who’s involved:
 
 Designers and Front End Developers
 
-## When to use it:
 
-After you've got some visual design done, possibly you've done [style tiles](/methods/style-tiles/) and you are moving on to some mockups. It's helpful to have the guide be one of the first things you do after visual design is starting to formulate and feel good.
+## Time estimate:
 
-## How To:
+## One way to do it:
 
-1. Take the visual designs and make an [inventory](/methods/interface-inventory/) of all the elements, looking for repeated things, such as buttons, type sizing, and components or modules that you reuse.
+1. Take the visual designs and make an [inventory](/methods/interface-inventory/) of all the elements, looking for repeated things such as buttons, type sizing, and components (or modules) that you reuse.
 
-2. Decide on how you want to create your guide. We favor creating a process that is custom to the team that is working on the project. This means that while there are a lot of ways to create systems, no two teams are probably going to do it exactly the same. Right now there is a lot of desire to copy the systems that are getting talked about a lot (Salesforce Lightning is one such) but that probably won’t work for most teams. You can use a tool or not, it's up to the team (see [styleguides.io](http://styleguides.io) for a lot more information).
+2. Decide on how you want to create your guide. We favor creating a process that is custom to the team that is working on the project. This means that while there are a lot of ways to create systems, no two teams are probably going to do it exactly the same. Right now there is a lot of desire to copy the systems that are getting talked about a lot (Salesforce Lightning is one such) but that probably won’t work for most teams. You can use a tool or not, it's up to the team (see [styleguides.io](http://styleguides.io) for more information).
 
-3. Come together as a team and discuss what you've found on a video call. Walk everyone through the visuals. Do you all agree that the elements are the repeatable ones? You may want to do something like [Charlotte Jackson's article](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) to make the inventory. If you are working remotely, you could screenshot the designs and put them into a [Board Thing](http://boardthing.com/) and work on naming them together. This way you all move forward with the same vocabulary and the same ideas.
+3. Discuss your findings. Walk everyone through the visuals on a video call:. Do you all agree that the elements are the repeatable ones? You may want to do something like [Charlotte Jackson's article](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) to make the inventory. If you are working remotely, you could screenshot the designs and put them into a [Board Thing](http://boardthing.com/) and work on naming them together. This way you all move forward with the same vocabulary and the same ideas.
 
-4. The guide needs to get built out and put on a url somewhere that _everyone_ can see it. If you are working on Github or a wiki, make sure that you indicate the link and how to add to the guide. Also, keep in mind that a guide never really is finished (this is why many people call it a living style guide), you'll iterate on it and change it as you change and iterate on the design of your site or application.
+4. The guide needs to get built out and put on a url somewhere that _everyone_ can see it. If you are working on Github or a wiki, make sure that you indicate the link and how to add to the guide. Also, keep in mind that a guide never really is finished (this is why it’s often called a living style guide), you'll iterate on it and change it as you iterate on the design of your site or application.
+
 
 ---
 

@@ -4,59 +4,45 @@ type:
 title: Human Spectrogram
 category: discover
 teaser: Get people to open up about where they stand on design decisions.
+tools:
 ---
 
-## Why use or do it:
+## Why do it:
 
 This is an icebreaker, it's an activity that helps everyone to see where they stand on any particular topic.
+
+
+## When to do it:
+
+This activity is ideal to do when lots of people have different opinions on a given topic. The activity will help you to find a shared vocabulary and identify future conversation topics.
 
 ## Who’s involved:
 
 Anyone who should be collaborating with each other.
 
-## When to use it:
+## Time estimate:
 
-This activity is ideal to do when lots of people have different opinions on a given topic. The activity will help you to find a shared vocabulary and identify future conversation topics.
+Small (1 - 2 hours)
 
-## How To:
+## One way to do it:
 
-1. **Introduce participants to the space** - Explain that the room (or Trello board) is a fluid, interactive space. It's like a thermometer or spectrogram. Say that you will be making some intentionally controversial statements. On one side is where people should stand (put their name) if they strongly agree and the other is they strongly disagree. If they are feeling middle ground - stand in the middle of the room.
+1. Explain that the Trello board is a fluid, interactive space. It's like a thermometer or spectrogram. Say that you will be making some intentionally controversial statements. On one column is where people should put their name if they strongly agree and the other is if they strongly disagree. If they are feeling middle ground - place your name in the middle of the board. This entire activity will be done in trello, while participants join in on either a call (via a tool such as google hangouts or appear.in) or a text based channel (via a tool such as Slack or IRC).
 
-2. **Say intentional controversial statement** - Here are 3 prepared statements. You might only get through one - and that's totally fine. The goal is to get people to loosen up and start to feel comfortable talking about design.
-
-    * I do design at [x]   
-    * I need to know how to design
-    * I understand what design is at [x]
-
-3. **Get movin!** Participants should move to the part of the room or board to express where they stand.
-
-4. **Facilitate conversation** - when you say your statement you should have a pencil or pen in your hand. At this point participants should be spread out over the room. Walk over to a participant who is on one of the strongly agree/disagree sides and hand them "talking stick"(pencil in person - but remote should just call out the participant). Ask them to say why they are standing (placed) where they are. After they finish, ask who disagrees with them (on the other side of the room/board) - have that person explain why. When people talk you might expect some movement or change of peoples place in the room or the document. Note that movement and ask people what prompted them to move.
-
-5. **Repeat**
-
-    ![human spectrogram image](/img/methods/design-o-meter.jpg)
-
----
-
-## Facillitation Notes
-
-First, explain the task.  A statement will be made and the participants will move around the room, or move their cards on Trello to the agree or disagree side.
-
-Participants in the middle of the room, or the "I don't know" column are unsure how to react to the statement.
-
-Now explain that at any time, you can move and change your mind about a statement.
-
-After participants make their initial movements, ask each to explain why they chose what they did.
-Ask if a participant thinks another participant's choice seems right to them.
-Ask if anyone wants to challenge other's choices and compel them to change their mind.
-
-### Icebreaker questions:
+2. Say an intentionally controversial statement. Here are 3 prepared statements. You might only get through one - and that's totally fine. The goal is to get people to loosen up and start to feel comfortable talking about design. Here are some icebreaker questions to get the conversation started:
 
 * New York has the best pizza
 * Horror is the best movie genre.
 * Dogs are better than cats.
 * Bigfoot and Yetis are the same thing.
 * The Ewoks are the best part of the Star Wars Franchise.
+
+3. Participants should move to the part of the board to express where they stand.
+
+4. At this point participants should be spread out over the Trello board. Ask a participant who is on one of the strongly agree/disagree sides and ask them to say why they are placed where they are. After they finish, ask who disagrees with them (on the other side of the board) - have that person explain why. When people talk you might expect some movement or change of a participant’s place in the document. Note that movement and ask people what prompted them to move.
+
+5. Rinse and repeat:
+
+    ![human spectrogram image](/img/methods/design-o-meter.jpg)
 
 ---
 
