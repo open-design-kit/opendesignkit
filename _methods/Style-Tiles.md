@@ -4,32 +4,37 @@ type:
 title: Style Tiles
 category: discover
 teaser: Ensure consistency of fonts, colors and interface elements to communicate the essence of a visual brand for the web.
+tools:
 ---
 
-## Why use or do it:
+## Why do it:
 
 It helps come to decisions about look and feel for visual design while not getting wrapped up in page layouts, since things are responsive these days.
+
+## When to do it:
+
+Style tiles are for when a [moodboard](/methods/moodboards/) is too vague and a comp is too literal. Style tiles establish a direct connection with actual interface elements without defining layout. They are useful to design towards the beginning of your visual design phase of work and can be done as part of the [Visual Design Workshop](/methods/visual-design-workshop/).
 
 ## Who’s involved:
 
 Designers, Stakeholders and front-end engineers.
 
-## When to use it:
 
-Style tiles are for when a [moodboard](/methods/moodboards/) is too vague and a comp is too literal. Style tiles establish a direct connection with actual interface elements without defining layout. They are useful to design towards the beginning of your visual design phase of work and can be done as part of the [Visual Design Workshop](/methods/visual-design-workshop/).
-
-## How To:
+## Time estimate:
 
 
-1. **Get background information on the project:**Listen to get a sense of what the client or stakeholder is looking for in terms of their product, project or deliverable. This can be done via [interviews](/methods/interviews/), reviewing a design brief or a video conference call specifically set up for this discussion. While wireframes aren’t necessary to create a tile, they can help inform what elements to incorporate. At this stage, you are trying to determine what user interface components will be crucial to your design.
+## One way to do it:
 
-2. **Make a list:** Generate a list of visual elements to include in your style tile. This can be done in any kind of text editor. Common elements might include heading, palette, fonts, or an image treatment.
 
-3. **Theme the designs:** Start picking out visual elements treatments. You can apply them to a template or work in a less prescriptive way. This is a good opportunity to reference [experience attributes](/methods/experience-attributes/) and any work that might have come out of the Visual Design Workshop to help you determine what aesthetic feels effective for your project.
+1. Listen to get a sense of what the client or stakeholder is looking for in terms of their product, project or deliverable. This can be done via [interviews](/methods/interviews/), reviewing a design brief or a video conference call specifically set up for this discussion. While wireframes aren’t necessary to create a tile, they can help inform what elements to incorporate. At this stage, you are trying to determine what user interface components will be crucial to your design.
 
-4. **Get feedback:** Ask the client or stakeholder for [feedback](/methods/feedback-session/) and iterate on it. Make sure that you validate that you are styling the appropriate and most common elements in the design.
+2. Generate a list of visual elements to include in your style tile. This can be done in any kind of text editor. Common elements might include heading, palette, fonts, or an image treatment.
 
-5. **Reference the tile:** Use the tile as a reference to develop out high-fidelity mockups and your style guide.
+3. Start picking out visual elements treatments so that you can theme them. You can apply them to a template or work in a less prescriptive way. This is a good opportunity to reference [experience attributes](/methods/experience-attributes/) and any work that might have come out of the Visual Design Workshop to help you determine what aesthetic feels effective for your project.
+
+4. Ask the client or stakeholder for [feedback](/methods/feedback-session/) and iterate on it. Make sure that you validate that you are styling the appropriate and most common elements in the design.
+
+5. Use the tile as a reference to develop out high-fidelity mockups and your style guide.
 
 ---
 
