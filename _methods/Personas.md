@@ -35,19 +35,20 @@ Small (1-2 hours)
 2. Personas are designed using data that you acquired through your interviews. Using your interview notes, create 1 - 2 personas to represent your core users. Each should have a slightly different story and use case.
 
 3. Start by writing down a description for each persona. While [this template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-worksheet.png) or [this markdown one](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md) might be a useful tool to help you, a persona should generally include:
-  - Name
-  - Age, gender
-  - Marital status
-  - Occupation
-  - Hobbies
-  - Technology familiarity
-  - Devices used  
 
-This list can be created and shared in a text editor such as Google Docs or Etherpad.
+    - Name
+    - Age, gender
+    - Marital status
+    - Occupation
+    - Hobbies
+    - Technology familiarity
+    - Devices used  
+
+    This list can be created and shared in a text editor such as Google Docs or Etherpad.
 
 4. Craft a scenario in which that person would like to use your app,tool,service,product {insert your deliverable}. What would that user's motivations, goals and needs be? What are their pain points and challenges?
 
-If you have a large number of participants on your call, have everyone break out into small teams (this is when a chat channel could come in handy) for 20 minutes. After the time is up, regroup and do a 5 - 10 minute verbal shareout. This will allow everyone to get on the same page - and hopefully it will also provide some inspiration. If there's time, now would be a good time to get some initial feedback.
+    If you have a large number of participants on your call, have everyone break out into small teams (this is when a chat channel could come in handy) for 20 minutes. After the time is up, regroup and do a 5 - 10 minute verbal shareout. This will allow everyone to get on the same page - and hopefully it will also provide some inspiration. If there's time, now would be a good time to get some initial feedback.
 
 5. Finesse the persona by including an image, name and quote that expresses the needs and goals of the user. This tends to take a bit of time, so give it to participants. Having fun with persona creation is one way to help them to better understand and gain empathy for users.  *Tip:* Try using Creative Commons licensed images that you can find through Flickr. We highly recommend [these images](https://www.flickr.com/photos/wocintechchat/)
 
@@ -57,7 +58,7 @@ If you have a large number of participants on your call, have everyone break out
 
 8. One way to test if your persona is actually working might be to have someone try to describe the app or experience for your persona. What do they come up with?  
 
-You might put your persona to use by making a [Journey Map](https://github.com/bocoup/opendesignkit/issues/46) and realize that it's not quite right. It's totally understandable - and to some degree expected - that you will have to iterate  on your personas quite a bit. Your iteration, feedback, and testing will help you to validate any assumptions that you made with your personas.
+    You might put your persona to use by making a [Journey Map](https://github.com/bocoup/opendesignkit/issues/46) and realize that it's not quite right. It's totally understandable - and to some degree expected - that you will have to iterate  on your personas quite a bit. Your iteration, feedback, and testing will help you to validate any assumptions that you made with your personas.
 
 
 
