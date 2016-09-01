@@ -95,15 +95,27 @@ img {
 
 a:link,
 a:active {
+    border-bottom: 2px solid #e6008c;
     color: #e6008c;
-    padding-bottom: .1rem;
+    /*padding-bottom: .1rem;*/
     text-decoration: none;
+}
+
+a:active {
+    bottom: -1px;
+    position: relative;
 }
 
 a:hover,
 a:visited {
+    background-color: rgba(230, 0, 140, .1);
+    border-bottom: 2px solid #e6008c;
     color: #e6008c;
-    text-decoration: underline;
+    text-decoration: none;
+}
+
+a:focus {
+    background-color: rgba(230, 0, 140, .1)
 }
 
 .bold {
@@ -167,10 +179,20 @@ a.logo-link:link,
 a.logo-link:visited {
     background: url('/img/odk-logo.svg') no-repeat 0 0;
     background-size: cover;
+    border: none;
     display: block;
     height: 44px;
     text-indent: -99999px;
     width: 267px;
+}
+
+a.logo-link:hover {
+    background-color: transparent;
+    border: none;
+}
+
+a.logo-link:focus {
+    background-color: none;
 }
 
 .site-nav {
@@ -195,6 +217,7 @@ a.logo-link:visited {
 
 a.site-nav-list-link:link,
 a.site-nav-list-link:active {
+    border-bottom: none;
     color: #fff;
     display: inline-block;
     font-style: normal;
@@ -203,8 +226,14 @@ a.site-nav-list-link:active {
 
 a.site-nav-list-link:hover,
 a.site-nav-list-link:visited {
+    background-color: transparent;
     color: #fff;
-    text-decoration: none;
+    text-decoration: underline;
+}
+
+a.site-nav-list-link:focus {
+    background-color: transparent;
+    text-decoration: underline;
 }
 
 @media (min-width: 40em) {
@@ -283,7 +312,9 @@ a.site-nav-list-link:visited {
     }
 }
 
-a.filter-button {
+a:link.filter-button,
+a:visited.filter-button {
+    border-bottom: none;
     color: #000;
     display: inline-block;
     font-size: 14px;
@@ -291,7 +322,6 @@ a.filter-button {
     padding: 9px 11px;
 }
 
-/* TODO: put in active and hover states */
 a:hover.filter-button,
 a:active.filter-button {
     cursor: pointer;
@@ -302,16 +332,52 @@ a:active.filter-button {
     background-color: #F5A623;
 }
 
+.filter-button.discover:hover,
+.filter-button.discover:focus {
+    background-color: rgba(245, 166, 35, .8)
+}
+
+.filter-button.discover:active {
+    background-color: rgba(245, 166, 35, .7)
+}
+
 .filter-button.define {
     background-color: #54E3AE;
+}
+
+.filter-button.define:hover,
+.filter-button.define:focus {
+    background-color: rgba(84, 227, 174, .8);
+}
+
+.filter-button.define:active {
+    background-color: rgba(84, 227, 174, .7);
 }
 
 .filter-button.design {
     background-color: #EF5BB5;
 }
 
+.filter-button.design:hover,
+.filter-button.design:focus {
+    background-color: rgba(239, 91, 181, .8);
+}
+
+.filter-button.design:active {
+    background-color: rgba(239, 91, 181, .7);
+}
+
 .filter-button.develop {
     background-color: #3994FF;
+}
+
+.filter-button.develop:hover,
+.filter-button.develop:focus {
+    background-color: rgba(57, 148, 255, .8);
+}
+
+.filter-button.develop:active {
+    background-color: rgba(57, 148, 255, .7);
 }
 
 /*--------------------------------*/
@@ -521,6 +587,7 @@ footer img {
 
 a.method-list-link:link,
 a.method-list-link:visited {
+    border: 1px solid transparent;
     color: #000;
     display: inline-block;
     height: 100%;
@@ -530,8 +597,15 @@ a.method-list-link:visited {
 
 a.method-list-link:hover,
 a.method-list-link:active {
+    background-color: #EFEDED;
+    border: 1px solid #e6008c;
     color: #000;
     text-decoration: none;
+}
+
+a.method-list-link:focus {
+    background-color: #efeded;
+    border: 1px solid #e6008c;
 }
 
 /* Using floats to clear things when appropriate, so can be easily change */
@@ -1066,6 +1140,19 @@ a.method-header-view:active {
 
 }
 
+.tools a:link,
+.tools a:active {
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    /*font-weight: bold;*/
+}
+
+.tools a:hover,
+.tools a:visited {
+    background-color: rgba(255, 255, 255, .3);
+    color: #fff;
+}
+
 @media (min-width: 40em) {
     .tools {
         float: right;
@@ -1212,7 +1299,7 @@ gonna style elements using this class */
     margin-left: 20px;
 }
 
-.method-content ul > li > a:link,
+/*.method-content ul > li > a:link,
 .method-content ul > li > a:visited {
     color: #e6008c;
 }
@@ -1221,7 +1308,7 @@ gonna style elements using this class */
 .method-content ul > li > a:active {
     color: #e6008c;
 
-}
+}*/
 
 .method-content ul > li > img {
     max-width: 400px;
