@@ -595,6 +595,7 @@ a.method-list-link:visited {
     border: 1px solid transparent;
     color: #000;
     display: inline-block;
+    font-weight: normal;
     height: 100%;
     padding: 8% 8% 8% 12%;
     width: 100%;
