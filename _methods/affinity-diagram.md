@@ -1,12 +1,7 @@
 ---
 layout: methods
-<<<<<<< HEAD
 type:
 title: Affinity Diagram
-=======
-type:
-title: Affinity diagram
->>>>>>> site-with-content
 category: define
 teaser: Synthesize information with this sorting exercise.
 tools:
