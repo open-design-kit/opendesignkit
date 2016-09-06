@@ -1,23 +1,28 @@
 ---
 layout: methods
-type: 
+<<<<<<< HEAD
+type:
+title: Affinity Diagram
+=======
+type:
 title: Affinity diagram
+>>>>>>> site-with-content
 category: define
 teaser: Synthesize information with this sorting exercise.
 tools:
-  - Boardthing
-  - Video Conferencing
-  - Screenshare
+  - BoardThing
+  - Video conferencing app
+  - Screensharing app
 ---
 
 
 ## Why do it:
 
-At a certain point in any project you need to move from idea generation to synthesizing so that you can take action on your design. Sticky Clustering helps you to synthesize information while simultaneously engaging the entire product team so that you have complete buy in.
+At a certain point in any project you need to move from idea generation to synthesizing so that you can take action on your design. Affinity Diagrams help you to synthesize information while simultaneously engaging the entire product team so that you have complete buy in.
 
 ## When to do it:
 
-This should be done after an idea generation method such as creating [experience attributes](/methods/experience-attributes/)
+This should be done after an idea generation method such as creating [experience attributes](/methods/experience-attributes/).
 
 ## Who’s involved:
 
@@ -29,16 +34,20 @@ Small (1-2 hours)
 
 ## One way to do it:
 
-1. Generate a plethora of stickies around your idea using an online brainstorming tool such as [BoardThing](http://boardthing.com). For a more thorough explanation of this, check out [experience attributes](/methods/experience-attributes/)
+1. Generate a plethora of stickies around your idea using an online brainstorming tool such as [BoardThing](http://boardthing.com). For a more thorough explanation of this, check out [experience attributes](/methods/experience-attributes/).
+
     ![idea generation](/img/methods/clustering-1.png)
 
 2. Working in teams, drag and group like-minded ideas or words together.
+
     ![group like-minded ideas](/img/methods/clustering-2.png)
 
 3. Provide a new sticky for each group or cluster that you create. Name the sticky for the cluster.
+
     ![group and name clusters](/img/methods/clustering-3.png)
 
-4. (optional) Vote on the names to synthesize even further. This works best if someone takes on the role of facilitator. 
+4. (optional) Vote on the names to synthesize even further. This works best if someone takes on the role of facilitator.
+
     ![vote on ideas](/img/methods/clustering-4.png)
 
 
