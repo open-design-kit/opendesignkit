@@ -6,8 +6,8 @@ category: define
 teaser: Synthesize information with this sorting exercise.
 tools:
   - BoardThing
-  - Video conferencing app.
-  - Screensharing app.
+  - Video conferencing app
+  - Screensharing app
 ---
 
 
