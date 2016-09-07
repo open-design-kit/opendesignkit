@@ -45,13 +45,13 @@ Small (1-2 hours)
     - Technology familiarity
     - Devices used  
 
-    This list can be created and shared in a text editor such as Google Docs or Etherpad.
+    This list can be created and shared in a text editor such as [Google Docs](https://docs.google.com/) or [Etherpad](http://etherpad.org/).
 
 4. Craft a scenario in which that person would like to use your app,tool,service,product {insert your deliverable}. What would that user's motivations, goals and needs be? What are their pain points and challenges?
 
     If you have a large number of participants on your call, have everyone break out into small teams (this is when a chat channel could come in handy) for 20 minutes. After the time is up, regroup and do a 5 - 10 minute verbal shareout. This will allow everyone to get on the same page - and hopefully it will also provide some inspiration. If there's time, now would be a good time to get some initial feedback.
 
-5. Finesse the persona by including an image, name and quote that expresses the needs and goals of the user. This tends to take a bit of time, so give it to participants. Having fun with persona creation is one way to help them to better understand and gain empathy for users.  *Tip:* Try using Creative Commons licensed images that you can find through Flickr. We highly recommend [these images](https://www.flickr.com/photos/wocintechchat/)
+5. Finesse the persona by including an image, name and quote that expresses the needs and goals of the user. This tends to take a bit of time, so give it to participants. Having fun with persona creation is one way to help them to better understand and gain empathy for users.  *Tip:* Try using Creative Commons licensed images that you can find through Flickr. We highly recommend [these images](https://www.flickr.com/photos/wocintechchat/).
 
 6. Get feedback on your personas. A great way to frame feedback requests is to ask people what they ‘like’ about the persona, and what they ‘wish’ could be done differently or included. This can be done in your chat channel, or in a document. This can also be achieved asynchronously by having an "I like" and "I wish" fill in the blank list at the bottom of your persona document. Ultimately, it's best to have a conversation about your decisions so that they are well informed.
 
