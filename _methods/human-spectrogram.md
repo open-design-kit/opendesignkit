@@ -52,4 +52,4 @@ Small (1 - 2 hours)
 ## Learn More:
 
 * [Remote-first lesson plan development](https://bocoup.com/weblog/remote-first-lesson-plan-development)
-* [Human Spectrogram by Aspiration Tech](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Spectrogram) - this activity is a remix of their physical activity.
+* [Human Spectrogram by Aspiration Tech](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Spectrogram)
