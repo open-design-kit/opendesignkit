@@ -44,12 +44,11 @@ Small ( 1- 2 hours); for an initial site map.
 
 4. Lay out these entities in the drawing application and work on indicating how they are connected by how a user will access them. Keep things simple! Remember, this is primarily a communication tool, so lots of polish, while certainly appreciated, is not needed and can reduce your ability to quickly iterate on the map. We've had good success using named boxes for pages, and arrows for user flow.
 
-
 5. It can be a challenge to organize all these boxes and arrows in a way that can make sense to other stakeholders. Try a few iterations and don't be afraid to tweak things or start over. Focus on telling the store of the scope of the project simply, and use cultural conventions of reading (right to left, top to bottom) to your advantage.
-![Sitemap Evolution](/img/methods/site-maps/site_map_evolution.jpg)
+    ![Sitemap Evolution](/img/methods/site-maps/site_map_evolution.jpg)
 
 6. Once you have something that you and your team are satisfied with, share it with your client, perhaps as part of a larger mockup feedback session. Pose the site map as a proposal, and a question: "This is what we think this project is. Do you agree?". Its can be a healthy way to ground conversations and center everyone's thinking about what the project will contain. And if expectations are different between designers and other stakeholders about this definition, they will be revealed very quickly! If this happens, use it as an opportunity to discuss and potentially re-scope the project.
-![Example Sitemap](/img/methods/site-maps/site_map_example.jpg)
+    ![Example Sitemap](/img/methods/site-maps/site_map_example.jpg)
 
 ---
 

@@ -10,7 +10,7 @@ tools:
     - Text editor
     - <a href="https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md">Markdown template</a>
     -  <a href="https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-worksheet.png"> Persona graphic template</a>
-  
+
 ---
 
 ## Why do it:
@@ -19,7 +19,7 @@ Personas give us a person to connect with, someone who has goals for using the p
 
 ## When to do it:
 
- Ideally they are used after [interviews](/methods/interviews/) and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
+Ideally they are used after [interviews](/methods/interviews/) and before journey mapping. That said, they are useful tools to refer to at any given point in your creation process.
 
 ## Who’s involved:
 
@@ -58,8 +58,6 @@ Small (1-2 hours)
 8. One way to test if your persona is actually working might be to have someone try to describe the app or experience for your persona. What do they come up with?  
 
     You might put your persona to use by making a [Journey Map](https://github.com/bocoup/opendesignkit/issues/46) and realize that it's not quite right. It's expected that you will have to iterate  on your personas quite a bit. Your iteration, feedback, and testing will help you to validate any assumptions that you made with your personas.
-
-
 
 ---
 

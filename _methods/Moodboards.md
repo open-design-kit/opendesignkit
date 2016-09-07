@@ -4,15 +4,14 @@ type:
 title: Mood Boards
 category: define
 teaser: Collect images based on adjectives associated with a project's brand to serve as inspiration for visual studies.
-tools: 
+tools:
   - Experience attributes
   - Image editing software
 ---
 
 ## Why do it:
 
-Mood Boards start a conversation with stakeholders about what a project might look like. 
-
+Mood Boards start a conversation with stakeholders about what a project might look like.
 
 ## When to do it:
 
@@ -22,14 +21,11 @@ Right after the [Experience Attributes](/methods/experience-attributes/) activit
 
 Designers and stakeholders. This could be done in collaboration with the stakeholders as part of the [Visual Design Workshop](/methods/visual-design-workshop/) or as an activity that the designer(s) work on separately and present to the stakeholders before moving on to the visual studies.
 
-
 ## Time estimate:
 
 Medium (3 -6 hours)
 
-
 ## One way to do it:
-
 
 1. Using the words gathered from the [Experience Attributes](https://github.com/bocoup/opendesignkit/wiki/experience-attributes), start searching the web for images that represent feelings associated with those words. The images can be poetic (example: a rainbow or a flower) or more literal (example: a GUI).
 
@@ -40,7 +36,7 @@ Medium (3 -6 hours)
     ![add words](/img/methods/moodboards/cssconf-moodboard-example-2.jpg)
 
 4. Save and share your collection with the stakeholders and pay attention to their reaction, that way you'll get a sense if you've taken the right path or you need to continue exploring other ideas before moving on to the visual studies. The Mood Board is a great tool to support conversations about what "feels right" for the project.
-![moodboards example](/img/methods/moodboards/moodboard-example.jpeg)
+    ![moodboards example](/img/methods/moodboards/moodboard-example.jpeg)
 
 ---
 
