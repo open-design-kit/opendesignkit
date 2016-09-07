@@ -706,6 +706,15 @@ a.method-list-link:focus {
     background-color: #3994FF;
 }
 
+.methods-list-more {
+    color: #393466;
+    font-family: 'Libre Baskerville', Georgia, serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+    line-height: 1.3;
+    padding: 3rem 2rem;
+}
+
 /*--------------------------------------------*/
 /*---------- Column layout -------------------*/
 /*--------------------------------------------*/
