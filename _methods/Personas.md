@@ -5,11 +5,12 @@ title: Personas
 category: define
 teaser: Identify user types based on habits and goals of real people, acquired through interviews and conversations.
 tools:
-    - Notes from interviews
-    - Notetaking document such as <a href="https://www.google.com/docs/about/">google docs</a> or <a href="http://etherpad.org/">etherpad</a>
+    - Interview notes
+    - Video conferencing app
+    - Notetaking app
     - Markdown <a href="https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md">template</a>
     - Persona graphic <a href="https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-worksheet.png">template</a>
-    - <a href="https://slack.com/>Slack</a> channel, <a href="https://en.wikipedia.org/wiki/Internet_Relay_Chat">IRC</a> channel or some kind of text chat
+  
 ---
 
 ## Why do it:
