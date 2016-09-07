@@ -1356,7 +1356,7 @@ gonna style elements using this class */
 }
 
 .subpage ul {
-    margin: 0;
+    margin: 1em 0;
     padding: 0;
 }
 
