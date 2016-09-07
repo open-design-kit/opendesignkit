@@ -5,10 +5,14 @@ title: Interviewing
 category: discover
 teaser: Talk to users to find out what their needs are so you can build a product they'll love.
 tools:
+  - Video conferencing app
+  - Screensharing app
+  - Collaborative text editor
 ---
+
 ## Why do it:
 
-Interviewing is how you get data to later create personas. It also helps you collect requirements and challenge your own biases about what your users need.
+Interviewing is how you get data to later create [personas](/methods/personas/). It also helps you collect requirements and challenge your own biases about what your users need.
 
 ## When to do it:
 
@@ -21,7 +25,7 @@ Find a few key types of users who will be interacting with your project. For exa
 
 ## Time estimate:
 
-Small (1 - 2 hours); this could go much longer, so be conscious of the clock
+Small (1 - 2 hours); this could go much longer, so be conscious of the clock.
 
 
 
