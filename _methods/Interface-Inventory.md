@@ -45,6 +45,6 @@ Medium (3- 6 hours)
 ## Learn more:
 
 * [Brad Frost’s Interface Inventory](http://bradfrost.com/blog/post/interface-inventory/)
-* [_From Pages to Patterns_ on _A List Apart_](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone)
-* [_Language of Modular Design_ on _A List Apart_](http://alistapart.com/article/language-of-modular-design)
-* [_Creating a Type Style Guide_](http://blog.typekit.com/2014/10/22/creating-a-type-style-guide/) (Step by step with screenshots of the an inventory of type on a site)
+* [From Pages to Patterns](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone)
+* [Language of Modular Design](http://alistapart.com/article/language-of-modular-design)
+* [Creating a Type Style Guide](http://blog.typekit.com/2014/10/22/creating-a-type-style-guide/)
