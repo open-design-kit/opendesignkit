@@ -559,10 +559,10 @@ footer img {
 .main-content {
     max-width: 1040px;
     margin: 0 auto;
-    padding: 1em .5em;
+    padding: 1em;
 }
 
-@media (min-width: 40em) {
+@media (min-width: 65em) {
     .main-content {
         padding: 0;
     }
