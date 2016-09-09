@@ -398,14 +398,19 @@ a:active.filter-button {
 
 footer {
     background-color: #F3F3F3;
-    border: solid transparent;
-    border-width: 0 0 10px 0;
-    -webkit-border-image: url/img/rainbow-header.svg) 4 1 4 1 stretch;
-    -moz-border-image: url(/img/rainbow-header.svg) 4 1 4 1 stretch;
-    -o-border-image: url(/img/rainbow-header.svg) 4 1 4 1 stretch;
-    border-image: url(/img/rainbow-header.svg) 4 1 4 1 stretch;
     color: #4f4f4f;
     margin-top: 3rem;
+    position: relative;
+}
+
+footer:after {
+    background: #f3f3f3 url("/img/rainbow-header.svg") 0 bottom no-repeat;
+    background-size: cover;
+    bottom: 0;
+    content: "";
+    height: 10px;
+    position: absolute;
+    width: 100%;
 }
 
 footer p {
