@@ -34,14 +34,14 @@ Small (1 - 2 hours)
 
 2. Say an intentionally controversial statement. Here are 3 prepared statements. You might only get through one - and that's totally fine. The goal is to get people to loosen up and start to feel comfortable.
 
-  - New York has the best pizza.
-  - Horror is the best movie genre.
-  - Dogs are better than cats.
-  - Bigfoot and Yetis are the same thing.
-  - The Ewoks are the best part of the Star Wars franchise.
+    - New York has the best pizza.
+    - Horror is the best movie genre.
+    - Dogs are better than cats.
+    - Bigfoot and Yetis are the same thing.
+    - The Ewoks are the best part of the Star Wars franchise.
 
 3. Participants should move to the part of the board to express where they stand.
-    
+
     ![trello spectrogram](/img/methods/design-o-meter-trello.png)
 
 4. At this point participants should be spread out over the Trello board. Ask a participant who is on one of the strongly agree/disagree sides and ask them to say why they are placed where they are. After they finish, ask who disagrees with them (on the other side of the board) and have that person explain why. When people talk you might expect some movement or change of a participant’s place in the document. Note that movement and ask people what prompted them to move.
