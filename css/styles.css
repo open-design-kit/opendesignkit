@@ -682,8 +682,9 @@ a.method-list-link:focus {
 }
 
 .method-list-desc {
-    font-size: .75em;
-    line-height: 1.2;
+    font-size: .75rem;
+    font-weight: normal;
+    line-height: 1.4;
 }
 
 .method-list-tag {
@@ -709,6 +710,29 @@ a.method-list-link:focus {
 
 .method-list-tag.develop {
     background-color: #3994FF;
+}
+
+.methods-list-item-more {
+    background-color: #363262;
+}
+
+.methods-list-more {
+    border: 1px solid #363262;
+    color: #fff;
+    /*font-family: 'Libre Baskerville', Georgia, serif;*/
+    font-size: rem;
+    font-weight: normal;
+    line-height: 1.3;
+    padding: 8% 8% 8% 12%;
+}
+
+.methods-list-more-hed {
+    border-bottom: 1px solid #fff;
+    font-family: 'Libre Baskerville', Georgia, serif;
+    font-size: 1.125rem;
+    line-height: 1.3;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
 }
 
 /*--------------------------------------------*/
