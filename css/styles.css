@@ -719,7 +719,7 @@ a.method-list-link:focus {
 .methods-list-more {
     border: 1px solid #363262;
     color: #fff;
-    font-family: 'Libre Baskerville', Georgia, serif;
+    /*font-family: 'Libre Baskerville', Georgia, serif;*/
     font-size: rem;
     font-weight: normal;
     line-height: 1.3;
