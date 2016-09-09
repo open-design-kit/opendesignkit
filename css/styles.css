@@ -730,7 +730,8 @@ a.method-list-link:focus {
     border-bottom: 1px solid #fff;
     font-size: 1.125rem;
     line-height: 1.3;
-    padding-bottom: .5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
 }
 
 /*--------------------------------------------*/
