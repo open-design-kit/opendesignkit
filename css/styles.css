@@ -1260,7 +1260,7 @@ gonna style elements using this class */
 }
 
 .method-content p {
-    font-size: 1em;
+    font-size: 1rem;
     margin-bottom: 20px;
     overflow: visible;
 }
@@ -1277,6 +1277,16 @@ gonna style elements using this class */
     max-width: 95%;
     padding: 0;
     position: relative;
+}
+
+.method-content ol > li > ul {
+    margin: 2rem 0 2rem 4rem;
+    padding: 0;
+}
+
+.method-content ol > li > ul > li {
+    font-size: 1rem;
+    line-height: 1.3;
 }
 
 @media (min-width: 40em) {
@@ -1341,7 +1351,7 @@ gonna style elements using this class */
 }
 
 .method-content ul {
-    margin: 0;
+    margin: 1rem 0 2rem;
     padding: 0;
 }
 
