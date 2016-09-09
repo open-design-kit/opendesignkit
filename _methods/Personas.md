@@ -8,8 +8,8 @@ tools:
     - Interview notes
     - Video conferencing app
     - Text editor
-    - <a href="https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md">Markdown template</a>
-    -  <a href="https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-worksheet.png"> Persona graphic template</a>
+    - <a href="https://github.com/bocoup/opendesignkit/resource-materials/persona-template.md">Markdown template</a>
+    -  <a href="https://github.com/bocoup/opendesignkit/resource-materials/persona-worksheet.png"> Persona printable worksheet</a>
 
 ---
 
@@ -35,7 +35,7 @@ Small (1-2 hours)
 
 2. Using your interview notes, create one or two personas to represent your core users. Each should have a slightly different story and use case.
 
-3. Write down a description for each persona. While [this template](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-worksheet.png) or [this markdown one](https://github.com/bocoup/workshop-training-design/blob/master/handouts/persona-template.md) might be a useful tool to help you, a persona should generally include:
+3. Write down a description for each persona. While [this template](/resource-materials/persona-worksheet.png) or [this markdown one](/resource-materials/persona-template.md) might be a useful tool to help you, a persona should generally include:
 
     - Name
     - Age, gender
