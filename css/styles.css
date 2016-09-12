@@ -1158,7 +1158,6 @@ Mid-BP:				High BP:
 
 a.method-header-view:link,
 a.method-header-view:visited {
-    color: #e6008c;
     left: 0;
     position: absolute;
     top: -2rem;;
@@ -1171,7 +1170,7 @@ a.method-header-view:active {
 
 @media (min-width: 40em) {
     a.method-header-view:link {
-        top: 0;
+        top: -1em;
     }
 }
 
