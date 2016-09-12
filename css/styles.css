@@ -1170,7 +1170,7 @@ a.method-header-view:active {
 
 @media (min-width: 40em) {
     a.method-header-view:link {
-        top: -1em;
+        top: -2em;
     }
 }
 
