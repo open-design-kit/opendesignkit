@@ -143,7 +143,7 @@ a:focus {
 
 p {
     font-size: .875rem;
-    line-height: 1.4;
+    line-height: 1.5;
 }
 
 .center {
@@ -1177,7 +1177,7 @@ a.method-header-view:active {
     }
 }
 
-.method-content .method-contributors {
+. .method-contributors {
     font-size: 12px;
 }
 
