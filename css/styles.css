@@ -1165,7 +1165,7 @@ Mid-BP:				High BP:
     background-color: #393466;
     color: #fff;
     margin: 1rem 0;
-    padding: 14px 26px;
+    padding: 20px 26px 14px;
 
 }
 
@@ -1198,7 +1198,7 @@ Mid-BP:				High BP:
     padding: 0;
 }
 
-.tools-list {
+.method-content .tools-list {
     margin: 0;
     padding: 0;
 }
