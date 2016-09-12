@@ -1129,10 +1129,6 @@ Mid-BP:				High BP:
     text-align: center;
 }
 
-.method-header-view {
-    position: relative;
-}
-
 .method-header-phase {
     font-family: 'Open Sans', Helvetica, serif;
     font-size: 12px;
@@ -1159,22 +1155,10 @@ Mid-BP:				High BP:
     background-color: #EF5BB5;
 }
 
-a.method-header-view:link,
-a.method-header-view:visited {
+.method-header-view {
     left: 0;
     position: absolute;
-    top: -2rem;;
-}
-
-a.method-header-view:hover,
-a.method-header-view:active {
-
-}
-
-@media (min-width: 40em) {
-    a.method-header-view:link {
-        top: -2em;
-    }
+    top: -2rem;
 }
 
 . .method-contributors {

@@ -6,7 +6,9 @@ type: method
     <header class="method-header">
         <h1 class="hed-a">{{ page.title }} <span class="method-header-phase {{ page.category }}">{{ page.category }}</span></h1>
         <p class="method-teaser">{{ page.teaser }}</p>
-        <a class="method-header-view" href="/">view all methods</a>
+        <div class="method-header-view">
+            <a class="method-header-view-link" href="/">view all methods</a>
+        </div>
     </header>
     {% if page.tools != null %}
         <div class="tools">
