@@ -1257,14 +1257,14 @@ gonna style elements using this class */
     font-family: 'Libre Baskerville', Georgia, serif;
     font-size: 1.5em;
     font-weight: 400;
-    line-height: 1.75;
-    margin-bottom: 10px;
+    line-height: 1;
+    margin-bottom: 2rem;
     padding: 0;
 }
 
 .method-content p {
     font-size: 1rem;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
     overflow: visible;
 }
 
