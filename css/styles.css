@@ -355,6 +355,10 @@ a:active.filter-button {
     background-color: rgba(245, 166, 35, .7)
 }
 
+.filter-button.discover.current {
+    box-shadow: 0px 4px 0px 0px rgba(246,214,162,1);
+}
+
 .filter-button.define {
     background-color: #54E3AE;
 }
@@ -366,6 +370,10 @@ a:active.filter-button {
 
 .filter-button.define:active {
     background-color: rgba(84, 227, 174, .7);
+}
+
+.filter-button.define.current {
+    box-shadow: 0px 4px 0px 0px rgba(155,236,206,1);
 }
 
 .filter-button.design {
@@ -381,6 +389,10 @@ a:active.filter-button {
     background-color: rgba(239, 91, 181, .7);
 }
 
+.filter-button.design.current {
+    box-shadow: 0px 4px 0px 0px rgba(239,158,208,1);
+}
+
 .filter-button.develop {
     background-color: #3994FF;
 }
@@ -392,6 +404,10 @@ a:active.filter-button {
 
 .filter-button.develop:active {
     background-color: rgba(57, 148, 255, .7);
+}
+
+.filter-button.develop.current {
+    box-shadow: 0px 4px 0px 0px rgba(130,183,245,1);
 }
 
 /*--------------------------------*/
