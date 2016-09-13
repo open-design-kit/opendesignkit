@@ -13,7 +13,7 @@ tools:
 
 ## Why do it:
 
-At a certain point in any project you need to move from idea generation to synthesizing so that you can take action on your design. Affinity Diagrams help you to synthesize information while simultaneously engaging the entire product team so that you have complete buy in.
+At a certain point in any project you need to move from idea generation to synthesizing so that you can take action on your design. Affinity Diagrams help you to condense and unify information while simultaneously engaging the entire product team so that you have complete buy in.
 
 ## When to do it:
 

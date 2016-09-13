@@ -6,11 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | Open Design Kit</title>
     <link rel="icon" href="/favicon.ico">
-    <link
-      rel="stylesheet"
-      href="{{ "/css/styles.css" | prepend: site.baseurl_root }}"
-      media="screen"
-    >
+    <link rel="stylesheet" href="/css/styles.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,300italic,300,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
   </head>
@@ -37,10 +33,10 @@
                 <div class="filter">
                     <div class="filter-label">Browse by Design Phase:</div>
                     <ul class="filter-buttons">
-                        <li><a href="/phases/discover.html" class="filter-button discover">Discover</a></li>
-                        <li><a href="/phases/define.html" class="filter-button define">Define</a></li>
-                        <li><a href="/phases/design.html" class="filter-button design">Design</a></li>
-                        <li><a href="/phases/develop.html" class="filter-button develop">Develop</a></li>
+                        <li><a href="/phases/discover.html" class="{% if page.current == 'discover' %}current {% endif %}filter-button discover">Discover</a></li>
+                        <li><a href="/phases/define.html" class="{% if page.current == 'define' %}current {% endif %} filter-button define">Define</a></li>
+                        <li><a href="/phases/design.html" class="{% if page.current == 'design' %}current {% endif %}filter-button design">Design</a></li>
+                        <li><a href="/phases/develop.html" class="{% if page.current == 'develop' %}current {% endif %}filter-button develop">Develop</a></li>
                     </ul>
                 </div>
             </div>

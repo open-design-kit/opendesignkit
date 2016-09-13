@@ -1,12 +1,12 @@
 ---
 layout: methods
-type: 
+type:
 title: Experience Attributes
 category: define
 teaser: Generate descriptive words to inform the mood boards and visual direction of the project.
 tools:
   - BoardThing
-  - Google, or image search engine 
+  - Google, or image search engine
   - Video conferencing app
   - Screensharing app
 ---
@@ -36,7 +36,7 @@ Medium (3 - 6 hours)
 
 2. Explain to participants that they are able to vote on 10 images: 5 that feel right and 5 that don't feel right.
 
-3. As a group, review the project brief and [personas](/methods/personas/) (if there are any). Think about the users of the product or project. What do they like? What appeals to them? One way to do the activity is to assign participants to play the role of one of the personas. They must answer questions posed to the group from the personas viewpoint. 
+3. As a group, review the project brief and [personas](/methods/personas/) (if there are any). Think about the users of the product or project. What do they like? What appeals to them? One way to do the activity is to assign participants to play the role of one of the personas. They must answer questions posed to the group from the personas viewpoint.
 
 4. Give participants 20 minutes to study the pictures, and vote (if you are using BoardThing it’s called voting). Break the vote into two 10 minute sessions - vote once for images that feel wrong and another time for those that feel right.  (Remind participants that there’s no right answer here. It’s the conversation that arises that’s important).
 
@@ -48,8 +48,7 @@ Medium (3 - 6 hours)
 
 6. While participants talk about why they chose the images, try to spend time on images that evoke differing opinions - this will help to develop a certain nuanced vocabulary.
 
-
-7. Capture the adjectives that they are using during this conversation on a spectrum using sticky notes or digital stickies. These adjectives are your experience attributes. If you have more than 3 - 5 words,  you can do a vote to slim the list down. 
+7. Capture the adjectives that they are using during this conversation on a spectrum using sticky notes or digital stickies. These adjectives are your experience attributes. If you have more than 3 - 5 words,  you can do a vote to slim the list down.
 
     ![describe experience attributes](/img/methods/ea-4.png)
 
@@ -59,6 +58,6 @@ Medium (3 - 6 hours)
 
 ## Learn More:
 
-* The Open Design Kit method is based on the [Brand Experience Workshop](http://www.cooper.com/journal/2015/3/the-experience-workshop-a-cooper-primer) developed by Cooper
-* Tools for [Online Brainstorming](http://blog.lucidmeetings.com/blog/25-tools-for-online-brainstorming-and-decision-making-in-meetings)
+* [ Cooper's Brand Experience Workshop](http://www.cooper.com/journal/2015/3/the-experience-workshop-a-cooper-primer)
+* [Online Brainstorming](http://blog.lucidmeetings.com/blog/25-tools-for-online-brainstorming-and-decision-making-in-meetings)
 * [Visual Design Basics](https://www.usability.gov/what-and-why/visual-design.html)

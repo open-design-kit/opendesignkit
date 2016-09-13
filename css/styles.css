@@ -132,9 +132,18 @@ a:focus {
     padding: 0;
 }
 
+.hed-b {
+    font-family: 'Libre Baskerville', Georgia, serif;
+    font-size: 1.125rem;
+    font-weight: normal;
+    line-height: 1.3;
+    margin-bottom: 1rem;
+    padding: 0;
+}
+
 p {
     font-size: .875rem;
-    line-height: 1.4;
+    line-height: 1.5;
 }
 
 .center {
@@ -290,6 +299,8 @@ a.site-nav-list-link:focus {
 @media (min-width: 25em) {
     .filter-buttons {
         display: inline-block;
+        position: relative;
+        top: -5px;
     }
 }
 
@@ -322,13 +333,13 @@ a:visited.filter-button {
     font-size: 14px;
     font-weight: normal;
     margin-right: .5em;
-    padding: 9px 11px;
+    padding: 3px 6px;
 }
 
 a:hover.filter-button,
 a:active.filter-button {
     cursor: pointer;
-    padding: 9px 11px;
+    padding: 3px 6px;
 }
 
 .filter-button.discover {
@@ -344,6 +355,10 @@ a:active.filter-button {
     background-color: rgba(245, 166, 35, .7)
 }
 
+.filter-button.discover.current {
+    box-shadow: 0px 4px 0px 0px rgba(246,214,162,1);
+}
+
 .filter-button.define {
     background-color: #54E3AE;
 }
@@ -355,6 +370,10 @@ a:active.filter-button {
 
 .filter-button.define:active {
     background-color: rgba(84, 227, 174, .7);
+}
+
+.filter-button.define.current {
+    box-shadow: 0px 4px 0px 0px rgba(155,236,206,1);
 }
 
 .filter-button.design {
@@ -370,6 +389,10 @@ a:active.filter-button {
     background-color: rgba(239, 91, 181, .7);
 }
 
+.filter-button.design.current {
+    box-shadow: 0px 4px 0px 0px rgba(239,158,208,1);
+}
+
 .filter-button.develop {
     background-color: #3994FF;
 }
@@ -383,20 +406,29 @@ a:active.filter-button {
     background-color: rgba(57, 148, 255, .7);
 }
 
+.filter-button.develop.current {
+    box-shadow: 0px 4px 0px 0px rgba(130,183,245,1);
+}
+
 /*--------------------------------*/
 /*--- Universal Bocoup Footer ---*/
 /*-------------------------------*/
 
 footer {
     background-color: #F3F3F3;
-    border: solid transparent;
-    border-width: 0 0 10px 0;
-    -webkit-border-image: url/img/rainbow-header.svg) 4 1 4 1 stretch;
-    -moz-border-image: url(/img/rainbow-header.svg) 4 1 4 1 stretch;
-    -o-border-image: url(/img/rainbow-header.svg) 4 1 4 1 stretch;
-    border-image: url(/img/rainbow-header.svg) 4 1 4 1 stretch;
     color: #4f4f4f;
     margin-top: 3rem;
+    position: relative;
+}
+
+footer:after {
+    background: #363262 url("/img/rainbow-header.svg") 0 bottom no-repeat;
+    background-size: 100%;
+    bottom: 0;
+    content: "";
+    height: 10px;
+    position: absolute;
+    width: 100%;
 }
 
 footer p {
@@ -407,7 +439,7 @@ footer p a:link,
 footer p a:visited {
     border-bottom: none;
     font-weight: normal;
-    color: #4A90E2;
+    color: #393466;
 }
 
 footer p a:hover,
@@ -550,10 +582,10 @@ footer img {
 .main-content {
     max-width: 1040px;
     margin: 0 auto;
-    padding: 1em .5em;
+    padding: 1em;
 }
 
-@media (min-width: 40em) {
+@media (min-width: 65em) {
     .main-content {
         padding: 0;
     }
@@ -585,7 +617,7 @@ footer img {
     float: left;
     font-size: 1em;
     line-height: 1.2;
-    height: 275px;
+    height: 250px;
     margin-bottom: .5rem;
     position: relative;
     width: 100%;
@@ -662,39 +694,50 @@ a.method-list-link:focus {
 }
 
 .method-list-hed {
+    line-height: 1.3;
     font-family: 'Baskerville Libre', Georgia, serif;
     font-size: 1.125rem;
     font-weight: normal;
 }
 
 .method-list-desc {
-    font-size: .75em;
-    line-height: 1.2;
+    font-size: .75rem;
+    font-weight: normal;
+    line-height: 1.4;
 }
 
 .method-list-tag {
     bottom: 10%;
     display: block;
     font-size: .75em;
-    padding: 9px 11px;
+    font-style: italic;
+    font-weight: 200;
     position: absolute;
     text-transform: capitalize;
 }
 
-.method-list-tag.discover {
-    background-color: #F5A623;
+.methods-list-item-more {
+    background-color: #363262;
 }
 
-.method-list-tag.define {
-    background-color: #54E3AE;
+.methods-list-more {
+    border: 1px solid #363262;
+    color: #fff;
+    /*font-family: 'Libre Baskerville', Georgia, serif;*/
+    font-size: rem;
+    font-weight: normal;
+    line-height: 1.3;
+    padding: 8% 8% 8% 12%;
 }
 
-.method-list-tag.design {
-    background-color: #EF5BB5;
-}
-
-.method-list-tag.develop {
-    background-color: #3994FF;
+.methods-list-more-hed {
+    border-bottom: 1px solid #fff;
+    font-family: 'Libre Baskerville', Georgia, serif;
+    font-size: 1.125rem;
+    font-weight: normal;
+    line-height: 1.3;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
 }
 
 /*--------------------------------------------*/
@@ -1087,11 +1130,8 @@ Mid-BP:				High BP:
     text-align: center;
 }
 
-.method-header-view {
-    position: relative;
-}
-
 .method-header-phase {
+    font-family: 'Open Sans', Helvetica, serif;
     font-size: 12px;
     left: 6px;
     padding: 3px 6px;
@@ -1116,34 +1156,17 @@ Mid-BP:				High BP:
     background-color: #EF5BB5;
 }
 
-a.method-header-view:link,
-a.method-header-view:visited {
-    color: #e6008c;
+.method-header-view {
     left: 0;
     position: absolute;
-    top: -2rem;;
-}
-
-a.method-header-view:hover,
-a.method-header-view:active {
-
-}
-
-@media (min-width: 40em) {
-    a.method-header-view:link {
-        top: 0;
-    }
-}
-
-.method-content .method-contributors {
-    font-size: 12px;
+    top: -2rem;
 }
 
 .tools {
     background-color: #393466;
     color: #fff;
     margin: 1rem 0;
-    padding: 14px 26px;
+    padding: 20px 26px 14px;
 
 }
 
@@ -1176,7 +1199,7 @@ a.method-header-view:active {
     padding: 0;
 }
 
-.tools-list {
+.method-content .tools-list {
     margin: 0;
     padding: 0;
 }
@@ -1218,14 +1241,14 @@ gonna style elements using this class */
     font-family: 'Libre Baskerville', Georgia, serif;
     font-size: 1.5em;
     font-weight: 400;
-    line-height: 1.75;
-    margin-bottom: 10px;
+    line-height: 1;
+    margin-bottom: 2rem;
     padding: 0;
 }
 
 .method-content p {
-    font-size: 1em;
-    margin-bottom: 20px;
+    font-size: 1rem;
+    margin-bottom: 2rem;
     overflow: visible;
 }
 
@@ -1243,16 +1266,14 @@ gonna style elements using this class */
     position: relative;
 }
 
-@media (min-width: 40em) {
-    .method-content ol > li {
-        max-width: 75%;
-    }
+.method-content ol > li > ul {
+    margin: 2rem 0 2rem 4rem;
+    padding: 0;
 }
 
-@media (min-width: 53em) {
-    .method-content ol > li {
-        max-width: 53.02734375%;
-    }
+.method-content ol > li > ul > li {
+    font-size: 1rem;
+    line-height: 1.3;
 }
 
 .method-content ol > li:before {
@@ -1266,15 +1287,9 @@ gonna style elements using this class */
     top: 0;
 }
 
-@media (min-width: 40em) {
-    .method-content ol > li:before {
-        left: -16.786372007366%;
-    }
-}
-
 @media (min-width: 53em) {
     .method-content ol > li:before {
-        left: -11.786372007366%;
+        left: -2%;
     }
 }
 
@@ -1293,19 +1308,10 @@ gonna style elements using this class */
     border: 1px solid #999;
     display: block;
     margin: 2em 0 2em 0;
-    width: 500px;
-}
-
-@media (min-width: 46em) {
-    .method-content ol img {
-        margin: 2em 0 2em -150px;
-        max-width: 700px;
-        width: 700px;
-    }
 }
 
 .method-content ul {
-    margin: 0;
+    margin: 1rem 0 2rem;
     padding: 0;
 }
 
@@ -1356,7 +1362,7 @@ gonna style elements using this class */
 }
 
 .subpage ul {
-    margin: 0;
+    margin: 2rem 0;
     padding: 0;
 }
 
@@ -1377,7 +1383,7 @@ gonna style elements using this class */
 }
 
 .figcaption {
-    color: #999;
+    color: #4A4A4A;
     font-size: .875rem;
     font-style: italic;
     margin: 1em 0 2em;
