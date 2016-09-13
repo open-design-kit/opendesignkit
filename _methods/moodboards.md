@@ -28,7 +28,7 @@ Medium (3 -6 hours)
 
 ## One way to do it:
 
-1. Using the words gathered from the [Experience Attributes](https://github.com/bocoup/opendesignkit/wiki/experience-attributes), start searching the web for images that represent feelings associated with those words. The images can be poetic (example: a rainbow or a flower) or more literal (example: a GUI).
+1. Using the words gathered from the [Experience Attributes](/methods/experience-attributes), start searching the web for images that represent feelings associated with those words. The images can be poetic (example: a rainbow or a flower) or more literal (example: a GUI).
 
 2. Place the images in a document and organize them in a way that makes sense to you. As an alternative to using an image editing software, you can use an [InVision board](http://blog.invisionapp.com/boards-share-design-inspiration-assets/) or even [Pinterest.](https://www.pinterest.com/)
     ![collect images](/img/methods/moodboards/cssconf-moodboard-example-1.jpg)
