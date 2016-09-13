@@ -9,7 +9,7 @@ tools:
     - Video conferencing app
     - Text editor
     - <a href="https://github.com/bocoup/opendesignkit/resource-materials/persona-template.md">Markdown template</a>
-    -  <a href="https://github.com/bocoup/opendesignkit/resource-materials/persona-worksheet.png"> Persona printable worksheet</a>
+    - <a href="https://github.com/bocoup/opendesignkit/resource-materials/persona-worksheet.png"> Persona printable worksheet</a>
 
 ---
 

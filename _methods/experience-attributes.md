@@ -17,7 +17,7 @@ Prior to working on the visual design for a product, project or website, you oft
 
 ## When to use it:
 
- This method can be done as part of the [Visual Design Workshop](/methods/Visual-Design-Workshop//). The workshop is most effective when done as a kickoff to the visual design phase(s) of a project. This can happen well before the ux direction of the project is defined and/or the design of wireframes is finalized. Because remote or not co-located meetings can be extremely draining, consider breaking this workshop into a few sessions - with each session no longer than 90 minutes. The actual scheduling will depend on the client, the availability, the timeline, etc.
+ This method can be done as part of the [Visual Design Workshop](/methods/visual-design-workshop//). The workshop is most effective when done as a kickoff to the visual design phase(s) of a project. This can happen well before the ux direction of the project is defined and/or the design of wireframes is finalized. Because remote or not co-located meetings can be extremely draining, consider breaking this workshop into a few sessions - with each session no longer than 90 minutes. The actual scheduling will depend on the client, the availability, the timeline, etc.
 
 ## Who’s involved:
 
@@ -36,7 +36,7 @@ Medium (3 - 6 hours)
 
 2. Explain to participants that they are able to vote on 10 images: 5 that feel right and 5 that don't feel right.
 
-3. As a group, review the project brief and [personas](/methods/Personas/) (if there are any). Think about the users of the product or project. What do they like? What appeals to them? One way to do the activity is to assign participants to play the role of one of the personas. They must answer questions posed to the group from the personas viewpoint.
+3. As a group, review the project brief and [personas](/methods/personas/) (if there are any). Think about the users of the product or project. What do they like? What appeals to them? One way to do the activity is to assign participants to play the role of one of the personas. They must answer questions posed to the group from the personas viewpoint.
 
 4. Give participants 20 minutes to study the pictures, and vote (if you are using BoardThing it’s called voting). Break the vote into two 10 minute sessions - vote once for images that feel wrong and another time for those that feel right.  (Remind participants that there’s no right answer here. It’s the conversation that arises that’s important).
 
