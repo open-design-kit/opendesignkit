@@ -423,7 +423,7 @@ footer {
 
 footer:after {
     background: #f3f3f3 url("/img/rainbow-header.svg") 0 bottom no-repeat;
-    background-size: cover;
+    background-size: 100%;
     bottom: 0;
     content: "";
     height: 10px;
