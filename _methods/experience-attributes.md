@@ -36,7 +36,7 @@ Medium (3 - 6 hours)
 
 2. Explain to participants that they are able to vote on 10 images: 5 that feel right and 5 that don't feel right.
 
-3. As a group, review the project brief and [personas](/methods/personas/) (if there are any). Think about the users of the product or project. What do they like? What appeals to them? One way to do the activity is to assign participants to play the role of one of the personas. They must answer questions posed to the group from the personas viewpoint.
+3. As a group, review the project brief and [personas](/methods/Personas/) (if there are any). Think about the users of the product or project. What do they like? What appeals to them? One way to do the activity is to assign participants to play the role of one of the personas. They must answer questions posed to the group from the personas viewpoint.
 
 4. Give participants 20 minutes to study the pictures, and vote (if you are using BoardThing it’s called voting). Break the vote into two 10 minute sessions - vote once for images that feel wrong and another time for those that feel right.  (Remind participants that there’s no right answer here. It’s the conversation that arises that’s important).
 
