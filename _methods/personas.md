@@ -56,7 +56,7 @@ Small (1-2 hours)
 
 8. One way to test if your persona is actually working might be to have someone try to describe the app or experience for your persona. What do they come up with?
 
-    You might put your persona to use by making a [Journey Map](https://github.com/bocoup/opendesignkit/issues/46) and realize that it's not quite right. It's expected that you will have to iterate  on your personas quite a bit. Your iteration, feedback, and testing will help you to validate any assumptions that you made with your personas.
+    You might put your persona to use by making a [Journey Map](/methods/journey-maps) and realize that it's not quite right. It's expected that you will have to iterate  on your personas quite a bit. Your iteration, feedback, and testing will help you to validate any assumptions that you made with your personas.
 
 ---
 
