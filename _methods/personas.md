@@ -10,7 +10,6 @@ tools:
     - Text editor
     - <a href="/resource-materials/persona-template.md">Markdown template</a>
     - <a href="/resource-materials/persona-worksheet.png"> Persona printable worksheet</a>
-
 ---
 
 ## Why do it:
@@ -43,7 +42,7 @@ Small (1-2 hours)
     - Occupation
     - Hobbies
     - Technology familiarity
-    - Devices used  
+    - Devices used
 
     This list can be created and shared in a text editor such as [Google Docs](https://docs.google.com/) or [Etherpad](http://etherpad.org/).
 
@@ -53,9 +52,9 @@ Small (1-2 hours)
 
 6. Get [feedback](/methods/feedback-session/) on your personas. This can be done in your chat channel, or in a document.  Ultimately, it's best to have a conversation about your decisions so that they are well informed.
 
-7. Take some time to alter the personas based on feedback. Sometimes you might come up with as many as eight different personas for a project! Try to see if you can cluster similar personas so that you eliminate duplicates. If you are still finding yourself with one too many personas, take a vote. Either in the chat app or on the note taking document, ask participants which persona should be the *core* user persona? In other words, who should you optimize your design for? *Tip:* Try using the Simple Poll app for Slack polls. It uses emojis to vote.  
+7. Take some time to alter the personas based on feedback. Sometimes you might come up with as many as eight different personas for a project! Try to see if you can cluster similar personas so that you eliminate duplicates. If you are still finding yourself with one too many personas, take a vote. Either in the chat app or on the note taking document, ask participants which persona should be the *core* user persona? In other words, who should you optimize your design for? *Tip:* Try using the Simple Poll app for Slack polls. It uses emojis to vote.
 
-8. One way to test if your persona is actually working might be to have someone try to describe the app or experience for your persona. What do they come up with?  
+8. One way to test if your persona is actually working might be to have someone try to describe the app or experience for your persona. What do they come up with?
 
     You might put your persona to use by making a [Journey Map](https://github.com/bocoup/opendesignkit/issues/46) and realize that it's not quite right. It's expected that you will have to iterate  on your personas quite a bit. Your iteration, feedback, and testing will help you to validate any assumptions that you made with your personas.
 
