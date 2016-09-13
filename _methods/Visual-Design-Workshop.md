@@ -33,6 +33,6 @@ Large (8+ hours); this is often broken down over a few days.
 4. [Moodboards](/methods/moodboards/)
     ![Mood boards](/img/methods/moodboards/cssconf-moodboard-example-1.jpg)
 5. [Feedback Session](/methods/feedback-session/)
-    ![agenda](/img/methods/agenda.png)
+    ![agenda](/img/methods/agenda.jpg)
 6. [Style Tiles](/methods/style-tiles/)
     ![styletiles](/img/methods/style-tiles/cssconf-style-tile.jpg)
