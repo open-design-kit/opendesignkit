@@ -1262,7 +1262,7 @@ gonna style elements using this class */
     counter-increment: step-counter;
     margin: 0 auto 2rem auto;
     max-width: 95%;
-    padding: 0;
+    padding: 0 0 0 4rem;
     position: relative;
 }
 
@@ -1300,7 +1300,6 @@ gonna style elements using this class */
 }
 
 .method-content ol > li p {
-    padding: 0 0 0 4rem;
     margin: 0;
 }
 
