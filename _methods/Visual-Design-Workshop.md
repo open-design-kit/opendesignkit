@@ -11,6 +11,7 @@ tools:
 
 Prior to working on the visual design for a product, project or website, you often need the entire product team and stakeholders to agree upon a common terminology for the look and feel of things. The workshop provides a space for everyone to explore what a successful and effective design might be. This is also a great opportunity to decide what just feels right for this specific design opportunity.
 
+
 ## When to do it:
 
 The workshop is most effective when done as a kickoff to the visual design phase(s) of a project. This can happen well before the UX direction of the project is defined and/or the design of wireframes is finalized. Because not co-located meetings can be extremely draining, consider breaking this workshop into a few sessions - with each session no longer than 90 minutes. The scheduling will depend on the stakeholders, the availability, the timeline, etc.

@@ -19,6 +19,7 @@ We use journey maps to come up with a list of requirements for our project and u
 
 Journey maps are created after you've made [personas](/methods/personas/) for your project.
 
+
 ## Who’s involved:
 
 Designers and stakeholders. These should be done collaboratively. The bonus of collaborating is that valuable conversations arise through the process of co-authoring the journey maps. They *can* also be done solo as an exercise to work through design issues.

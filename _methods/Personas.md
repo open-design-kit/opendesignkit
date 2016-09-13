@@ -8,8 +8,8 @@ tools:
     - Interview notes
     - Video conferencing app
     - Text editor
-    - <a href="https://github.com/bocoup/opendesignkit/resource-materials/persona-template.md">Markdown template</a>
-    - <a href="https://github.com/bocoup/opendesignkit/resource-materials/persona-worksheet.png"> Persona printable worksheet</a>
+    - <a href="/resource-materials/persona-template.md">Markdown template</a>
+    - <a href="/resource-materials/persona-worksheet.png"> Persona printable worksheet</a>
 
 ---
 

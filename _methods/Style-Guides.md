@@ -14,6 +14,7 @@ tools:
 
 Style Guides are  helpful for keeping design consistent and helping to get through a build quickly. If you do this at the beginning of the implementation process, you can then have a library of reusable design objects that will be helpful to build out your pages.
 
+
 ## When to do it:
 
 After you've got some visual design done, possibly you've done [Style Tiles](/methods/style-tiles/) and you are moving on to some mockups. It's helpful to have the guide be one of the first things you do after visual design is starting to formulate and feel good.

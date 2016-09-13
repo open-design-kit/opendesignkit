@@ -21,6 +21,7 @@ Style tiles are for when a [Mood Board](/methods/moodboards/) is too vague and a
 
 Designers, Stakeholders and front-end engineers.
 
+
 ## Time estimate:
 Medium (3- 6 hours)
 

@@ -13,6 +13,7 @@ tools:
 
 Mood Boards start a conversation with stakeholders about what a project might look like.
 
+
 ## When to do it:
 
 Right after the [Experience Attributes](/methods/experience-attributes/) activity and before starting work on any type of visual studies (aka style tiles and mockups).
