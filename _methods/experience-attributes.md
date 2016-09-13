@@ -58,6 +58,6 @@ Medium (3 - 6 hours)
 
 ## Learn More:
 
-* The Open Design Kit method is based on the [Brand Experience Workshop](http://www.cooper.com/journal/2015/3/the-experience-workshop-a-cooper-primer) developed by Cooper
-* Tools for [Online Brainstorming](http://blog.lucidmeetings.com/blog/25-tools-for-online-brainstorming-and-decision-making-in-meetings)
+* [ Cooper's Brand Experience Workshop](http://www.cooper.com/journal/2015/3/the-experience-workshop-a-cooper-primer)
+* [Online Brainstorming](http://blog.lucidmeetings.com/blog/25-tools-for-online-brainstorming-and-decision-making-in-meetings)
 * [Visual Design Basics](https://www.usability.gov/what-and-why/visual-design.html)
