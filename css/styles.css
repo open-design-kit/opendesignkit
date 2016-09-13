@@ -438,8 +438,8 @@ footer p {
 footer p a:link,
 footer p a:visited {
     border-bottom: none;
-    font-weight: normal;
-    color: #393466;
+    font-weight: bold;
+    color: #1A7EBF;
 }
 
 footer p a:hover,
