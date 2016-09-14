@@ -46,7 +46,7 @@ Try to get as many stakeholders and product team members as you can in the room.
     * I like _______________ .
     * I wish ______________ .
 
-    ![example agenda](/img/methods/agenda.jpg)
+    ![example agenda with fill in the blank prompts](/img/methods/agenda.jpg)
 
 6. Define next steps in writing for every project. This will help presenters to take action after the call and will help you as the feedback session facilitator to set up the next feedback session because you will have a prepared agenda.
 

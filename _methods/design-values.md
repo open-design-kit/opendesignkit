@@ -36,7 +36,7 @@ Medium (3 - 6 hours)
 3. Explain that the purpose of the workshop is to create design values. To make design values, we will identify certain attributes that inform our work. Design values empower the product or project team to filter opportunities, make challenging design decisions and ultimately define success.
 
 4. After the intro, explain that for every prompt you ask, participants will make a “stickie” for as many items with words or phrases as they can think of, individually and silently.
-    ![design values words with Board Thing](/img/methods/dv1.png)
+    ![generate ideas on individual stickies in Board Thing](/img/methods/dv1.png)
 
 5. For design values, it's best to ask an abstract question. [Leah Buley](http://leahbuley.com/) recommends something like, "If [the product or project that needs design values] is a person/place/transportation/food, what kind of quality or attribute would it have?"
     ![design values words and dot voting with Board Thing](/img/methods/dv2.png)
