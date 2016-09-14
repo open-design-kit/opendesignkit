@@ -11,6 +11,7 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,300italic,300,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
   </head>
   <body class="{{page.type}}">
+      <a class="a11y" href="#main">skip to content</a>
         <div class="content">
             <header class="site-header" role="banner">
                 <div class="site-header-wrapper">
@@ -41,7 +42,9 @@
                 </div>
             </div>
             {% endif %}
-            {{ content }}
+            <div id="main">
+                {{ content }}
+            </div>
         </div>
       <footer role="contentinfo">
         <div class="wrapper">
