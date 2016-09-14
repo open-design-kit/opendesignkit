@@ -34,7 +34,7 @@ Medium (3 -6 hours)
     ![collect images](/img/methods/moodboards/cssconf-moodboard-example-1.jpg)
 
 3. You can also incorporate the experience attributes you used into the moodboard composition.
-    ![add words](/img/methods/moodboards/cssconf-moodboard-example-2.jpg)
+    ![add words to the board](/img/methods/moodboards/cssconf-moodboard-example-2.jpg)
 
 4. Save and share your collection with the stakeholders and pay attention to their reaction, that way you'll get a sense if you've taken the right path or you need to continue exploring other ideas before moving on to the visual studies. The Mood Board is a great tool to support conversations about what "feels right" for the project.
     ![moodboards example](/img/methods/moodboards/moodboard-example.jpeg)

@@ -42,13 +42,13 @@ Small (1 - 2 hours)
 
 3. Participants should move to the part of the board to express where they stand.
 
-    ![trello spectrogram](/img/methods/design-o-meter-trello.png)
+    ![trello spectrogram example](/img/methods/design-o-meter-trello.png)
 
 4. At this point participants should be spread out over the Trello board. Ask a participant who is on one of the strongly agree/disagree sides and ask them to say why they are placed where they are. After they finish, ask who disagrees with them (on the other side of the board) and have that person explain why. When people talk you might expect some movement or change of a participant’s place in the document. Note that movement and ask people what prompted them to move.
 
 5. Rinse and repeat. *Here's an illustration of how this would work if you were doing this activity in the same location.*
 
-    ![human spectrogram image](/img/methods/design-o-meter.jpg)
+    ![image of bunnies scattered throughout a human spectrogram](/img/methods/design-o-meter.jpg)
 
 ---
 

@@ -31,7 +31,7 @@ Medium (3 - 6 hours)
 
 1. Place tons of different images on a board in a matrix. To do this remotely, use a tool such as [BoardThing](http://boardthing.com/).
 
-    ![experience attributes on BoardThing](/img/methods/ea-1.png)
+    ![identify experience attributes with an image matrix on BoardThing](/img/methods/ea-1.png)
 
 
 2. Explain to participants that they are able to vote on 10 images: 5 that feel right and 5 that don't feel right.
@@ -40,7 +40,7 @@ Medium (3 - 6 hours)
 
 4. Give participants 20 minutes to study the pictures, and vote (if you are using BoardThing it’s called voting). Break the vote into two 10 minute sessions - vote once for images that feel wrong and another time for those that feel right.  (Remind participants that there’s no right answer here. It’s the conversation that arises that’s important).
 
-    ![experience attributes on Board Thing](/img/methods/ea-2.png)
+    ![digital dot voting with experience attributes on Board Thing](/img/methods/ea-2.png)
 
 5. When all of the dots have been added, facilitate a conversation amongst the group about why they voted the way they did. Start with the ones that had a lot of reds, since people often find it very easy to talk about what’s undesirable. Move to the ones that had a lot of greens to solicit positive attributes.
 

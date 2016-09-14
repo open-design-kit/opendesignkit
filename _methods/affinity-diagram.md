@@ -31,7 +31,7 @@ Small (1-2 hours)
 
 1. Generate a plethora of stickies around your idea using an online brainstorming tool such as [BoardThing](http://boardthing.com). For a more thorough explanation of this, check out [experience attributes](/methods/experience-attributes/).
 
-    ![idea generation](/img/methods/clustering-1.png)
+    ![generate ideas on individual stickies](/img/methods/clustering-1.png)
 
 2. Working in teams, drag and group like-minded ideas or words together.
 
@@ -43,7 +43,7 @@ Small (1-2 hours)
 
 4. (optional) Vote on the names to synthesize even further. This works best if someone takes on the role of facilitator.
 
-    ![vote on ideas](/img/methods/clustering-4.png)
+    ![vote on ideas with digital dot voting](/img/methods/clustering-4.png)
 
 
 ---
