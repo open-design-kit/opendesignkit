@@ -11,7 +11,7 @@ current: design
             <ul class="method-list">
                 {% assign item = site.methods |  where: 'category', 'design' %}
                 {% for item in item %}
-                    <li class="method-list-item">
+                    <li class="method-list-item {{ item.category }}">
                         <a class="method-list-link" href="{{ item.url }}">
                             <h2 class="method-list-hed">{{ item.title }}</h2>
                             <p class="method-list-desc">{{ item.teaser }}</p>
