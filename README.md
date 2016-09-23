@@ -2,7 +2,7 @@
 
 
 # About
-[Bocoup](https://bocoup.com/)'s Design team maintains Open Design Kit as an open source tool. It's design for collaborators who are not co-located, with a variety of skill levels. No prior design experience is required for you to try out these methods, just an open mind. The Kit includes activities from ideation to implementation and is meant to evolve with use. To share your feedback or add a method, open an issue or pull request on our Github repository.
+[Bocoup](https://bocoup.com/)'s Design team maintains Open Design Kit as an open source tool. It's design for collaborators who are not co-located, with a variety of skill levels. No prior design experience is required for you to try out these methods, just an open mind. The Kit includes activities from ideation to implementation and is meant to evolve with use. To share your feedback or add a method, open an issue or pull request on our GitHub repository.
 
 Since 2009, Bocoup has been creating, championing, and continually improving open tools and workflows used around the world. We foster environments of inclusivity and individuality as we dedicate ourselves to solving global market challenges in the public sphere. We bring diverse experience and leadership to all of our projects so developers and users can accomplish more.
 
