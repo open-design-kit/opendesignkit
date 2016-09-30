@@ -34,7 +34,7 @@ Large (8+ hours)
 
 3. Discuss your findings. Walk everyone through the visuals on a video call:. Do you all agree that the elements are the repeatable ones? You may want to do something like [Charlotte Jackson's article](http://alistapart.com/article/from-pages-to-patterns-an-exercise-for-everyone) to make the inventory. Screenshot the designs and put them into a [BoardThing](http://boardthing.com/) and work on naming them together. This way you all move forward with the same vocabulary and the same ideas.
 
-4. The guide needs to get built out and put on a url somewhere that _everyone_ can see it. If you are working on Github or a wiki, make sure that you indicate the link and how to add to the guide. Also, keep in mind that a guide never really is finished (this is why it’s often called a living style guide), you'll iterate on it and change it as you iterate on the design of your site or application.
+4. The guide needs to get built out and put on a url somewhere that _everyone_ can see it. If you are working on GitHub or a wiki, make sure that you indicate the link and how to add to the guide. Also, keep in mind that a guide never really is finished (this is why it’s often called a living style guide), you'll iterate on it and change it as you iterate on the design of your site or application.
 
 ---
 
