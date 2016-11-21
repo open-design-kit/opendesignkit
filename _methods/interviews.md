@@ -34,7 +34,7 @@ Small (1 - 2 hours); this could go much longer, so be conscious of the clock.
 2. Think through your questions in advance of your conversation. What do you want to know? Basically you want to come away knowing what problem will need to solve  and who that’s a problem for. Identify any assumptions that you might have going into the interviews and document them in a text document ([Google Docs](https://docs.google.com), [Etherpad](http://etherpad.org), or even [GitHub](https://github.com/)) to refer to after the interviews.  Considering that you might be using the interviews to develop other artifacts such as personas, any kind of contextual information about the interviewee might be relevant. Set up the conversation by starting with some icebreaker questions and then let the conversation play out organically. This might include:
 
     - How‘s the weather by you?
-    - Did you catch the game last
+    - Did you catch the game last night?
 
 
 3. At the beginning of the conversation explain why you are conducting the interview. Try to remain as unbiased as possible so as to not influence the interviewees feedback.
