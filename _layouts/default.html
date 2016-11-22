@@ -45,6 +45,11 @@
                         <li><a href="/phases/define.html" class="{% if page.current == 'define' %}current {% endif %} filter-button define">Define</a></li>
                         <li><a href="/phases/design.html" class="{% if page.current == 'design' %}current {% endif %}filter-button design">Design</a></li>
                         <li><a href="/phases/develop.html" class="{% if page.current == 'develop' %}current {% endif %}filter-button develop">Develop</a></li>
+                        {% if page.current contains "define" or page.current contains "design" or page.current contains "develop" or page.current contains "discover" %}
+                        <li>
+                            <a href="/" class="filter-button return">All Methods</a>
+                        </li>
+                        {% endif%}
                     </ul>
                 </div>
             </div>
