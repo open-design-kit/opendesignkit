@@ -2,7 +2,7 @@
 layout: methods
 type:
 title: Usability Test
-category: validate
+category: develop
 teaser: Observe people using a product or feature.
 tools:
     - Personas
