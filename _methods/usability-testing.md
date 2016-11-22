@@ -38,8 +38,9 @@ Designers, stakeholders, and recruited users who match your persona profiles.
 
 
     Example:
-    **User goal:**  Jane wants to reach out to an app developer about their product listing
-    **Hypothesis:** We believe that creating a gallery of app listings will enable Jane to find an app and then reach out to its developer.
+
+    * **User goal:**  Jane wants to reach out to an app developer about their product listing
+    * **Hypothesis:** We believe that creating a gallery of app listings will enable Jane to find an app and then reach out to its developer.
 
 2. With your hypothesis (or hypotheses) in hand, prepare your testable prototype. Consider what fidelity you need to deliver for the test. If you are testing your assumptions for a user flow, a clickable wireframe, or InVision prototype it might be a faster test for you to conduct than a fully coded and polished application.
 
