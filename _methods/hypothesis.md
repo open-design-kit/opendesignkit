@@ -58,10 +58,10 @@ Small (30 minutes - 1 hour)
 
     We had participants on an Open Design Kit video conference call collaborate to come up with as many different hypotheses as they could think of.
 
-4. This results in defining a hypothesis that should be documented in the design documentation for referencing throughout the course of the project, and eventually when you perform a test of some sort to validate your assumptions.
+4. This hypothesis that should be included in the design documentation for reference throughout the course of the project. 
 
 
-    For our Open Design Kit example, we moved the hypotheses into a GitHub wiki and added one more prompt:
+    For Open Design Kit, we moved the hypotheses into a GitHub wiki and added one more prompt:
 
 
     **“We will know we are right when: __________”**  
