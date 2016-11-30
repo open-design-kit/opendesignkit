@@ -12,7 +12,7 @@ tools:
 
 ## Why do it:
 
-As designers, we identify problems and try to come up with solutions for those problems.	We then put our best foot forward and create what we *think* will result in a success, but we won’t know for sure until we try. Defining our solutions through a hypothesis framework allows us to acknowledge that we are making assumptions and testing those assumptions through our prototypes validates our hunches.
+ Defining our solutions through a hypothesis framework allows us to acknowledge that we are making assumptions and testing those assumptions through our prototypes validates our hunches.
 
 ## When to do it:
 
@@ -27,13 +27,11 @@ Small (30 minutes - 1 hour)
 
 ## One way to do it:
 
-1. Put your personas, user journeys and journey maps to work by identifying the user goals. You will need to decide a) what is the user’s goal and b) how might we create a way to test that goal. One way to do this is by figuring out what the problem is that you are trying to fix, and who is that a problem for? Using RealTimeBoard, create a few prompts for participants to collaborate on in a video conference.
+1. Put your personas, user journeys and journey maps to work by identifying the user goals. Decide a) what's the user’s goal and b) how might we create a way to test that goal. In this example, we used RealTimeBoard to create a few prompts for participants to collaborate on in a video conference for Open Design Kit.
 
 
-    The prompts that we used to identify the problem space for Open Design Kit were:
 
-
-    ![Hypothesis prompts](/img/methods/hypothesis/hypothesis-1.png)
+    ![Examples of hypothesis prompts](/img/methods/hypothesis/hypothesis-1.png)
 
 
     **We have observed that: ________ which is causing these adverse effects:__________ for: __________.**
@@ -44,12 +42,11 @@ Small (30 minutes - 1 hour)
 
     **The whole team should try to populate the board with as many problem statements as possible.**
 
-2. You might have a large list of problem statements  - if so, create an affinity diagram to prioritize 1 - 3 problems to address with your initial prototype.
+2. You might have a large list of problem statements  - if so, create an [affinity diagram](/methods/affinity-diagram/) to prioritize 1 - 3 problems to address with your initial prototype.
 
 3. Work with the entire product team to complete the prompts:
 
 
-    For Open Design Kit, we created a board with these prompts:
 
 
     ![Board prompts in Boardthing](/img/methods/hypothesis/hypothesis-3.png)
@@ -59,12 +56,12 @@ Small (30 minutes - 1 hour)
 
 
 
-    We had participants on a video conference call collaborate to come up with as many different hypotheses as they could think of.
+    We had participants on an Open Design Kit video conference call collaborate to come up with as many different hypotheses as they could think of.
 
-4. This results in defining a hypothesis that should be documented in the design documentation and GitHub issue for referencing throughout the course of the project, and eventually when you perform a test of some sort to validate your assumptions.
+4. This results in defining a hypothesis that should be documented in the design documentation for referencing throughout the course of the project, and eventually when you perform a test of some sort to validate your assumptions.
 
 
-    At this stage, for our Open Design Kit example, we moved the hypotheses into a GitHub wiki and added one more prompt:
+    For our Open Design Kit example, we moved the hypotheses into a GitHub wiki and added one more prompt:
 
 
     **“We will know we are right when: __________”**  
