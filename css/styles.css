@@ -1304,8 +1304,8 @@ gonna style elements using this class */
     display: table;
 }
 
-.method-content ol > li p {
-    margin: 0;
+.method-content ol > li p:last-child {
+    margin-bottom: 0;
 }
 
 .method-content ol img {
