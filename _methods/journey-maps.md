@@ -1,7 +1,7 @@
 ---
 layout: methods
 type:
-title: Journey Maps
+title: Journey Mapping
 category: define
 teaser: Define the happy path for your personas.
 tools:
@@ -13,7 +13,7 @@ tools:
 
 ## Why do it:
 
-We use journey maps to come up with a list of requirements for our project and uncover hidden issues. It forces the team to empathsize with your users.
+We use journey mapping as an exercise for determining a list of requirements for our project as well as uncovering hidden issues. It also encourages the team to empathize with users.
 
 ## When to do it:
 
