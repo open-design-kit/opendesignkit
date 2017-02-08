@@ -2,7 +2,7 @@
 layout: methods
 type:
 title: Style Guide
-category: design
+category: make
 teaser: Document the components that make up the website or application to ensure consistency of design and code.
 tools:
  - <a href="http://boardthing.com/">BoardThing</a>

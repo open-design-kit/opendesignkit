@@ -1304,6 +1304,10 @@ gonna style elements using this class */
     display: table;
 }
 
+.method-content ol > li p:last-child {
+    margin-bottom: 0;
+}
+
 .method-content ol img {
     border: 1px solid #999;
     display: block;

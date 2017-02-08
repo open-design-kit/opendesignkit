@@ -2,7 +2,7 @@
 layout: methods
 type:
 title: Visual Design Workshop
-category: design
+category: make
 teaser: Collaborate with key stakeholders to define an approach to visual design.
 tools:
 ---

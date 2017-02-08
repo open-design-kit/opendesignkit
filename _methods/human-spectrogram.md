@@ -2,7 +2,7 @@
 layout: methods
 type:
 title: Human Spectrogram
-category: discover
+category: explore
 teaser: Get people to open up about where they stand on design decisions.
 tools:
   - Trello
