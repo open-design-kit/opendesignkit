@@ -715,10 +715,26 @@ a.method-list-link:focus {
     bottom: 10%;
     display: block;
     font-size: .75em;
-    font-style: italic;
     font-weight: 200;
     position: absolute;
     text-transform: capitalize;
+    padding: 3px 6px;
+}
+
+.discover .method-list-tag {
+    background-color: #F5A623;
+}
+
+.define .method-list-tag {
+    background-color: #54E3AE;
+}
+
+.design .method-list-tag {
+    background-color: #EF5BB5;
+}
+
+.develop .method-list-tag {
+    background-color: #3994FF;
 }
 
 .methods-list-item-more {
@@ -1160,6 +1176,7 @@ Mid-BP:				High BP:
 .method-header-phase.design {
     background-color: #EF5BB5;
 }
+
 
 .method-header-view {
     left: 0;
