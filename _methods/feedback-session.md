@@ -3,7 +3,7 @@ layout: methods
 type:
 title: Feedback Session
 category: define
-teaser: Explore some ways to collect constructive feedback for designs and protoypes.
+teaser: Explore some ways to collect constructive feedback for designs and prototypes.
 tools:
   - Video conferencing app
   - Screensharing app
