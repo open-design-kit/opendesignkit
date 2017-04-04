@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | Open Design Kit</title>
+    <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
     <link rel="icon" href="/favicon.ico">
     <link rel="stylesheet" href="/css/styles.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
@@ -13,7 +13,7 @@
     <meta name="twitter:site" content="@bocoup">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:description" content="Open Design Kit: methods for doing distributed design">
-    <meta name="twitter:title" content="Open Design Kit">
+    <meta name="twitter:title" content="{{ site.title }}">
     <meta name="twitter:image" content="http://opendesignkit.org/img/odk-twittercard.jpg">
 
   </head>
@@ -23,7 +23,7 @@
             <header class="site-header" role="banner">
                 <div class="site-header-wrapper">
                     <div class="site-logo">
-                        <h1 class="logo"><a class="logo-link" href="/">Open Design Kit</a></h1>
+                        <h1 class="logo"><a class="logo-link" href="/">{{ site.title }}</a></h1>
                     </div>
                     <nav role="navigation" class="site-nav">
                         <ul class="site-nav-list">
