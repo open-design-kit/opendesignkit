@@ -123,7 +123,8 @@ a:focus {
   font-weight: 600;
 }
 
-.hed-a {
+.hed-a,
+.subpage h2 {
     font-family: 'Libre Baskerville', Georgia, serif;
     font-size: 1.5rem;
     font-weight: normal;
@@ -132,7 +133,8 @@ a:focus {
     padding: 0;
 }
 
-.hed-b {
+.hed-b,
+.subpage h3 {
     font-family: 'Libre Baskerville', Georgia, serif;
     font-size: 1.125rem;
     font-weight: normal;
