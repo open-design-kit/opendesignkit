@@ -4,4 +4,6 @@ collections:
     methods:
         output: true
         permalink: /methods/:path/
+    i18n:
+        output: false
 permalink: title

@@ -1,5 +1,7 @@
 <!doctype html>
-<html lang="en">
+{% assign language = site.i18n | where: 'lang', 'pt-br' -%}
+{% assign i18n = language[0] -%}
+<html lang="{{i18n.lang}}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -18,7 +20,7 @@
 
   </head>
   <body class="{{page.type}}">
-      <a class="a11y" href="#main">skip to content</a>
+      <a class="a11y" href="#main">{{ i18n.skip | default: 'skip to content' }}</a>
         <div class="content">
             <header class="site-header" role="banner">
                 <div class="site-header-wrapper">
@@ -27,8 +29,20 @@
                     </div>
                     <nav role="navigation" class="site-nav">
                         <ul class="site-nav-list">
-                            <li class="site-nav-list-item"><a class="site-nav-list-link" title="Contribute to Open Design Kit" href="/contribute">Contribute</a></li>
-                            <li class="site-nav-list-item"><a class="site-nav-list-link" title="About Open Design Kit" href="/about">About</a></li>
+                            <li class="site-nav-list-item">
+                                <a class="site-nav-list-link"
+                                    title="{{ i18n.contribute.title | default: 'Contribute to Open Design Kit' }}'"
+                                    href="{{ i18n.contribute.link | default: '/contribute' }}'">
+                                    {{ i18n.contribute.text | default: 'Contribute' }}
+                                </a>
+                            </li>
+                            <li class="site-nav-list-item">
+                                <a class="site-nav-list-link"
+                                    title="{{ i18n.about.title | default: 'About Open Design Kit' }}'"
+                                    href="{{ i18n.about.link | default: '/about' }}'">
+                                    {{ i18n.about.text | default: 'About' }}
+                                </a>
+                            </li>
                         </ul>
                     </nav>
                 </div>
@@ -36,19 +50,27 @@
             {% if page.type != null %}
             <div class="home-header-sub">
                 <div class="site-tag">
-                    <h2 class="hed-a site-tag">A distributed team can do great design &mdash; here’s how.</h2>
+                    <h2 class="hed-a site-tag">{{ i18n.site-tag | default: 'A distributed team can do great design &mdash; here’s how.' }}</h2>
                 </div>
                 <div class="filter">
-                    <div class="filter-label">Browse by Design Phase:</div>
+                    <div class="filter-label">{{ i18n.filter-label | default: 'Browse by Design Phase:' }}</div>
                     <ul class="filter-buttons">
-                        <li><a href="/phases/discover.html" class="{% if page.current == 'discover' %}current {% endif %}filter-button discover">Explore</a></li>
-                        <li><a href="/phases/define.html" class="{% if page.current == 'define' %}current {% endif %} filter-button define">Define</a></li>
-                        <li><a href="/phases/design.html" class="{% if page.current == 'design' %}current {% endif %}filter-button design">Make</a></li>
-                        <li><a href="/phases/develop.html" class="{% if page.current == 'develop' %}current {% endif %}filter-button develop">Validate</a></li>
-                        {% if page.current contains "define" or page.current contains "design" or page.current contains "develop" or page.current contains "discover" %}
-                        <li>
-                            <a href="/" class="filter-button return">All Methods</a>
-                        </li>
+                        <li><a href="{{ i18n.phases.discover.link | default: '/phases/discover.html' }}" class="{% if page.current == 'discover' %}current {% endif %}filter-button discover">
+                            {{ i18n.phases.discover.text | default: 'Explore' }}
+                        </a></li>
+                        <li><a href="{{ i18n.phases.define.link | default: '/phases/define.html' }}" class="{% if page.current == 'define' %}current {% endif %} filter-button define">
+                            {{ i18n.phases.define.text | default: 'Define' }}
+                        </a></li>
+                        <li><a href="{{ i18n.phases.design.link | default: '/phases/design.html' }}" class="{% if page.current == 'design' %}current {% endif %}filter-button design">
+                            {{ i18n.phases.design.text | default: 'Make' }}
+                        </a></li>
+                        <li><a href="{{ i18n.phases.develop.link | default: '/phases/develop.html' }}" class="{% if page.current == 'develop' %}current {% endif %}filter-button develop">
+                            {{ i18n.phases.develop.text | default: 'Validate' }}
+                        </a></li>
+                        {% if page.current %}
+                        <li><a href="{{ i18n.phases.all-methods.link | default: '/' }}" class="filter-button return">
+                                {{ i18n.phases.all-methods.text | default: 'All Methods' }}
+                        </a></li>
                         {% endif%}
                     </ul>
                 </div>
@@ -67,7 +89,7 @@
             <img src="/img/bocoup.png" alt="">
           </picture>
           <p>
-              <a href="https://bocoup.com">Bocoup</a> maintains Open Design Kit as an open source tool. To share your feedback, open an issue or a pull request on our <a href="https://github.com/bocoup/opendesignkit">GitHub repository</a>.
+              {{ i18n.footer-desc | default: '<a href="https://bocoup.com">Bocoup</a> maintains Open Design Kit as an open source tool. To share your feedback, open an issue or a pull request on our <a href="https://github.com/bocoup/opendesignkit">GitHub repository</a>.' }}
           </p>
         </div>
       </footer>
