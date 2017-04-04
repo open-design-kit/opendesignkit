@@ -1,25 +1,7 @@
 ---
-layout: default
+layout: phases
 type: filterPage
 title: Define Stage
 current: define
+where: define
 ---
-<div class="main" role="main">
-    <div class="main-content">
-        <!-- All methods -->
-        <section class="">
-            <ul class="method-list">
-                {% assign item = site.methods |  where: 'category', 'define' %}
-                {% for item in item %}
-                    <li class="method-list-item">
-                        <a class="method-list-link" href="{{ item.url }}">
-                            <h2 class="method-list-hed">{{ item.title }}</h2>
-                            <p class="method-list-desc">{{ item.teaser }}</p>
-                            <span class="method-list-tag  {{ item.category }}"> {{ item.category }}</span>
-                        </a>
-                    </li>
-                {% endfor %}
-            </ul>
-        </section>
-    </div> <!-- /end .main-content -->
-</div> <!-- /end .main -->
