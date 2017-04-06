@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Welcome
-type: home
 ---
 
 <div class="main" role="main">
@@ -21,9 +19,9 @@ type: home
                 {% endfor %}
                 <li class="method-list-item methods-list-item-more">
                     <div class="methods-list-more">
-                        <h2 class="methods-list-more-hed">More methods are on the way!</h2>
+                        <h2 class="methods-list-more-hed">{{ page.i18n.more-methods }}</h2>
                         <p class="method-list-desc">
-                            This is designed as a <em>living</em> toolkit, so you can look forward to seeing this project and site evolve.
+                            {{ page.i18n.desc }}
                         </p>
                     </div>
                 </li>

@@ -1,5 +1,7 @@
 <!doctype html>
-{% assign language = site.i18n | where: 'lang', 'pt-br' -%}
+{% assign dirs = page.dir  %}
+<pre>{% assign currentLanguage | split: "/" %}{{ currentLanguage }}</pre>
+{% assign language = site.i18n | where_exp: "item", "item.lang contains 'currentLanguage'" -%}
 {% assign i18n = language[0] -%}
 <html lang="{{i18n.lang}}">
   <head>
@@ -47,6 +49,9 @@
                     </nav>
                 </div>
             </header>
+            <pre>
+                {{ currentLanguage | slugify }}
+            </pre>
             {% if page.type != null %}
             <div class="home-header-sub">
                 <div class="site-tag">
