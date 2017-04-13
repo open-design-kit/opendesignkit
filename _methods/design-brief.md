@@ -2,7 +2,7 @@
 layout: methods
 type:
 title: Design Brief
-category: Define
+category: define
 teaser: Describe what success looks like for your project.
 tools:
  - Text Editor
