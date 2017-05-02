@@ -1394,3 +1394,15 @@ gonna style elements using this class */
     font-style: italic;
     margin: 1em 0 2em;
 }
+
+.thumb {
+  width: 170px;
+  float: left;
+  margin-right: 20px;
+  vertical-align: bottom;
+}
+
+.phase-link {
+  display: block;
+  margin-top:15px;
+}
