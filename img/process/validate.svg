@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="168px" height="168px" viewBox="0 0 168 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Validate Group Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="13.2631579" y="13.2631579" width="141.473684" height="141.473684"></rect>
+    </defs>
+    <g id="Design-Process-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Design-Process-layout" transform="translate(-252.000000, -1153.000000)">
+            <g id="Group-7" transform="translate(252.000000, 890.000000)">
+                <g id="Group-4" transform="translate(0.000000, 258.000000)">
+                    <g id="Validate-Group-Copy" transform="translate(0.000000, 5.000000)">
+                        <rect id="Rectangle-2-Copy-3" fill="#3994FF" x="0" y="0" width="168" height="168"></rect>
+                        <g id="Rectangle-4-Copy-9">
+                            <use fill="#3994FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#313638" stroke-width="4" x="15.2631579" y="15.2631579" width="137.473684" height="137.473684"></rect>
+                        </g>
+                        <g id="Icon-Validate-COLOR" transform="translate(39.789474, 25.421053)">
+                            <g id="Icon-Validate">
+                                <ellipse id="Oval" stroke="#313638" stroke-width="4" cx="44" cy="58.5" rx="44" ry="45"></ellipse>
+                                <polygon id="Triangle-Copy-8" fill="#3994FF" points="70.4 103.5 52.8 117 52.8 90"></polygon>
+                                <polygon id="Triangle-Copy-4" fill="#313638" points="61.6 103.5 44 117 44 90"></polygon>
+                                <polygon id="Triangle-Copy-6" fill="#3994FF" points="17.6 13.5 35.2 3.55271368e-15 35.2 27"></polygon>
+                                <polygon id="Triangle-Copy-5" fill="#313638" points="26.4 13.5 44 -3.55271368e-15 44 27"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

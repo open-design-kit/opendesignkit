@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="168px" height="168px" viewBox="0 0 168 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Define Group Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="13.2631579" y="13.2631579" width="141.473684" height="141.473684"></rect>
+    </defs>
+    <g id="Design-Process-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Design-Process-layout" transform="translate(-252.000000, -666.000000)">
+            <g id="Group-8" transform="translate(251.000000, 403.000000)">
+                <g id="Group-2" transform="translate(1.000000, 258.000000)">
+                    <g id="Define-Group-Copy" transform="translate(0.000000, 5.000000)">
+                        <rect id="Rectangle-2-Copy" fill="#54E3AE" x="0" y="0" width="168" height="168"></rect>
+                        <g id="Rectangle-4-Copy-5">
+                            <use fill="#54E3AE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#313638" stroke-width="4" x="15.2631579" y="15.2631579" width="137.473684" height="137.473684"></rect>
+                        </g>
+                        <g id="Icon-Define-COLOR" transform="translate(19.894737, 19.894737)">
+                            <g id="Icon-Define">
+                                <path d="M64,0 L64,35.3103448" id="Line" stroke="#313638" stroke-width="4" stroke-linecap="square"></path>
+                                <path d="M64,92.6896552 L64,128" id="Line-Copy" stroke="#313638" stroke-width="4" stroke-linecap="square"></path>
+                                <path d="M92.6896552,65.1034483 L128,65.1034483" id="Line" stroke="#313638" stroke-width="4" stroke-linecap="square"></path>
+                                <path d="M0,65.1034483 L35.3103448,65.1034483" id="Line-Copy-2" stroke="#313638" stroke-width="4" stroke-linecap="square"></path>
+                                <polygon id="Triangle" fill="#313638" points="64 72.8275862 77.2413793 90.4827586 50.7586207 90.4827586"></polygon>
+                                <polygon id="Triangle-Copy" fill="#313638" points="55.1724138 65.1034483 37.5172414 78.3448276 37.5172414 51.862069"></polygon>
+                                <polygon id="Triangle-Copy-2" fill="#313638" points="72.8275862 65.1034483 90.4827586 51.862069 90.4827586 78.3448276"></polygon>
+                                <polygon id="Triangle-Copy-3" fill="#313638" transform="translate(64.000000, 46.344828) scale(1, -1) translate(-64.000000, -46.344828) " points="64 37.5172414 77.2413793 55.1724138 50.7586207 55.1724138"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
