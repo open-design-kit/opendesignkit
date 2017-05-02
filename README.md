@@ -56,7 +56,7 @@ This exploration was inspired by many individuals and organizations. A few proje
 Many creative individuals have contributed in some form to the project - including:
 - Jess Klein
 - Susan Robertson
-- Sue Lockhart
+- Sue Lockwood
 - Pam Drouin
 - Isaac Durazo
 - Irene Ros
