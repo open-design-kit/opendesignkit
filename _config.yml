@@ -5,3 +5,5 @@ collections:
         output: true
         permalink: /methods/:path/
 permalink: title
+gems:
+    - jekyll-minifier
