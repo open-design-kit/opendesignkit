@@ -69,6 +69,14 @@ img {
 /*---------------------------*/
 /* TODO: Clean this up to make modular */
 
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: url('../fonts/librebaskerville-regular-webfont.woff2') format('woff2'),
+       url('../fonts/librebaskerville-regular-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
 * {
     moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -123,9 +131,14 @@ a:focus {
   font-weight: 600;
 }
 
+.fonts-loaded .hed-a,
+.fonts-loaded .subpage h2 {
+    font-family: 'Libre Baskerville', Georgia, serif;
+}
+
 .hed-a,
 .subpage h2 {
-    font-family: 'Libre Baskerville', Georgia, serif;
+    font-family: Georgia, serif;
     font-size: 1.5rem;
     font-weight: normal;
     line-height: 1.3;
@@ -133,9 +146,14 @@ a:focus {
     padding: 0;
 }
 
+.fonts-loaded .hed-b,
+.fonts-loaded .subpage h3 {
+    font-family: 'Libre Baskerville', Georgia, serif;
+}
+
 .hed-b,
 .subpage h3 {
-    font-family: 'Libre Baskerville', Georgia, serif;
+    font-family: Georgia, serif;
     font-size: 1.125rem;
     font-weight: normal;
     line-height: 1.3;
