@@ -2,9 +2,9 @@
 
 
 # About
-[Bocoup](https://bocoup.com/)'s Design team maintains Open Design Kit as an open source tool. It's design for collaborators who are not co-located, with a variety of skill levels. No prior design experience is required for you to try out these methods, just an open mind. The Kit includes activities from ideation to implementation and is meant to evolve with use. To share your feedback or add a method, open an issue or pull request on our GitHub repository.
+Open Design Kit is maintained as an open source tool. It's design for collaborators who are not co-located, with a variety of skill levels. No prior design experience is required for you to try out these methods, just an open mind. The Kit includes activities from ideation to implementation and is meant to evolve with use. To share your feedback or add a method, open an issue or pull request on our GitHub repository.
 
-Since 2009, Bocoup has been creating, championing, and continually improving open tools and workflows used around the world. We foster environments of inclusivity and individuality as we dedicate ourselves to solving global market challenges in the public sphere. We bring diverse experience and leadership to all of our projects so developers and users can accomplish more.
+Prior to August 2017, the kit was incubated and maintained at [Bocoup](https://bocoup.com/). 
 
 
 # Key Documents
@@ -13,7 +13,7 @@ Since 2009, Bocoup has been creating, championing, and continually improving ope
 
 
 # What's the big idea?
-Design literacy needs to be constantly developed and improved throughout the software and product development industry. Designers must constantly  level up their skillsets with lifelong learning. Engineers often need to learn how to collaborate and incorporate new practices into their workflow to successfully support the integration of design. Clients and stakeholders are repeatedly challenged by the fact that design is a verb, not a noun that is handed off, but a verb that needs constant attention. To address this, Bocoup is openly compiling a suite of learning materials, methods, and systems to help our staff, clients, colleagues, and community better understand how we design and when to roll up their sleeves and get in on the action. It is our hope that this exploration will be useful for other companies and individuals to incorporate into their practice.
+Design literacy needs to be constantly developed and improved throughout the software and product development industry. Designers must constantly  level up their skillsets with lifelong learning. Engineers often need to learn how to collaborate and incorporate new practices into their workflow to successfully support the integration of design. Product and projec stakeholders are repeatedly challenged by the fact that design is a verb, not a noun that is handed off, but a verb that needs constant attention. To address this, we are openly compiling a suite of learning materials, methods, and systems to help our staff, clients, colleagues, and community better understand how we design and when to roll up their sleeves and get in on the action. It is our hope that this exploration will be useful for companies and individuals to incorporate into their practice.
 
 So, why does the world need another compilation of tools? Here’s why:
 - To establish what it means to design in the open, with practical methods designed for distributed collaborators.
