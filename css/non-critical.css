@@ -446,16 +446,6 @@ footer {
     position: relative;
 }
 
-footer:after {
-    background: #363262 url("/img/rainbow-header.svg") 0 bottom no-repeat;
-    background-size: 100%;
-    bottom: 0;
-    content: "";
-    height: 10px;
-    position: absolute;
-    width: 100%;
-}
-
 footer p {
   font-size: 1em;
 }
