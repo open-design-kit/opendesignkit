@@ -7,11 +7,6 @@ Open Design Kit is maintained as an open source tool. It's design for collaborat
 Prior to August 2017, the kit was incubated and maintained at [Bocoup](https://bocoup.com/). 
 
 
-# Key Documents
-- [Hypotheses](https://github.com/bocoup/opendesignkit/wiki/Hypotheses) Our beliefs about design that we are using the Open Design Kit to investigate
-- [Project Brief](https://github.com/bocoup/opendesignkit/wiki/Open-Design-Kit:-Design-Brief) The Open Design Kit's purpose and requirements.
-
-
 # What's the big idea?
 Design literacy needs to be constantly developed and improved throughout the software and product development industry. Designers must constantly  level up their skillsets with lifelong learning. Engineers often need to learn how to collaborate and incorporate new practices into their workflow to successfully support the integration of design. Product and projec stakeholders are repeatedly challenged by the fact that design is a verb, not a noun that is handed off, but a verb that needs constant attention. To address this, we are openly compiling a suite of learning materials, methods, and systems to help our staff, clients, colleagues, and community better understand how we design and when to roll up their sleeves and get in on the action. It is our hope that this exploration will be useful for companies and individuals to incorporate into their practice.
 
