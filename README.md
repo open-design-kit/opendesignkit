@@ -23,19 +23,13 @@ So, why does the world need another compilation of tools? Here’s why:
 
 
 # How to get involved
-Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md) for more information.
-If you are adding a new method:
-- **Step 1:** Submit an issue identifying the method that you would like to include.
-- **Step 2:** Go to the "wiki" folder in this repo - and find the "Method-Guide-Template.md" file - and open it.
-- **Step 3:** Copy the template from the markdown file. (This can be done by clicking the Edit :pencil: and selecting all of the text and then "copying"it. Once this is done, close the markdown file - and make sure not to save any changes).
-- **Step 4:** Now go back to the wiki folder and select the "Create new file" button. Now in the Edit file section, paste all of the text. Be sure to name the file with your method. It should look like: opendesignkit/wiki/[methodname].md
-- **Step 5:** Write your method. Please keep in mind the design values and the primary goal of our kit being for distributed teams.
-- **Step 6:** Create a pull request. This can be done by scrolling to the bottom of the page where it says "commit new file". You should name the commit by including the method in the title. Then write a brief extended description. Finally, select the radio button titled "Create a new branch for this commit and start a pull request. Learn more about pull requests." Then select the "Commit new file" button.
-- **Step 7:** Fill out the github issue for the pull request. If you know another contributor on the project, this would be a good place to mention them as well as the issue that you wrote about the method in _Step 1_
-- **Step 8:** Now you are done with your submission. Stay alert! Someone who reviews your method, might suggest some changes before it's approved.
+Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md)for more information.
+The easiest way to dive in:
 
+1. If you've never contributed to project, reply to an Issue thread with a ["first-timer-friendly"](https://github.com/open-design-kit/opendesignkit/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timer-friendly) label. 
 
-An alternative method for the more technically inclined, is to push these edits to the wiki use the docs.sh bash script.  Run: `sh docs.sh `
+2. If you are repeat contributor, reply to an Issue thread with the ["help wanted"](https://github.com/open-design-kit/opendesignkit/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) label.
+
 
 # How to Use the Kit
 There is no set order of operations for getting started with the kit.  The idea is that once you find yourself in a jam, you can reference the kit to identify tools and practices to support you in getting from problem identification to solution, check out all the [methods](https://github.com/bocoup/opendesignkit/wiki/Method-Guides).
