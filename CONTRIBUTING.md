@@ -46,6 +46,6 @@ If you’re just getting started, here are some great articles to get you more c
 - [The Beginner's Guide to Contributing to a GitHub Project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
 - [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
 
-For Open Design Kit, we recommend following the outline of the article _Contributing to Open Source on GitHub_. If you aren't a maintainer or collaborator on Open Design Kit, you'll want to fork the repo, do your work, and then do a pull request to let us know what you've done. We can then have a discussion, if necessary, and merge in the work once it’s ready.
+If you aren't a maintainer or collaborator on Open Design Kit, you'll want to fork the repo, do your work, and then do a pull request to let us know what you've done. We can then have a discussion, if necessary, and merge in the work once it’s ready.
 
 If you still don’t feel comfortable working with the actual code and using Git and GitHub, don't worry, just open an issue as outlined above and we'll figure out how to get your ideas into the kit.
