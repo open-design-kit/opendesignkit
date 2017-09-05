@@ -23,7 +23,7 @@ So, why does the world need another compilation of tools? Here’s why:
 
 
 # How to get involved
-Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md)for more information.
+Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md) for more information.
 The easiest way to dive in:
 
 1. If you've never contributed to project, reply to an Issue thread with a ["first-timer-friendly"](https://github.com/open-design-kit/opendesignkit/issues?q=is%3Aopen+is%3Aissue+label%3Afirst-timer-friendly) label. 
