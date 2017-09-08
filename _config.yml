@@ -1,5 +1,13 @@
 title: Open Design Kit
-exclude: [README.md, Gemfile, Gemfile.lock, CNAME, params.json]
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - params.json
+  - Dockerfile
+  - 'docker-*.yml'
+  - '*.sh'
 collections:
     methods:
         output: true
