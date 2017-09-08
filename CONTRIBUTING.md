@@ -13,21 +13,21 @@ See something you think needs to be added, but you don't have time to do it your
 To create an issue on GitHub, go to the [Open Design Kit repository page](https://github.com/bocoup/opendesignkit) and click on “Issues” on the top tabs. From there click the “New Issue” green button on the upper right. You’ll need to be a GitHub user with an account to do this, so if you don’t have an account go ahead and create one!
 
 <figure class="figure">
-    <img src="/img/contribute/github-repo-arrow.png" alt="a view of the Open Design Kit repository, point out the issues tab" />
+    <img src="https://user-images.githubusercontent.com/535012/30083916-4ce2d954-925e-11e7-918f-7da5f81f78a9.png" alt="a view of the Open Design Kit repository, point out the issues tab" />
     <figcaption class="figcaption">The main page for the Open Design Kit repository, the “Issues” tab is second from left.</figcaption>
 </figure>
 
 From there click the “New Issue” green button on the upper right.
 
 <figure class="figure">
-    <img src="/img/contribute/github-issues-list-arrow.png" alt="GitHub issue list" />
-    <figcaption class="figcaption">The issue page for Open Design Kit, click the green button to start an issue.</figcaption>
+<img src="https://user-images.githubusercontent.com/535012/30083918-4fb37eae-925e-11e7-908a-d00c67e58148.png" alt="GitHub issue list" />
+<figcaption class="figcaption">The issue page for Open Design Kit, click the green button to start an issue.</figcaption>
 </figure>
 
 First, give your issue a title. This should briefly but clearly identify the content, because that’s what will show up in the list of issues. Then you’ll want to tell us what’s going on. Do you want to write a method? Cool, let us know which one and what works best for you to write it, such as a Google Doc, a gist, or maybe you use something else you can share? One note: if you are familiar with markdown it’s helpful to write methods in that since we are using that as our base for the content of the site.
 
 <figure class="figure">
-    <img src="/img/contribute/github-issue-interface.png" alt="GitHub issue interface" />
+    <img src="https://user-images.githubusercontent.com/535012/30083922-5434b754-925e-11e7-94b3-5a561f2ff5a9.png" alt="GitHub issue interface" />
     <figcaption class="figcaption">The issue interface on GitHub, it's helpful to write a title that easily identifies the subject matter since it shows up on the main issues list.</figcaption>
 </figure>
 
