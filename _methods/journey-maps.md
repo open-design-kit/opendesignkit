@@ -49,3 +49,4 @@ Small (1 -2 hours per persona)
 ## Learn More:
 * [All You Need To Know about Customer Journey Mapping ](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/)
 * [Using Customer Journey  to Improve Customer Experience](https://hbr.org/2010/11/using-customer-journey-maps-to)
+* [A Beginners' Guide to User Journey Mapping](https://www.appcues.com/blog/user-journey-map)
