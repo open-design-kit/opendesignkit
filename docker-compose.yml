@@ -1,0 +1,22 @@
+version: '2'
+services:
+  app:
+    build: .
+    volumes:
+      - .:/odk
+      - node-modules:/odk/node_modules/
+      - root:/root/
+      - bundle:/usr/local/bundle/
+    environment:
+      - LANG=C.UTF-8
+      - LANGUAGE=C.UTF-8
+      - LC_ALL=C.UTF-8
+    working_dir: /odk
+    command: jekyll serve --force_polling --H 0.0.0.0 -P 4000 --incremental
+    ports:
+      - 4000:4000
+    stop_signal: SIGKILL
+volumes:
+  node-modules:
+  root:
+  bundle:
