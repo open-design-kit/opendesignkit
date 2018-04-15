@@ -17,6 +17,23 @@ So, why does the world need another compilation of tools? Here’s why:
 - To share open educational resources to support design literacy
 
 
+# Running the kit locally
+
+If you're comfortable with the command-line and the [Jekyll][] static site generator, you can run the kit locally on your machine and make changes to it.
+
+If you're already familiar with Ruby, you can set up and run the site via bundler.
+
+However, if you're unfamiliar with Ruby or just want to get started more quickly, you can use [Docker Community Edition][docker].  Once you've downloaded and installed it, `cd` into the repository's root directory in your terminal and run:
+
+```
+docker-compose up
+```
+
+You may need to wait a while for it to download dependencies. Once it's done, you can visit http://localhost:4000/ to view the site.
+
+[jekyll]: https://jekyllrb.com/
+[docker]: https://www.docker.com/community-edition
+
 # How to get involved
 Please see the [contributing doc](https://github.com/bocoup/opendesignkit/blob/master/CONTRIBUTING.md) for more information.
 The easiest way to dive in:
