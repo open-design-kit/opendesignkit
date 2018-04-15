@@ -23,7 +23,7 @@ If you're comfortable with the command-line and the [Jekyll][] static site gener
 
 If you're already familiar with Ruby, you can set up and run the site via bundler.
 
-However, if you're unfamiliar with Ruby or just want to get started more quickly, you can use [Docker Community Edition][docker].  Once you've downloaded and installed it, `cd` into the repository's root directory in your terminal and run:
+However, if you're unfamiliar with Ruby or just want to get started more quickly, you can use [Docker Community Edition][docker].  Once you've downloaded and installed Docker, `cd` into the repository's root directory in your terminal and run:
 
 ```
 docker-compose up
