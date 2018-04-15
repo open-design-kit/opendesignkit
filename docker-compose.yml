@@ -3,8 +3,8 @@ services:
   app:
     image: jekyll/jekyll:3.7.3
     volumes:
-      - .:/srv/jekyll
-      - bundle:/usr/local/bundle
+      - .:/srv/jekyll:delegated
+      - bundle:/usr/local/bundle:delegated
     ports:
       - 4000:4000
     command: jekyll serve --force_polling -P 4000 --config _config.yml,_config_dev.yml
