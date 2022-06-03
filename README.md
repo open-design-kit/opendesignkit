@@ -1,5 +1,6 @@
 <img width="328" alt="screen shot 2016-06-21 at 4 00 38 pm" src="https://cloud.githubusercontent.com/assets/535012/16244325/677c0bbe-37c9-11e6-8b73-9c8587dd5902.png">
 
+🗣 _New: We're talking about the future of Open Design Kit on Slack. [Join us!](https://tf9xem2ua0c.typeform.com/to/fjtSZW1z)_
 
 # About
 Open Design Kit is maintained as an open source tool. It's design for collaborators who are not co-located, with a variety of skill levels. No prior design experience is required for you to try out these methods, just an open mind. The Kit includes activities from ideation to implementation and is meant to evolve with use. To share your feedback or add a method, open an issue or pull request on our GitHub repository.
