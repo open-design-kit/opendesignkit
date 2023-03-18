@@ -4,5 +4,10 @@
             "pattern": "^/",
             "replacement" : "http://opendesignkit.org/"
         }
+    ],
+    "ignorePatterns" : [
+        {
+            "pattern" : "http://localhost"
+        }
     ]
 }
