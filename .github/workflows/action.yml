@@ -1,5 +1,5 @@
 name: Linkspector
-on: [pull_request]
+on: [pull_request,push,workflow_dispatch]
 jobs:
   check-links:
     name: runner / linkspector
